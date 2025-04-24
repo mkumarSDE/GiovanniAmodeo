@@ -1,0 +1,34 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Hero from '../components/Hero.astro';
+import About from '../components/About.astro';
+import Experience from '../components/Experience.astro';
+import Featured from '../components/Featured.astro';
+import Footer from '../components/Footer.astro';
+import Services from '../components/Services.astro'
+---
+
+<BaseLayout>
+	<Header />
+	<Hero />
+	<About />
+	<Experience />
+	<Services />
+	<Featured />
+	<Footer />
+	<script>
+		document.addEventListener('DOMContentLoaded', function () {
+		  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+		    anchor.addEventListener('click', function (e) {
+			  const targetId = (e.currentTarget as HTMLAnchorElement).getAttribute('href')!.substring(1);
+		      const target = document.getElementById(targetId);
+		      if (target) {
+			e.preventDefault();
+			target.scrollIntoView({ behavior: 'smooth' });
+		      }
+		    });
+		  });
+		});
+	      </script>
+</BaseLayout>

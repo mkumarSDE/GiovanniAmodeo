@@ -1,0 +1,94 @@
+---
+import ContactModal from '../components/ContactModal.astro';
+---
+
+<section id="services" class="py-24 px-6 bg-gray-50 text-gray-900 font-sans">
+        <div class="max-w-6xl mx-auto" x-data="{ contactModalOpen: false }">
+                <h2 class="text-4xl font-bold text-center mb-16">
+                        What I Offer
+                </h2>
+
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
+                        <!-- Strategic & Life Coaching -->
+                        <div
+                                class="bg-white/10 backdrop-blur-md border border-gray-200 rounded-2xl p-8 shadow-lg transition hover:scale-[1.02] duration-300"
+                        >
+                                <h3
+                                        class="text-2xl font-semibold flex items-center gap-2 mb-4"
+                                >
+                                        🧭 Strategic & Life Coaching
+                                </h3>
+                                <p class="text-gray-800 leading-relaxed">
+                                        Giovanni works privately with a select
+                                        group of executives, investors, and
+                                        founders seeking clarity in both
+                                        business and life. His coaching blends
+                                        decades of market experience with deep
+                                        emotional intelligence — helping leaders
+                                        recalibrate, refocus, and rise.
+                                </p>
+                                <ul
+                                        class="mt-5 list-disc list-inside text-gray-700 text-sm space-y-1"
+                                >
+                                        <li>
+                                                1:1 strategic alignment sessions
+                                        </li>
+                                        <li>
+                                                High-performance mindset
+                                                coaching
+                                        </li>
+                                        <li>
+                                                Navigating transitions, burnout,
+                                                and boardroom dynamics
+                                        </li>
+                                </ul>
+                        </div>
+
+                        <!-- Speaking & Moderation -->
+                        <div
+                                class="bg-white/10 backdrop-blur-md border border-gray-200 rounded-2xl p-8 shadow-lg transition hover:scale-[1.02] duration-300"
+                        >
+                                <h3
+                                        class="text-2xl font-semibold flex items-center gap-2 mb-4"
+                                >
+                                        🎤 Speaking & Moderation
+                                </h3>
+                                <p class="text-gray-800 leading-relaxed">
+                                        Giovanni is a trusted keynote speaker
+                                        and panel moderator across capital
+                                        markets and private equity circles. He
+                                        brings clarity, insight, and tempo to
+                                        stages — from investor roundtables to
+                                        global conferences.
+                                </p>
+                                <ul
+                                        class="mt-5 list-disc list-inside text-gray-700 text-sm space-y-1"
+                                >
+                                        <li>
+                                                Keynote addresses on market
+                                                trends & leadership
+                                        </li>
+                                        <li>Private roundtable moderation</li>
+                                        <li>
+                                                Host of 150+ off-the-record
+                                                fireside chats annually
+                                        </li>
+                                </ul>
+                        </div>
+                </div>
+
+                <div
+                        class="text-center mt-16"
+                        
+                >
+                        <a
+                                href="javascript:void(0)"
+                                @click="contactModalOpen = true"
+                                class="inline-block bg-white text-blue-900 font-bold py-3 px-6 rounded-full shadow hover:bg-sky-100 transition duration-300"
+                        >
+                                Let’s Connect
+                        </a>
+                </div>
+                <ContactModal />
+        </div>
+</section>

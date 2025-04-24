@@ -1,0 +1,72 @@
+---
+const experiences = [
+{
+    year: '2023',
+    title: 'Host, Ion Fireside Chat',
+    company: 'ION Analytics',
+    description: 'Host of 150+ closed-door fireside chats with global investors & executives.',
+    color: 'bg-orange-500',
+  },
+  {
+    year: '2020',
+    title: 'Chief Data Officer',
+    company: 'ION Analytics',
+    description: 'Led 600+ analysts; unified 30+ databases post-merger.',
+    color: 'bg-pink-500',
+  },
+  {
+    year: '2010',
+    title: 'Editor-in-Chief',
+    company: 'Mergermarket',
+    description: 'Scaled global team; launched Editorial Analytics division.',
+    color: 'bg-purple-600',
+  },
+  {
+    year: '2007',
+    title: 'Editor, EMEA',
+    company: 'Mergermarket & Wealthmonitor',
+    description: 'Led EMEA growth in Africa and Central Asia.',
+    color: 'bg-indigo-600',
+  },
+  {
+    year: '2003',
+    title: 'Correspondent',
+    company: 'Mergermarket',
+    description: 'Established Mergermarket’s footprint in Italy.',
+    color: 'bg-teal-600',
+  },
+
+];
+---
+
+<section id="timeline" class="py-20 bg-white">
+  <div class="max-w-7xl mx-auto px-4">
+    <h2 class="text-4xl font-bold text-center text-gray-800 mb-20">
+      Career Timeline
+    </h2>
+
+    <div class="relative grid grid-cols-1 md:grid-cols-5 gap-10 text-center">
+      <!-- Dashed Line -->
+      <div class="absolute top-8 left-0 right-0 h-1 border-t border-dashed border-gray-300 z-0"></div>
+
+      {experiences.map((item) => (
+        <div class="relative z-10 flex flex-col items-center">
+          <!-- Year Circle -->
+          <div class={`w-16 h-16 rounded-full ${item.color} text-white flex items-center justify-center font-bold text-lg shadow-lg`}>
+            {item.year}
+          </div>
+
+          <!-- Dot Connector -->
+          <div class="w-2 h-2 bg-gray-400 rounded-full my-2"></div>
+
+          <!-- Info Text -->
+          <div class="mt-2">
+            <h4 class="font-semibold text-gray-700">{item.title}</h4>
+            <p class="text-sm text-gray-500">{item.company}</p>
+            <p class="text-xs text-gray-600 mt-1">{item.description}</p>
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>
