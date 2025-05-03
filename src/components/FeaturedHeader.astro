@@ -1,0 +1,26 @@
+---
+import ContactModal from '../components/ContactModal.astro';
+---
+<div x-data="{contactModalOpen: false }">
+  <header
+    class="fixed w-full top-0 left-0 z-40 transition-all duration-300 bg-white/90 shadow-md backdrop-blur-md"
+  >
+    <div class="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
+      <a href="/" class="text-xl font-bold text-gray-800">
+        Giovanni Amodeo
+      </a>
+
+      <nav class="hidden md:flex space-x-6 font-medium text-gray-800">
+        <button 
+          @click="contactModalOpen = true"
+          type="button"
+          class="hover:text-blue-300 transition"
+        >
+          Contact Me
+        </button>
+      </nav>
+    </div>
+  </header>
+
+  <ContactModal />
+</div>
