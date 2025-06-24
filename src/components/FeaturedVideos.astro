@@ -1,0 +1,135 @@
+---
+import videoData from "../data/videos.json";
+
+console.log(videoData.length)
+
+const filteredVideos = videoData.filter(video => video.video_id && video.video_id.trim() !== "");
+
+console.log(filteredVideos.length)
+const videosPerPage = 30;
+const initialVideos = filteredVideos.slice(0, videosPerPage);
+---
+
+<section id="featured" class="py-20 px-6 bg-gray-50">
+  <div class="max-w-6xl mx-auto">
+    <h2 class="text-4xl font-bold text-center text-gray-800 mb-16">
+      🎥 Featured Interviews
+    </h2>
+
+    <div id="videos-container" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+      {initialVideos.map(video => (
+        <section id={video.video_id} class="bg-white rounded-lg shadow-md overflow-hidden">
+          <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
+            <div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
+              <iframe
+                src={`https://fast.wistia.net/embed/iframe/${video.video_id}`}
+                title={video.name}
+                allow="autoplay; fullscreen"
+                allowtransparency="true"
+                frameborder="0"
+                scrolling="no"
+                class="w-full h-full"
+              ></iframe>
+            </div>
+          </div>
+          <div class="p-4">
+            <h3 class="text-lg font-semibold text-gray-800">{video.name}</h3>
+          </div>
+        </section>
+      ))}
+    </div>
+
+    <div class="text-center mt-12">
+      <button id="load-more-btn" class="px-6 py-3 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition">
+        Load More
+      </button>
+    </div>
+
+    <div id="loading" class="text-center py-4 text-gray-500 hidden">
+      Loading more videos...
+    </div>
+
+    <!-- Embed all videos data safely -->
+    <script id="all-videos-data" type="application/json">
+      {JSON.stringify(videoData)}
+    </script>
+  </div>
+</section>
+
+<script type="module">
+  const container = document.getElementById('videos-container');
+  const loadMoreBtn = document.getElementById('load-more-btn');
+  const loadingIndicator = document.getElementById('loading');
+
+  // Parse videos JSON from script tag
+  const videosScript = document.getElementById('all-videos-data');
+  const videos = JSON.parse(videosScript.textContent);
+
+  const videosPerPage = 30;
+  let currentPage = 1;
+
+  function createVideoElement(video) {
+    const section = document.createElement('section');
+    section.id = video.video_id;
+    section.className = 'bg-white rounded-lg shadow-md overflow-hidden';
+
+    const wrapper = document.createElement('div');
+    wrapper.style.cssText = 'padding:56.25% 0 0 0;position:relative;';
+    wrapper.className = 'wistia_responsive_padding';
+
+    const innerWrapper = document.createElement('div');
+    innerWrapper.style.cssText = 'height:100%;left:0;position:absolute;top:0;width:100%;';
+    innerWrapper.className = 'wistia_responsive_wrapper';
+
+    const iframe = document.createElement('iframe');
+    iframe.src = `https://fast.wistia.net/embed/iframe/${video.video_id}`;
+    iframe.title = video.name;
+    iframe.allow = 'autoplay; fullscreen';
+    iframe.allowTransparency = 'true';
+    iframe.frameBorder = '0';
+    iframe.scrolling = 'no';
+    iframe.className = 'w-full h-full';
+
+    innerWrapper.appendChild(iframe);
+    wrapper.appendChild(innerWrapper);
+    section.appendChild(wrapper);
+
+    const info = document.createElement('div');
+    info.className = 'p-4';
+
+    const title = document.createElement('h3');
+    title.className = 'text-lg font-semibold text-gray-800';
+    title.textContent = video.name;
+
+    info.appendChild(title);
+    section.appendChild(info);
+
+    return section;
+  }
+
+  async function loadMoreVideos() {
+    loadMoreBtn.disabled = true;
+    loadingIndicator.classList.remove('hidden');
+
+    await new Promise(resolve => setTimeout(resolve, 800));
+
+    currentPage++;
+    const start = (currentPage - 1) * videosPerPage;
+    const end = start + videosPerPage;
+    const nextVideos = videos.slice(start, end);
+
+    nextVideos.forEach(video => {
+      const videoEl = createVideoElement(video);
+      container.appendChild(videoEl);
+    });
+
+    loadingIndicator.classList.add('hidden');
+    loadMoreBtn.disabled = false;
+
+    if (end >= videos.length) {
+      loadMoreBtn.style.display = 'none';
+    }
+  }
+
+  loadMoreBtn.addEventListener('click', loadMoreVideos);
+</script>

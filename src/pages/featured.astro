@@ -1,46 +1,19 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import FeaturedHeader from '../components/FeaturedHeader.astro';
-import Hero from '../components/Hero.astro';
-import About from '../components/About.astro';
-import Experience from '../components/Experience.astro';
-import Featured1 from '../components/Featured.astro';
+import VideoGallery from "../components/VideoGallery.jsx";
+import videoData from "../data/videos.json";
 import Footer from '../components/Footer.astro';
-import Services from '../components/Services.astro'
-import TrustedBy from '../components/TrustedBy.astro';
-import { imageConfig } from 'astro:assets';
-import Testimonial from '../components/Testimonial.astro';
 ---
 
 <BaseLayout>
-	<style>
-		body{
-			background: #f9fafb;
-		}
-	</style>
-	<FeaturedHeader />
-	<Featured1 />
-	<Footer />
-	<!-- <Hero />
-	<About />
-	<Experience />
-	<Services />
-	<Testimonial />
-	
-	<Featured />
-	<Footer />
-	<script>
-		document.addEventListener('DOMContentLoaded', function () {
-		  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-		    anchor.addEventListener('click', function (e) {
-			  const targetId = (e.currentTarget as HTMLAnchorElement).getAttribute('href')!.substring(1);
-		      const target = document.getElementById(targetId);
-		      if (target) {
-			e.preventDefault();
-			target.scrollIntoView({ behavior: 'smooth' });
-		      }
-		    });
-		  });
-		});
-	      </script> -->
+  <style>
+    body {
+      background: #f9fafb;
+    }
+  </style>
+
+  <FeaturedHeader />
+  <VideoGallery videos={videoData} client:load />
+  <Footer />
 </BaseLayout>

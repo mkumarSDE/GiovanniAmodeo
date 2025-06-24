@@ -1,0 +1,4879 @@
+[
+  {
+    "name": "Kasper Hansen",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/kasper-hansen-managing-partner-at-aip-management-on-why-specialisation-matters/",
+    "video_id": "",
+    "subtitle_file": "Kasper Hansen.txt",
+    "speaker_type": "Infrastructure Investment Manager",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "energy",
+    "company_name": "Aip Management",
+    "company_size": "Mid-Market"
+  },
+  {
+    "name": "David Wilton",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/david-wilton-chief-investment-officer-at-oister-global-on-outlook-for-indias-private-markets-in-2025/",
+    "video_id": "",
+    "subtitle_file": "David Wilton.txt",
+    "speaker_type": "Alternative Asset Manager",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "healthcare",
+    "company_name": "Oister Global",
+    "company_size": "Small"
+  },
+  {
+    "name": "Adam Turtle",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/adam-turtle-co-founder-at-rede-partner-on-identifying-trends-in-private-equity/",
+    "video_id": "",
+    "subtitle_file": "Adam Turtle.txt",
+    "speaker_type": "Private Equity Fundraising Advisory",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "europe",
+    "sector": "energy",
+    "company_name": "Rede Partner",
+    "company_size": "Small"
+  },
+  {
+    "name": "Michael Gahleitner",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/michael-gahleitner-managing-partner-at-triton-partners-on-corporate-carveout-opportunities/",
+    "video_id": "",
+    "subtitle_file": "Michael Gahleitner.txt",
+    "speaker_type": "Private Equity",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Triton Partners",
+    "company_size": "Mid-Market/Large"
+  },
+  {
+    "name": "Ted Goldthorpe and David Spreng",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/ted-goldthorpe-head-of-credit-at-bc-partners-and-david-spreng-founder-at-runway-growth-capital-on-the-outlook-for-private-credit-in-2025/",
+    "video_id": "",
+    "subtitle_file": "Ted Goldthorpe and David Spreng.txt",
+    "speaker_type": "Private Equity / Private Credit",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "finance",
+    "company_name": "Bc Partners And David Spreng Founder At Runway Growth Capital",
+    "company_size": "Large"
+  },
+  {
+    "name": "Simon Lancaster",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/sabrina-paseman-and-simon-lancaster-founders-at-omni-ventures-on-the-evolution-of-the-private-equity-industry/",
+    "video_id": "",
+    "subtitle_file": "Simon Lancaster.txt",
+    "speaker_type": "Venture Capital",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "technology",
+    "company_name": "Omni Ventures",
+    "company_size": "Small"
+  },
+  {
+    "name": "Sabrina Paseman",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/sabrina-paseman-and-simon-lancaster-founders-at-omni-ventures-on-the-evolution-of-the-private-equity-industry/",
+    "video_id": "",
+    "subtitle_file": "Sabrina Paseman.txt",
+    "speaker_type": "Venture Capital",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "technology",
+    "company_name": "Omni Ventures",
+    "company_size": "Small"
+  },
+  {
+    "name": "Alberto Gennarini",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/alberto-gennarini-founder-managing-partner-at-vitaleco-s-p-a-on-trends-in-the-consumer-space-in-italy/",
+    "video_id": "",
+    "subtitle_file": "Alberto Gennarini.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": null,
+    "geography": "europe",
+    "sector": "finance",
+    "company_name": "Vitaleco S P A",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Neil Evans",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/neil-evans-partner-at-clifford-chance-on-private-capital-trends-in-data-centers/",
+    "video_id": "",
+    "subtitle_file": "Neil Evans.txt",
+    "speaker_type": "International Law Firm",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "energy",
+    "company_name": "Clifford Chance",
+    "company_size": "Large"
+  },
+  {
+    "name": "Hooman Yazhari",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/hooman-yazhari-partner-at-michelman-robinson-on-business-transformation-to-create-value/",
+    "video_id": "",
+    "subtitle_file": "Hooman Yazhari.txt",
+    "speaker_type": "Law Firm",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "america",
+    "sector": "energy",
+    "company_name": "Michelman Robinson",
+    "company_size": "Mid-Market"
+  },
+  {
+    "name": "Matthew Strassberg",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/matthew-strassberg-partner-and-head-of-healthcare-at-mideuropa-on-how-to-bring-mideuropa-investment-themes-to-southern-europe/",
+    "video_id": "",
+    "subtitle_file": "Matthew Strassberg.txt",
+    "speaker_type": "Private Equity",
+    "topic": "value creation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "healthcare",
+    "company_name": "Mideuropa",
+    "company_size": "Mid-Market"
+  },
+  {
+    "name": "Aaron Ratner",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/aaron-ratner-executive-director-of-alternus-clean-energy-and-co-founder-of-vectr-carbon-partners-on-the-financing-and-deployment-of-climate-technologies-into-the-global-energy-transition/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "gs1vuxaa5y",
+    "subtitle_file": "Aaron Ratner.txt",
+    "speaker_type": "Renewable Energy Corporate",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Alternus Clean Energy And Co Founder Of Vectr Carbon Partners",
+    "company_size": "Mid-Market"
+  },
+  {
+    "name": "Aaron Sack",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/aaron-sack-head-of-morgan-stanley-capital-partners-mscp-on-operational-value-approach-in-private-equity-investing/",
+    "video_id": "tsy4srts61",
+    "subtitle_file": "Aaron Sack.txt",
+    "speaker_type": "Investment Bank PE Arm",
+    "topic": "mergers and acquisitions",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "finance",
+    "company_name": "Morgan Stanley Capital Partners Mscp",
+    "company_size": "Large"
+  },
+  {
+    "name": "Aditi Wanchoo",
+    "insights_link": "https://community.ionanalytics.com/aditi-wanchoo-senior-manager-of-human-rights-at-novartis-on-why-human-rights-and-modern-slavery-is-an-important-focus-for-corporates?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "7f32ciigry",
+    "subtitle_file": "Aditi Wanchoo.txt",
+    "speaker_type": "Pharmaceutical Corporate",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "asia",
+    "sector": "education",
+    "company_name": "Novartis",
+    "company_size": "Large"
+  },
+  {
+    "name": "Alaistar Brown",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/alastair-brown-founder-of-shard-credit-partners-on-how-to-increase-diversity-in-boards/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "rqjc7299oa",
+    "subtitle_file": "Alaistar Brown.txt",
+    "speaker_type": "Private Credit Lender",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "energy",
+    "company_name": "Shard Credit Partners",
+    "company_size": "Small/Mid-Market"
+  },
+  {
+    "name": "Alan Gauld",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/alan-gauld-senior-investment-director-apeot-lead-investment-manager-at-abrdn-on-private-assets-in-the-mid-market-space/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "6kujh62k08",
+    "subtitle_file": "Alan Gauld.txt",
+    "speaker_type": "Asset Manager",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "education",
+    "company_name": "Abrdn",
+    "company_size": "Large"
+  },
+  {
+    "name": "Alan Young",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/alan-gauld-senior-investment-director-on-private-assets-in-the-mid-market-space/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "6kujh62k08",
+    "subtitle_file": "Alan Young.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "education",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Alban Gerard",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/alban-gerard-partner-member-of-the-executive-committee-at-experienced-capital-on-identifying-opportunities-in-the-premium-consumer-brands-category/",
+    "video_id": "9mg0fnh57n",
+    "subtitle_file": "Alban Gerard.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "finance",
+    "company_name": "Experienced Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Albertus Rigter",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/albertus-rigter-partner-at-astra-asset-management-on-private-credit-trends/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "kwz33gyvwn",
+    "subtitle_file": "Albertus Rigter.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "germany",
+    "sector": "real estate",
+    "company_name": "Astra Asset Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Alessandro Santini",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/alessandro-santini-group-executive-board-member-ceresio-investors-on-the-role-of-private-capital-in-wealth-management/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "smkblz9gc7",
+    "subtitle_file": "Alessandro Santini.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": null,
+    "geography": "america",
+    "sector": "real estate",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Alex Abell",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/alex-abell-managing-partner-at-rcp-advisors-on-small-mid-market-investing-in-us/",
+    "video_id": "cdtr86ildx",
+    "subtitle_file": "Alex Abell.txt",
+    "speaker_type": "Private Equity Fund of Funds",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "energy",
+    "company_name": "Rcp Advisors",
+    "company_size": "Mid-Market"
+  },
+  {
+    "name": "Alex Dunev",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/alex-dunev-managing-partner-of-park-cities-management-on-identifying-niches-in-private-credit/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "enjb0vig7y",
+    "subtitle_file": "Alex Dunev.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "education",
+    "company_name": "Park Cities Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Alex Zhavoronkov",
+    "insights_link": "https://community.ionanalytics.com/alex-zhavoronkov-chairman-and-ceo-of-insilico-medicine-on-ai-in-drug-discovery?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "cghgqlyep5",
+    "subtitle_file": "Alex Zhavoronkov.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "Insilico Medicine",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Alfonso Erhardt",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/alfonso-erhardt-founder-of-oquendo-on-how-to-find-opportunities-in-private-credit-in-southern-europe/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "ae5tzcrmrq",
+    "subtitle_file": "Alfonso Erhardt.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "finance",
+    "company_name": "Oquendo",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Alina Aldambergen",
+    "insights_link": "https://community.ionanalytics.com/mergermarket-influencers-alina-aldambergen-chairman-of-kazakhstan-stock-exchange-on-the-stock-exchanges-role-in-attracting-capital-and-kazakhstan-investment?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "s88inxw7b1",
+    "subtitle_file": "Alina Aldambergen.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Kazakhstan Stock Exchange",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Allan Bertie",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/allan-bertie-managing-director-head-of-european-investment-banking-on-identifying-the-right-horse-to-back-in-a-buyout-process/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "j6szdnh4w6",
+    "subtitle_file": "Allan Bertie.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "education",
+    "company_name": "European Investment Banking",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Allan Dowie",
+    "insights_link": "https://community.ionanalytics.com/allan-dowie-co-founder-of-n4-ventures-on-entrepreneurs-landscape-in-scotland?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "o510p486w2",
+    "subtitle_file": "Allan Dowie.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "finance",
+    "company_name": "N4 Ventures",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Amit Bahri",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/amit-bahri-co-head-of-european-direct-lending-goldman-sachs-am-on-the-private-credit-outlook/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "j7c4lkqngw",
+    "subtitle_file": "Amit Bahri.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "Large"
+    ],
+    "geography": "uk",
+    "sector": "finance",
+    "company_name": "European Direct Lending Goldman Sachs Am",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Amit Kunal",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/amit-kunal-managing-partner-at-growtheum-capital-on-identifying-opportunities-in-south-east-asia/",
+    "video_id": "nnicl5cl11",
+    "subtitle_file": "Amit Kunal.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "Growtheum Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Amit Kunal",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/amit-kunal-managing-partner-at-growtheum-capital-on-identifying-opportunities-in-south-east-asia/",
+    "video_id": "nnicl5cl11",
+    "subtitle_file": "Amit Kunal.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "Growtheum Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Amit Kunal",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/amit-kunal-managing-partner-at-growtheum-capital-on-identifying-opportunities-in-south-east-asia/",
+    "video_id": "nnicl5cl11",
+    "subtitle_file": "Amit Kunal.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "Growtheum Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Amit Kunal",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/amit-kunal-managing-partner-at-growtheum-capital-on-identifying-opportunities-in-south-east-asia/",
+    "video_id": "nnicl5cl11",
+    "subtitle_file": "Amit Kunal.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "Growtheum Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Amit Varma",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/dr-amit-varma-managing-partner-at-quadria-capital-on-trends-in-healthcare-investing/",
+    "video_id": "0timyvyqrb",
+    "subtitle_file": "Amit Varma.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "Quadria Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Andre Hakkak",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/andre-hakkak-ceo-and-co-founder-of-white-oak-on-white-oak-differentiator-and-its-role-in-the-real-economy/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "5godjkzyh3",
+    "subtitle_file": "Andre Hakkak.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small"
+    ],
+    "geography": "united states",
+    "sector": "finance",
+    "company_name": "White Oak",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Andrea Mugnai & Stefano Coccia ",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/andrea-mugnai-founder-of-pm-partners-and-stefano-coccia-founder-of-cytech-on-best-practices-of-interaction-between-gp-and-portfolio-companies/",
+    "video_id": "y5nnzqel5s",
+    "subtitle_file": "Andrea Mugnai & Stefano Coccia.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small"
+    ],
+    "geography": "asia",
+    "sector": "technology",
+    "company_name": "Pm Partners And Stefano Coccia Founder Of Cytech",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Andrea Mugnai",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/andrea-mugnai-founder-of-pmpartners-on-buy-and-build-best-practices/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "hqdb007u8m",
+    "subtitle_file": "Andrea Mugnai.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "energy",
+    "company_name": "Pmpartners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Andrea Pescatori",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/andrea-pescatori-ver-capitals-ceo-on-the-italian-private-credit-outlook/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "p95jskypmn",
+    "subtitle_file": "Andrea Pescatori.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "retail",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Andreas Klein",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/andreas-klein-head-of-private-debt-at-pictet-asset-management-on-identifying-a-niche-in-private-credit/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "iwmk1m3hxn",
+    "subtitle_file": "Andreas Klein.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "finance",
+    "company_name": "Pictet Asset Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Andrew Cleland-Bogle ",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/andrew-cleland-bogle-partner-and-head-of-direct-lending-at-bridgepoint-on-the-europe-direct-lending-outlook-and-opportunities/",
+    "video_id": "cpuo5295wh",
+    "subtitle_file": "Andrew Cleland-Bogle.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "energy",
+    "company_name": "Bridgepoint",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Andrew Lockhart",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/andrew-lockhart-managing-partner-at-metrics-credit-partners-on-australian-private-debt-as-the-opportunity-for-global-investors/",
+    "video_id": "7meqnegrj8",
+    "subtitle_file": "Andrew Lockhart.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "real estate",
+    "company_name": "Metrics Credit Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Andrew McDonnell",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/andrew-mcdonnell-founder-and-managing-director-at-arrowpoint-capital-on-private-lending-trends-in-the-australian-lower-mid-market/",
+    "video_id": "5p16o8pvoh",
+    "subtitle_file": "Andrew McDonnell.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "finance",
+    "company_name": "Arrowpoint Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Andy Kuper",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/andy-kuper-ceo-founder-of-leapfrog-investments-on-the-private-equity-investments-from-purpose-to-impact/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "06hd2dq8le",
+    "subtitle_file": "Andy Kuper.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Leapfrog Investments",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Andy Lee",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/andy-lee-founder-and-cio-of-parallaxes-capital-on-tra-investing/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "cs6cqsb9x9",
+    "subtitle_file": "Andy Lee.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "education",
+    "company_name": "Parallaxes Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Angus Sedgwick",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/angus-sedgwick-ceo-of-optipay-on-trends-in-non-banking-finance-in-australia/",
+    "video_id": "xq2ntnn3hx",
+    "subtitle_file": "Angus Sedgwick.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "finance",
+    "company_name": "Optipay",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Angus Whiteley",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/angus-whiteley-ceo-of-stafford-capital-partners-on-addressing-clients-needs/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "lfb03xojnl",
+    "subtitle_file": "Angus Whiteley.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "america",
+    "sector": "energy",
+    "company_name": "Stafford Capital Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Anne Fossemalle",
+    "insights_link": "https://community.ionanalytics.com/anne-fossemalle-director-of-equity-funds-european-bank-for-reconstruction-and-development-ebrd",
+    "video_id": "2cphzh7stj",
+    "subtitle_file": "Anne Fossemalle.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "retail",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Anthony Chan",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/anthony-chan-ceo-of-isola-capital-on-the-private-alternatives-outlook/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "ildub1ity8",
+    "subtitle_file": "Anthony Chan.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "singapore",
+    "sector": "real estate",
+    "company_name": "Isola Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Anurag Tripathi",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/anurag-tripathi-co-founder-of-venture-soul-capital-on-private-credit-landscape-in-india/",
+    "video_id": "m3d41687m5",
+    "subtitle_file": "Anurag Tripathi.txt",
+    "speaker_type": "Unknown",
+    "topic": "mergers and acquisitions",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "Venture Soul Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Arsalan Karim",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/arsalan-karim-co-founder-at-healthwords-ai-on-trends-in-the-health-tech-space/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "eqau97yu8w",
+    "subtitle_file": "Arsalan Karim.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "energy",
+    "company_name": "Healthwords Ai",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Arvind Mathur",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/arvind-mathur-chairman-at-private-equity-pro-partners-on-india-investment-landscape/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "cak7k4mutg",
+    "subtitle_file": "Arvind Mathur.txt",
+    "speaker_type": "Unknown",
+    "topic": "leadership",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "Private Equity Pro Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Aurelie Hariton-Fardad",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/aurelie-hariton-fardad-head-of-emea-portfolio-management-at-metlife-investment-management-on-the-deep-dive-on-investment-grade-private-credit/",
+    "video_id": "fqtp3ypkbx",
+    "subtitle_file": "Aurelie Hariton-Fardad.txt",
+    "speaker_type": "Unknown",
+    "topic": "disruption",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "finance",
+    "company_name": "Metlife Investment Management On The Deep Dive",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Avantika Saisekar",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/avantika-saisekar-managing-director-at-wafra-on-esg-as-a-value-creation-tool-and-not-a-cost/",
+    "video_id": "iyesjx7nwm",
+    "subtitle_file": "Avantika Saisekar.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "europe",
+    "sector": "education",
+    "company_name": "Wafra",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Benedict Cheng",
+    "insights_link": "https://community.ionanalytics.com/mergermarket-influencers-benedict-cheng-pccws-chief-risk-officer-on-financial-compliance?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "c5ecx9aa5f",
+    "subtitle_file": "Benedict Cheng.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Benjamin Hubner",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/benjamin-hubner-managing-partner-of-sophora-on-how-emerging-manager-manages-to-raise-the-first-time-fund/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "cx2abccm8z",
+    "subtitle_file": "Benjamin Hubner.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "germany",
+    "sector": "technology",
+    "company_name": "Sophora",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Bertrand Badre",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/bertrand-badre-managing-partner-founder-of-blue-like-an-orange-sustainable-capital-on-the-role-of-a-responsible-manager/",
+    "video_id": "gxg4zs8q9q",
+    "subtitle_file": "Bertrand Badre.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "energy",
+    "company_name": "Blue Like An Orange Sustainable Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Beryl Li",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/beryl-li-founder-of-yield-guild-games-on-the-development-of-web3-community/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "d5vxdm597l",
+    "subtitle_file": "Beryl Li.txt",
+    "speaker_type": "Blockchain Gaming DAO",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "finance",
+    "company_name": "Yield Guild Games",
+    "company_size": "Small"
+  },
+  {
+    "name": "Bill Ammons",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/bill-ammons-partner-at-albacore-capital-on-the-european-private-credit-outlook/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "2f5y7b3b95",
+    "subtitle_file": "Bill Ammons.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "education",
+    "company_name": "Albacore Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Bill Lenihan",
+    "insights_link": "https://community.ionanalytics.com/bill-lenihan-ceo-of-zola-electric-on-building-a-company-identity-while-addressing-a-big-need-in-the-energy-sector?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "lq55i98lo6",
+    "subtitle_file": "Bill Lenihan.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Zola Electric",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Bill Nixon",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/bill-nixon-founder-of-maven-capital-on-how-to-identify-successful-niches-in-the-uk-mid-market/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "a9p4ry4y26",
+    "subtitle_file": "Bill Nixon.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "finance",
+    "company_name": "Maven Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Bogdan Gogulan",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/bogdan-gogulan-ceo-of-new-space-capital-on-space-economy-investment-outlook/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "kefm1sq5me",
+    "subtitle_file": "Bogdan Gogulan.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "uk",
+    "sector": "finance",
+    "company_name": "New Space Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Boyu Hu",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/boyu-hu-partner-and-founder-of-xvc-on-funds-pattern-seeking-strategy/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "bf1jhx09dz",
+    "subtitle_file": "Boyu Hu.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Xvc",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Brett Hickey",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/brett-hickey-chief-executive-officer-at-star-mountain-capital-on-creating-a-niche-in-private-credit-investing/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "sdhz7y2648",
+    "subtitle_file": "Brett Hickey.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "real estate",
+    "company_name": "Star Mountain Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Brian Dudley",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/brian-dudley-partner-at-adams-street-partners-on-attractiveness-of-growth-equity-as-asset-class/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "rlc6lwdcae",
+    "subtitle_file": "Brian Dudley.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "technology",
+    "company_name": "Adams Street Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Brian Higgins ",
+    "insights_link": "https://community.ionanalytics.com/dr-brian-higgins-vp-of-innovation-at-babcock-wilcox-bw-on-the-role-of-hydrogen-within-the-green-energy-future?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "0f4mtumrgo",
+    "subtitle_file": "Brian Higgins.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "energy",
+    "company_name": "Babcock Wilcox Bw",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Brian Schaffer",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/brian-schaffer-partner-at-prosek-on-navigating-crisis-and-complex-ma-in-a-highly-visible-private-markets/",
+    "video_id": "tc3m1gk0bm",
+    "subtitle_file": "Brian Schaffer.txt",
+    "speaker_type": "Unknown",
+    "topic": "leadership",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "finance",
+    "company_name": "Prosek",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Brooke Coburn",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/brooke-coburn-co-founder-partner-at-capitol-meridian-partners-on-identifying-opportunities-in-the-defence-sector/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "zj1b12stv4",
+    "subtitle_file": "Brooke Coburn.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "education",
+    "company_name": "Capitol Meridian Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Carlos Mendez",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/carlos-mendez-co-founder-and-managing-partner-of-crayhill-capital-management-on-trends-in-srt/",
+    "video_id": "euvd4r5fq9",
+    "subtitle_file": "Carlos Mendez.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "finance",
+    "company_name": "Crayhill Capital Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Carman Chan",
+    "insights_link": "https://community.ionanalytics.com/carman-chan-founder-of-click-ventures-on-the-current-outlook-of-lp-investment?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "hy1m528mjq",
+    "subtitle_file": "Carman Chan.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small"
+    ],
+    "geography": "china",
+    "sector": "technology",
+    "company_name": "Click Ventures",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Cecile Levi",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/cecile-mayer-levi-head-of-private-debt-at-tikehau-capital-on-identifying-a-niche-in-private-credit/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "5l1s9vg0wm",
+    "subtitle_file": "Cecile Levi.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "energy",
+    "company_name": "Tikehau Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Chai Chi Kit",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/chai-chi-kit-chief-investment-officer-at-seatown-on-identifying-opportunities-in-sea-sustainability-investments/",
+    "video_id": "1qmk6bqd9e",
+    "subtitle_file": "Chai Chi Kit.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "education",
+    "company_name": "Seatown",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Charles Fan",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/charles-fan-ceo-and-cio-of-jinyi-capital-on-identifying-investment-opportunities-and-understanding-the-asset-management-landscape-in-china/",
+    "video_id": "4rkhjwh6kk",
+    "subtitle_file": "Charles Fan.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Jinyi Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Charles-Edouard Bou\u00e9e",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/charles-edouard-bouee-co-founder-and-managing-partner-at-adagia-partners-on-emerging-managers-trends/",
+    "video_id": "1ufadd5aw1",
+    "subtitle_file": "Charles-Edouard Bou\u00e9e.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "healthcare",
+    "company_name": "Adagia Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Chenxi Wang",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/chenxi-wang-managing-general-partner-at-rain-capital-on-ai-security-and-trust/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "3ca21grcfp",
+    "subtitle_file": "Chenxi Wang.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "technology",
+    "company_name": "Rain Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Chris Acito",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/chris-acito-ceo-of-gapstow-capital-partners-on-the-us-alternative-credits-outlook/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "r55a8kg4zd",
+    "subtitle_file": "Chris Acito.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Gapstow Capital Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Chris Lawrence",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/chris-lawrence-managing-partner-of-labyrinth-capital-partners-on-identifying-a-niche-in-secondaries-investing/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "dz388zpgmg",
+    "subtitle_file": "Chris Lawrence.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "education",
+    "company_name": "Labyrinth Capital Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Christian Fritsch",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/christian-fritsch-founder-of-elf-capital-on-creating-its-own-niche-in-private-credit-market/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "m1sy61i73z",
+    "subtitle_file": "Christian Fritsch.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "germany",
+    "sector": "energy",
+    "company_name": "Elf Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Christian Noske",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/christian-noske-partner-at-ngp-capital-on-investment-landscape-between-europe-and-us/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "y104erz74v",
+    "subtitle_file": "Christian Noske.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "education",
+    "company_name": "Ngp Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Christoph Gort",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/christoph-gort-founding-partner-of-siglo-on-evolution-of-private-credit-market/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "zww8vk1ibn",
+    "subtitle_file": "Christoph Gort.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "education",
+    "company_name": "Siglo",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Christophe Carrasco",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/christophe-carrasco-head-of-private-assets-at-bnpp-asset-management-on-trends-in-private-credit/",
+    "video_id": "hsiwht4el7",
+    "subtitle_file": "Christophe Carrasco.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "finance",
+    "company_name": "Bnpp Asset Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Clare Murray",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/clare-murray-co-founder-of-blumen-and-kristian-ronn-ceo-of-normative-on-impact-investing-perspectives/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "we82bxajlc",
+    "subtitle_file": "Clare Murray.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Blumen And Kristian Ronn Ceo Of Normative",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Claudia Bertolino",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/claudia-bertolino-head-of-private-equity-and-private-credit-citco-fund-services-usa-on-private-market-trends/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "erfu03bkug",
+    "subtitle_file": "Claudia Bertolino.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "technology",
+    "company_name": "Private Equity And Private Credit Citco Fund Services Usa",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Cliff Zhang",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/cliff-zhang-chairman-and-ceo-of-templewater-on-operational-improvement-in-private-equity-in-asia/",
+    "video_id": "cr89cou7os",
+    "subtitle_file": "Cliff Zhang.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Templewater",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Coralie De Maesschalck",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/coralie-de-maesschalck-partner-at-kartesia-on-esg-and-how-to-carve-out-a-niche-in-sponsor-less-private-credit/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "c5r46hvv3a",
+    "subtitle_file": "Coralie De Maesschalck.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "uk",
+    "sector": "education",
+    "company_name": "Kartesia",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Cyril Demaria-Bengochea",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/cyril-demaria-bengochea-head-of-private-markets-strategy-at-julius-baer-on-how-to-identity-successful-strategies-in-private-markets/",
+    "video_id": "27p55nk6zi",
+    "subtitle_file": "Cyril Demaria-Bengochea.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "education",
+    "company_name": "Julius Baer",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Dan Robinson",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/dan-robinson-emea-head-of-alternative-credit-at-dws-on-creating-the-right-solutions-in-private-credit/",
+    "video_id": "raluutja91",
+    "subtitle_file": "Dan Robinson.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "real estate",
+    "company_name": "Dws",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Daniele Colantonio",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/daniele-colantonio-partner-and-executive-board-member-at-anthilia-on-identifying-a-niche-in-private-credit-in-italy/",
+    "video_id": "u9wfg9mt08",
+    "subtitle_file": "Daniele Colantonio.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Anthilia",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Danny Vroegop",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/danny-vroegop-cio-at-colesco-capital-on-identifying-niche-trend-in-sustainable-private-market-investing/",
+    "video_id": "2he4r3n352",
+    "subtitle_file": "Danny Vroegop.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "europe",
+    "sector": "energy",
+    "company_name": "Colesco Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Daphne Tong",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/daphne-tong-partner-co-head-of-investments-at-westcap-on-how-to-identify-a-niche-in-private-markets/",
+    "video_id": "0wxbbzuavd",
+    "subtitle_file": "Daphne Tong.txt",
+    "speaker_type": "Unknown",
+    "topic": "leadership",
+    "size": [
+      "large"
+    ],
+    "geography": "united states",
+    "sector": "education",
+    "company_name": "Westcap",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Dave Breazzano ",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/dave-breazzano-head-of-polen-capital-credit-team-on-finding-niche-opportunities-in-private-credit/",
+    "video_id": "1s6cyncmak",
+    "subtitle_file": "Dave Breazzano.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "education",
+    "company_name": "Polen Capital Credit Team",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "David Chung",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/david-chung-partner-and-co-chief-investment-officer-of-hggc-on-take-privates/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "uq5ioyy3rf",
+    "subtitle_file": "David Chung.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "technology",
+    "company_name": "Hggc",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "David Merriman",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/mdavid-merriman-head-of-private-debt-at-beechbrook-on-identifying-opportunities-in-the-mid-market/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "1sgfeqxl9t",
+    "subtitle_file": "David Merriman.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "uk",
+    "sector": "finance",
+    "company_name": "Beechbrook",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "David York",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/david-york-founder-and-general-partner-at-ttcp-on-observing-the-cycles-in-vc-investing/",
+    "video_id": "xmeww82p5i",
+    "subtitle_file": "David York.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "singapore",
+    "sector": "education",
+    "company_name": "Ttcp",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Dominic Wells",
+    "insights_link": "https://community.ionanalytics.com/dominic-wells-ceo-director-of-onfolio-holdings-on-how-to-make-repeated-online-digital-acquisitions?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "7rotesivbe",
+    "subtitle_file": "Dominic Wells.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "finance",
+    "company_name": "Onfolio Holdings",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Don Dimitrievich",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/don-dimitrievich-portfolio-manager-senior-managing-director-energy-infrastructure-credit-nuveen-on-infrastructure-credit-trends/",
+    "video_id": "zmkwld1bm8",
+    "subtitle_file": "Don Dimitrievich.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Dongik Lee",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/don-lee-director-general-of-asia-infrastructure-investment-bank-on-the-infrastructure-and-sustainability-investment-outlook/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "nfits7kwke",
+    "subtitle_file": "Dongik Lee.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Asia Infrastructure Investment Bank",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Doug Cruikshank",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/doug-cruikshank-managing-partner-founder-at-hark-capital-on-opportunities-in-nav-financing/",
+    "video_id": "b4wzmgh32m",
+    "subtitle_file": "Doug Cruikshank.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "finance",
+    "company_name": "Hark Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Durreen Shahnaz",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/durreen-shahnaz-founder-of-impact-investment-exchange-iix-and-iix-foundation-on-impact-investing-to-enhance-gender-equality/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "aji7jpr345",
+    "subtitle_file": "Durreen Shahnaz.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "education",
+    "company_name": "Impact Investment Exchange Iix And Iix Foundation",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Edo Pfennings",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/edo-pfennings-co-founder-at-mentha-capital-on-trends-in-impact-investing-and-sustainability/",
+    "video_id": "5j3emjc1ts",
+    "subtitle_file": "Edo Pfennings.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "energy",
+    "company_name": "Mentha Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Ella Hoxha",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/ella-hoxha-head-of-fixed-income-at-newton-investment-management-bny-mellon-group-on-empowering-female-leaders/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "b6ofrzxb7l",
+    "subtitle_file": "Ella Hoxha.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "asia",
+    "sector": "education",
+    "company_name": "Newton Investment Management Bny Mellon Group",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Elton Cheung",
+    "insights_link": "https://community.ionanalytics.com/elton-cheung-partner-at-vms-on-how-to-build-relationships-in-the-investors-segment?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "xg7g6kl8gm",
+    "subtitle_file": "Elton Cheung.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Vms",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Enis Hulli",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/enis-hulli-general-partner-at-500-startups-istanbul-on-investing-in-emerging-europe/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "84bayjwsk9",
+    "subtitle_file": "Enis Hulli.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "finance",
+    "company_name": "500 Startups Istanbul",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Eric Gallerne",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/eric-gallerne-managing-partner-co-head-of-private-debt-at-eurazeo-on-trends-in-the-private-credit-space/",
+    "video_id": "cbgyk982mv",
+    "subtitle_file": "Eric Gallerne.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "real estate",
+    "company_name": "Eurazeo",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Eric Muller",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/eric-muller-portfolio-manager-partner-ceo-bdcs-at-oak-hill-advisors-on-democratization-of-private-assets-in-private-credit/",
+    "video_id": "e9x4x4fk84",
+    "subtitle_file": "Eric Muller.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "education",
+    "company_name": "Oak Hill Advisors",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Eugene Zhang and Spencer Greene",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/eugene-zhang-tsvcs-founding-partner-and-spencer-greene-tsvcs-general-partner-on-chinese-firms-looking-to-venture-out-in-new-markets/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "jar1za8v0m",
+    "subtitle_file": "Eugene Zhang and Spencer Greene.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": null,
+    "geography": "china",
+    "sector": "energy",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Eugenio de Blasio",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/eugenio-de-blasio-founder-of-green-arrow-capital-on-sustainability-as-an-industry/",
+    "video_id": "evf109wk2l",
+    "subtitle_file": "Eugenio de Blasio.txt",
+    "speaker_type": "Asset Manager",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "energy",
+    "company_name": "Green Arrow Capital",
+    "company_size": "Mid-Market"
+  },
+  {
+    "name": "Eva Yazhari",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/eva-yazhari-managing-partner-at-beyond-capital-on-trends-in-sustainability/",
+    "video_id": "z547kjhdwt",
+    "subtitle_file": "Eva Yazhari.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "india",
+    "sector": "education",
+    "company_name": "Beyond Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Fan Xia",
+    "insights_link": "https://community.ionanalytics.com/fan-xia-cfo-of-sirio-pharma-on-women-leadership-in-finance?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "hccfe1m9q0",
+    "subtitle_file": "Fan Xia.txt",
+    "speaker_type": "Unknown",
+    "topic": "leadership",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Sirio Pharma",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Filippo Gaggini",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/filippo-gaggini-ceo-of-progressio-on-digitization-trends-in-italy/",
+    "video_id": "mubs6z06sw",
+    "subtitle_file": "Filippo Gaggini.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Progressio",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Finian Tan",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/finian-tan-chairman-and-cio-of-vickers-venture-partners-on-how-innovation-powers-vc-to-greater-return/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "pouv9x4mzm",
+    "subtitle_file": "Finian Tan.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Vickers Venture Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Francisco del Pozo",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/francisco-del-pozo-head-of-infrastructure-funds-area-on-how-to-start-a-scale-an-infra-fund/",
+    "video_id": "ivg1xi9qms",
+    "subtitle_file": "Francisco del Pozo.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "energy",
+    "company_name": "Infrastructure Funds Area",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Frank Danieli",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/frank-danieli-head-of-credit-investments-lending-at-ma-financial-group-on-the-private-credit-situation-in-australia-how-to-carve-out-a-niche-within-that/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "01e900dx4d",
+    "subtitle_file": "Frank Danieli.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "america",
+    "sector": "finance",
+    "company_name": "Ma Financial Group",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Funeka Montjane",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/funeka-montjane-ceo-of-personal-private-banking-at-standard-bank-on-promoting-women-leadership/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "5irtrn1nj5",
+    "subtitle_file": "Funeka Montjane.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Standard Bank",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Gareth Young",
+    "insights_link": "https://community.ionanalytics.com/gareth-young-head-of-international-strategy-of-livingbridge-on-driving-pe-firms-global-expansion?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "hfg608aiwr",
+    "subtitle_file": "Gareth Young.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "International Strategy Of Livingbridge",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Gary Leung",
+    "insights_link": "https://community.ionanalytics.com/gary-leung-head-of-alternatives-asia-pacific-at-jp-morgan-asset-management-on-alternatives-market-landscape-and-democratization-of-private-assets?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "jib7590vhz",
+    "subtitle_file": "Gary Leung.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "real estate",
+    "company_name": "Jp Morgan Asset Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Giovanna Dossena",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/giovanna-dossena-founder-of-avm-gestioni-on-how-influencers-will-affect-the-capital-market/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "ljcjszyibl",
+    "subtitle_file": "Giovanna Dossena.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "germany",
+    "sector": "finance",
+    "company_name": "Avm Gestioni",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Giulio Leucci and Juhani Sillanpaa",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/giulio-leucci-and-juhani-sillanpaa-founders-of-indevo-energy-on-opportunities-in-energy-decarbonization/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "yxyadmk8td",
+    "subtitle_file": "Giulio Leucci and Juhani Sillanpaa.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Indevo Energy",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Glenn Harrison",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/glenn-harrison-founder-of-lo3-capital-on-identifying-successful-niche-in-private-credit/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "kzlf7eez4u",
+    "subtitle_file": "Glenn Harrison.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "finance",
+    "company_name": "Lo3 Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Grant Nachman",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/grant-nachman-cio-ceo-of-shorecliff-asset-management-on-building-a-team-in-the-performing-credit-space/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "qlchrgtmiu",
+    "subtitle_file": "Grant Nachman.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "france",
+    "sector": "energy",
+    "company_name": "Shorecliff Asset Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Gustavo Cardenas",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/gustavo-cardenas-managing-director-at-wafra-on-trends-in-gp-stakes-investing/",
+    "video_id": "40r0gifprv",
+    "subtitle_file": "Gustavo Cardenas.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "energy",
+    "company_name": "Wafra",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Heath Zarin",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/heath-zarin-founder-of-emergevest-on-secondaries-and-industry-focus-supply-chain-investing/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "tkdocgcue9",
+    "subtitle_file": "Heath Zarin.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Emergevest",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Helen Wong",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/helen-wong-managing-partner-of-ac-ventures-on-impact-investing-outlook-and-di-for-portfolio-companies-industry/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "6v3dmzt1zg",
+    "subtitle_file": "Helen Wong.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Ac Ventures",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Henry Yuan",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/henry-yuan-general-manager-of-agricultural-bank-of-china-international-on-china-in-attracting-international-capital/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "imuhw6ji1p",
+    "subtitle_file": "Henry Yuan.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Agricultural Bank Of China International",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Hideaki Harada",
+    "insights_link": "https://community.ionanalytics.com/hideaki-harada-chief-strategy-officer-of-panasonic-connect-on-leadership-in-technology?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "w41ll0misr",
+    "subtitle_file": "Hideaki Harada.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "education",
+    "company_name": "Panasonic Connect",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Holly Sites",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/holly-stiles-partner-national-head-of-corporate-finance-at-grant-thornton-on-identifying-exit-options-for-entrepreneurs/",
+    "video_id": "3xo88w23lj",
+    "subtitle_file": "Holly Sites.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": null,
+    "geography": "uk",
+    "sector": "energy",
+    "company_name": "Grant Thornton",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Hui Hsing Ma",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/hui-hsing-ma-founder-of-blue7-on-family-offices-approach-to-impact-investing/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "4uvt5dbdzm",
+    "subtitle_file": "Hui Hsing Ma.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "education",
+    "company_name": "Blue7",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Ian Lee",
+    "insights_link": "https://community.ionanalytics.com/ian-lee-managing-partner-of-dewu-capital-on-reasons-to-invest-in-china?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "bw4mw0aaea",
+    "subtitle_file": "Ian Lee.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "Dewu Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Ian Patrick",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/ian-patrick-chief-investment-officer-at-australian-retirement-trust-on-the-private-market-in-australia-and-art-approach-to-it/",
+    "video_id": "10s4eda6ul",
+    "subtitle_file": "Ian Patrick.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "real estate",
+    "company_name": "Australian Retirement Trust",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Indranil Basu",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/indranil-basu-ceo-and-managing-partner-of-pearl-diver-capital-on-clos-as-a-specialized-asset-class-in-alternative-credit/",
+    "video_id": "hp5huk4tqw",
+    "subtitle_file": "Indranil Basu.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "finance",
+    "company_name": "Pearl Diver Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Itamar Volkov",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/itamar-volkov-managing-partner-of-frux-capital-on-identifying-a-niche-in-private-credit/",
+    "video_id": "a1b1ifmqea",
+    "subtitle_file": "Itamar Volkov.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "education",
+    "company_name": "Frux Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Ivo Hobson",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/ivo-hobson-head-of-uk-at-mutares-on-opportunities-in-corporate-carve-out/",
+    "video_id": "a6472zthto",
+    "subtitle_file": "Ivo Hobson.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "asia",
+    "sector": "finance",
+    "company_name": "Mutares",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Jaime McKenzie Forsyth",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/jaime-mckenzie-forsyth-partner-head-of-investment-team-at-monomoy-capital-on-promoting-diversity/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "3a19mr2cee",
+    "subtitle_file": "Jaime McKenzie Forsyth.txt",
+    "speaker_type": "Unknown",
+    "topic": "leadership",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "finance",
+    "company_name": "Monomoy Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "James Garner",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/dr-james-garner-ceo-at-percheron-therapeutics-on-trends-in-the-rare-diseases-niche/",
+    "video_id": "c3zwa0excd",
+    "subtitle_file": "James Garner.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "energy",
+    "company_name": "Percheron Therapeutics",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "James Hawkins",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/james-hawkins-partner-head-l1-capital-catalyst-fund-on-activism-in-australia",
+    "video_id": "xz8q8pstub",
+    "subtitle_file": "James Hawkins.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "finance",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "James Jin",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/james-jin-managing-partner-of-ventech-on-the-tech-investment-landscape-silicon-valley-vs-china/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "zfusj2u89a",
+    "subtitle_file": "James Jin.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "education",
+    "company_name": "Ventech",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "James O' Leary",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/james-oleary-partner-head-of-infrastructure-real-assets-at-stepstone-on-infrastructure-outlook-for-2024-2026/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "ylhnh4hwa4",
+    "subtitle_file": "James O' Leary.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": null,
+    "geography": "europe",
+    "sector": "finance",
+    "company_name": "Stepstone",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "James Tannahill",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/james-tannahill-president-private-equity-at-plocamium-holding-on-driving-value-creation/",
+    "video_id": "v7v99hd54r",
+    "subtitle_file": "James Tannahill.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "finance",
+    "company_name": "Plocamium Holding",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "James Tynan",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/james-tynan-partner-at-square-peg-capital-on-the-role-of-venture-capital-in-climate-and-ai/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "919g4refns",
+    "subtitle_file": "James Tynan.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Square Peg Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "James Wang",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/james-wang-managing-director-at-fosun-asset-management-on-identifying-niches-in-global-investing",
+    "video_id": "0yoyjb2m4s",
+    "subtitle_file": "James Wang.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Fosun Asset Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "James Zhang",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/james-zhang-chief-investment-officer-of-great-eagle-holdings-on-the-outlook-of-private-market/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "1wlolfl7hv",
+    "subtitle_file": "James Zhang.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Great Eagle Holdings",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Jason Shin",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/jason-shin-co-founding-partner-of-vig-partners-on-identifying-trends-in-mid-market-investing-in-korea/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "vssr7mdjg9",
+    "subtitle_file": "Jason Shin.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "real estate",
+    "company_name": "Vig Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Jeff Hammer",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/jeff-hammer-global-co-head-of-secondaries-at-manulife-on-how-to-find-uniqueness-in-the-secondary-market/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "4uv0duj5z9",
+    "subtitle_file": "Jeff Hammer.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "real estate",
+    "company_name": "Manulife",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Jeffrey Collins",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/jeffrey-collins-managing-partner-at-cloverlay-on-identifying-niches-in-intellectual-property-investing/",
+    "video_id": "xw43owhoo8",
+    "subtitle_file": "Jeffrey Collins.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "education",
+    "company_name": "Cloverlay",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Jehangir Vevaina",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/jehangir-vevaina-managing-partner-renewable-power-transition-at-brookfield-on-identifying-investment-niches-in-the-renewables-space/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "qic3c4152z",
+    "subtitle_file": "Jehangir Vevaina.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "energy",
+    "company_name": "Brookfield",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Jeroen Afink",
+    "insights_link": "https://community.ionanalytics.com/on-democratization-of-private-markets?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "653p9j388y",
+    "subtitle_file": "Jeroen Afink.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "education",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Jess Zhou",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/jess-zhou-ma-director-of-boehringer-ingelheim-on-culture-differences-in-cross-border-deal-negotiation-2/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "5s49x35nxm",
+    "subtitle_file": "Jess Zhou.txt",
+    "speaker_type": "Unknown",
+    "topic": "mergers and acquisitions",
+    "size": [
+      "small"
+    ],
+    "geography": "china",
+    "sector": "manufacturing",
+    "company_name": "Boehringer Ingelheim",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Jim Pittman",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/jim-pittman-evp-global-head-of-private-equity-at-bci-on-bcis-proposition-and-the-outlook-of-private-equity-market/",
+    "video_id": "vs5ne16dlk",
+    "subtitle_file": "Jim Pittman.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "energy",
+    "company_name": "Bci",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Joe Millward ",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/joe-millward-founding-partner-of-epsilon-direct-lending-on-evolution-of-the-private-credit-industry-in-australia/",
+    "video_id": "5sziifrk7b",
+    "subtitle_file": "Joe Millward.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "energy",
+    "company_name": "Epsilon Direct Lending",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Joe Qiao",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/joe-qiao-cio-of-globaltec-capital-on-building-an-effective-portfolio-allocation-for-family-offices/",
+    "video_id": "kqsgcff6ka",
+    "subtitle_file": "Joe Qiao.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "real estate",
+    "company_name": "Globaltec Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Joe Schorge",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/joe-schorge-managing-partner-of-isomer-capital-on-secondaries-trends-in-venture-capital/",
+    "video_id": "biesr9q844",
+    "subtitle_file": "Joe Schorge.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "large"
+    ],
+    "geography": "europe",
+    "sector": "education",
+    "company_name": "Isomer Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Joel Sandhu",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/joel-sandhu-co-founder-of-tta-on-how-to-identify-red-flags-in-gp-investing/",
+    "video_id": "kp21ojaqcf",
+    "subtitle_file": "Joel Sandhu.txt",
+    "speaker_type": "Unknown",
+    "topic": "leadership",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "germany",
+    "sector": "real estate",
+    "company_name": "Tta",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Johan Hultner",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/johan-hultner-senior-partner-and-ceo-of-arcos-capital/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "j9bx5fus8r",
+    "subtitle_file": "Johan Hultner.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "germany",
+    "sector": "finance",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Johan Rozali-Wathooth",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/johan-rozali-wathooth-founder-and-ceo-of-bintang-capital-on-creating-the-b-corp-community/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "6l6ggyi7bd",
+    "subtitle_file": "Johan Rozali-Wathooth.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Bintang Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "John Hartwell Cocke",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/john-hartwell-cocke-partner-and-deputy-cio-credit-at-corbin-capital-on-secondaries-in-private-debt/",
+    "video_id": "ssgjghktqh",
+    "subtitle_file": "John Hartwell Cocke.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "education",
+    "company_name": "Corbin Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "John Lykouretzos",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/john-lykouretzos-founder-and-ceo-of-focus-growth-on-identifying-a-niche-in-cannabis-investing/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "vrzfa378jm",
+    "subtitle_file": "John Lykouretzos.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "education",
+    "company_name": "Focus Growth",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "John Merrill",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/john-merrill-senior-executive-at-grove-street-on-building-private-equity-portfolios/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "nqva1cp8p5",
+    "subtitle_file": "John Merrill.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "healthcare",
+    "company_name": "Grove Street",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Johnny el Hachem",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/johnny-el-hachem-edmond-de-rothschild-pes-ceo-on-private-equity-and-demographics-sustainability-and-technology/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "q1etr4ors5",
+    "subtitle_file": "Johnny el Hachem.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Jose Epalza",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/jose-epalza-managing-partner-at-altamarcam-on-evolution-of-the-private-equity-sector-in-spain/",
+    "video_id": "q29wt2px3k",
+    "subtitle_file": "Jose Epalza.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "healthcare",
+    "company_name": "Altamarcam",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Joseph Healy",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/joseph-healy-founder-of-judo-bank-on-how-to-set-up-a-bank-in-australia/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "jbh5lfh8s2",
+    "subtitle_file": "Joseph Healy.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "real estate",
+    "company_name": "Judo Bank",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Joseph Siprut",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/joseph-siprut-founder-ceo-and-cio-of-kerberos-capital-management-on-identifying-a-niche-in-private-credit-financing/",
+    "video_id": "9hqwucaur6",
+    "subtitle_file": "Joseph Siprut.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "energy",
+    "company_name": "Kerberos Capital Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Josh Harlan",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/josh-harlan-founder-and-managing-partner-of-harlan-capital-partners-on-how-to-carve-out-a-niche-in-direct-lending/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "vpbroi4lzm",
+    "subtitle_file": "Josh Harlan.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "real estate",
+    "company_name": "Harlan Capital Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Josh Pottinger",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/josh-pottinger-senior-vp-private-wealth-management-ubs-on-the-evolution-of-private-wealth-advisory/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "k3yc44qcah",
+    "subtitle_file": "Josh Pottinger.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "education",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Julien Zornig",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/julien-zornig-managing-partner-at-astorius-capital-on-how-to-make-private-markets-more-transparent/",
+    "video_id": "yh2bdoetfv",
+    "subtitle_file": "Julien Zornig.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "education",
+    "company_name": "Astorius Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Julius Chin",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/julius-chin-md-of-cachet-group-on-multifamily-offices-asset-allocation-approach-and-market-outlook-2024/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "cmom4r50se",
+    "subtitle_file": "Julius Chin.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "real estate",
+    "company_name": "Cachet Group",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Justin Ryan",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/justin-ryan-founder-of-glow-capital-on-how-to-successfully-raise-a-first-time-fund/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "oj9aq8rib8",
+    "subtitle_file": "Justin Ryan.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "finance",
+    "company_name": "Glow Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Kai Rintala",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/kai-rintala-managing-director-of-taaleri-energia-on-how-to-identify-opportunities-in-european-renewables/",
+    "video_id": "uvd8mblg20",
+    "subtitle_file": "Kai Rintala.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "europe",
+    "sector": "energy",
+    "company_name": "Taaleri Energia",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Karen Page",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/karen-page-general-partner-of-b-capital-on-the-go-to-market-for-technology-companies/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "gfklvysxtq",
+    "subtitle_file": "Karen Page.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "healthcare",
+    "company_name": "B Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Karsten Langer",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/karsten-langer-managing-partner-the-riverside-company-on-how-to-grow-resilient-portfolio-companies-in-mid-market/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "6w7dfpyau1",
+    "subtitle_file": "Karsten Langer.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Kazushige Kobayashi",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/kazushige-kobayashi-managing-director-at-mcp-asset-management-on-impact-and-climate-in-japan-vs-europe/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "r3d0lu52w0",
+    "subtitle_file": "Kazushige Kobayashi.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "technology",
+    "company_name": "Mcp Asset Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Ken Yasunaga",
+    "insights_link": "https://community.ionanalytics.com/ken-yasunaga-co-founder-global-hands-on-vc-on-taking-japanese-technology-global?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "kfguszltgo",
+    "subtitle_file": "Ken Yasunaga.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "technology",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Kent Chen",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/kent-chen-managing-director-and-head-of-asia-private-equity-of-neuberger-berman-on-navigating-the-large-and-diverse-asia-pe-market/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "ud1knfm2iq",
+    "subtitle_file": "Kent Chen.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "Asia Private Equity Of Neuberger Berman",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Khaled Khan",
+    "insights_link": "https://community.ionanalytics.com/khaled-khan-koi-ventures-founder-on-successful-entrepreneurship-globally-linked-and-local-empowerment-in-fintech?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "5n3nwys1am",
+    "subtitle_file": "Khaled Khan.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": null,
+    "geography": "america",
+    "sector": "technology",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Kirk Konert",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/kirk-konert-managing-partner-at-ae-industrial-partners-on-identifying-opportunities-in-the-national-security-sector/",
+    "video_id": "js0xg1qcw6",
+    "subtitle_file": "Kirk Konert.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "technology",
+    "company_name": "Ae Industrial Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Kirsten Bode",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/kirsten-bode-co-head-of-private-debt-pan-europe-muzinich-on-identifying-a-successful-niche-in-mid-market-private-credit/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "xnmgoxtk00",
+    "subtitle_file": "Kirsten Bode.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "real estate",
+    "company_name": "Private Debt Pan Europe Muzinich",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Kristopher Ring",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/kristopher-ring-debt-finance-equity-partner-at-goodwin-on-the-evolution-of-private-credit/",
+    "video_id": "y3p67t6t85",
+    "subtitle_file": "Kristopher Ring.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "finance",
+    "company_name": "Goodwin",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Kunal Sood",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/kunal-sood-managing-director-private-equity-at-pantheon-on-private-market-outlook/",
+    "video_id": "2kbl9ddajg",
+    "subtitle_file": "Kunal Sood.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "education",
+    "company_name": "Pantheon",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Lakshmi Narayanan ",
+    "insights_link": "https://community.ionanalytics.com/lakshmi-narayanan-chairman-of-swfi-and-executive-of-patel-family-office-on-india-economic-outlook-and-lp-opportunities?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "k72s7kn4xp",
+    "subtitle_file": "Lakshmi Narayanan.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Swfi And Executive Of Patel Family Office",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Laurent Mignon",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/laurent-mignon-wendel-group-ceo-on-the-evolution-of-private-equity-as-an-asset-class/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "xf977hcujx",
+    "subtitle_file": "Laurent Mignon.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "france",
+    "sector": "energy",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Leo Fletcher-Smith",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/leo-fletcher-smith-managing-director-head-of-european-private-credit-strategy-at-aksia-on-the-evolution-of-the-private-credit-market/",
+    "video_id": "6lm19h366y",
+    "subtitle_file": "Leo Fletcher-Smith.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Aksia",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Leonard Clemens",
+    "insights_link": "https://community.ionanalytics.com/leonard-clemens-managing-partners-and-co-founder-at-cadence-growth-partners-on-investment-landscape-and-democratization-of-private-assets?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "j21gph4sbb",
+    "subtitle_file": "Leonard Clemens.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Cadence Growth Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Lisheng Wang",
+    "insights_link": "https://community.ionanalytics.com/lisheng-wang-partner-at-tsvc-on-deep-tech-entrepreneurship?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "k618mi93z7",
+    "subtitle_file": "Lisheng Wang.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Tsvc",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Louis Godron",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/louis-godron-managing-partner-at-argos-wityu-on-how-to-combine-financial-and-environmental-performance-in-private-equity-investing/",
+    "video_id": "o29gh4omgq",
+    "subtitle_file": "Louis Godron.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "germany",
+    "sector": "energy",
+    "company_name": "Argos Wityu",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Luigi Terranova",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/luigi-terranova-riello-investimentis-ceo-on-the-italian-private-equity-outlook/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "g6debwn1yj",
+    "subtitle_file": "Luigi Terranova.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "germany",
+    "sector": "energy",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Maggie Arvedlund",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/maggie-arvedlund-ceo-and-managing-partner-of-turning-rock-partners-on-identifying-niche-in-private-capital-investing/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "c2walhot3h",
+    "subtitle_file": "Maggie Arvedlund.txt",
+    "speaker_type": "Unknown",
+    "topic": "leadership",
+    "size": [
+      "large"
+    ],
+    "geography": "america",
+    "sector": "real estate",
+    "company_name": "Turning Rock Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Manisha Girotra",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/manisha-girotra-ceo-of-moelis-india-on-the-outlook-for-india-2024-2026/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "4j1le61htz",
+    "subtitle_file": "Manisha Girotra.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "real estate",
+    "company_name": "Moelis India",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Manuel Noronha Andrade",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/manuel-noronha-andrade-ceo-of-ecs-capital-on-the-outlook-of-european-pe-markets-consolidation-trend-and-opportunities-in-portugal/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "cruc4vp7n8",
+    "subtitle_file": "Manuel Noronha Andrade.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "real estate",
+    "company_name": "Ecs Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Marc Utay",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/marc-utay-managing-partner-at-clarion-capital-on-opportunities-in-the-mid-market-private-structured-credit-space/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "tm3wvspbac",
+    "subtitle_file": "Marc Utay.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "finance",
+    "company_name": "Clarion Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Marcia Ellis",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/marcia-ellis-global-co-chair-of-the-private-equity-practice-at-morrison-foerster-on-where-the-opportunities-lie-in-asia-pacific/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "t8e8p4bd3l",
+    "subtitle_file": "Marcia Ellis.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "education",
+    "company_name": "Morrison Foerster",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Marco Busca",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/marco-busca-head-of-indirect-private-debt-at-generali-invest-on-the-evolution-of-the-private-credit-industry/",
+    "video_id": "orueq6opvr",
+    "subtitle_file": "Marco Busca.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "real estate",
+    "company_name": "Generali Invest",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Marcus Edwards-Jones",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/marcus-edward-jones-and-paul-de-gruchy-at-phoenix-copper-on-trends-in-the-copper-space/",
+    "video_id": "dadaheigd9",
+    "subtitle_file": "Marcus Edwards-Jones.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Phoenix Copper",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Mark Benedetti",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/mark-benedetti-executive-president-and-chairman-of-the-executive-committee-and-operations-committee-at-ardian-on-the-evolution-of-the-private-equity-industry/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "2qh5zu32jb",
+    "subtitle_file": "Mark Benedetti.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Ardian",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Mark Hoeing",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/mark-hoeing-president-and-ceo-of-cf-private-equity-on-identifying-sector-niches-in-pe-investing/",
+    "video_id": "6a41lll17g",
+    "subtitle_file": "Mark Hoeing.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "energy",
+    "company_name": "Cf Private Equity",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Markus Geiger",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/markus-geiger-head-of-private-debt-at-oddo-bhf-asset-management-on-identifying-opportunities-in-the-lower-mid-market-in-the-dach-region/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "y9o85fkagu",
+    "subtitle_file": "Markus Geiger.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "real estate",
+    "company_name": "Oddo Bhf Asset Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Martin Moloney",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/martin-moloney-secretary-general-of-iosco-on-standards-in-sustainable-finance/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "uqupv1km4h",
+    "subtitle_file": "Martin Moloney.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "education",
+    "company_name": "Iosco",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Matteo Squilloni",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/matteo-squilloni-head-of-climate-transition-at-european-investment-fund-on-how-to-reach-net-zero/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "opu2hv5e19",
+    "subtitle_file": "Matteo Squilloni.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "germany",
+    "sector": "energy",
+    "company_name": "European Investment Fund",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Matteo Zenari",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/matteo-zenari-global-head-of-financial-sponsor-group-of-intesa-sanpaolo-on-capital-structure-alternatives/",
+    "video_id": "pm8vjou5ex",
+    "subtitle_file": "Matteo Zenari.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "finance",
+    "company_name": "Financial Sponsor Group Of Intesa Sanpaolo",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Matthew Prout",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/matthew-prout-managing-partner-at-falcon-investment-in-trends-in-the-credit-space/",
+    "video_id": "jz9ijoehvo",
+    "subtitle_file": "Matthew Prout.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "education",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Matthias Wilcken",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/matthias-wilcken-senior-partner-member-of-the-executive-committee-at-rivean-on-digitization-in-private-equity/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "1r442a5xv5",
+    "subtitle_file": "Matthias Wilcken.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "energy",
+    "company_name": "Rivean",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Mattis Poetter",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/mattis-poetter-partner-and-co-cio-of-arcmont-asset-management-on-how-to-carve-out-a-niche-in-private-credit/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "gexqy5knk8",
+    "subtitle_file": "Mattis Poetter.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "finance",
+    "company_name": "Arcmont Asset Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Mauro Moretti",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/mauro-moretti-founder-ceo-of-three-hills-on-how-to-identify-the-best-growth-options-for-entrepreneurs/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "9jx77coewp",
+    "subtitle_file": "Mauro Moretti.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "energy",
+    "company_name": "Three Hills",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Michael Fieweger",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/michael-fieweger-partner-baker-mckenzie-on-evolving-regulatory-landscape-for-the-private-equity-industry/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "68ioqmexai",
+    "subtitle_file": "Michael Fieweger.txt",
+    "speaker_type": "Unknown",
+    "topic": "value creation",
+    "size": [
+      "large"
+    ],
+    "geography": "america",
+    "sector": "technology",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Michael Pollan",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/michael-pollan-managing-partner-at-omnes-capital-on-identifying-niche-opportunities-in-the-renewable-sector/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "zen6earthg",
+    "subtitle_file": "Michael Pollan.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "germany",
+    "sector": "energy",
+    "company_name": "Omnes Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Michael Schad",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/michael-schad-partner-at-coller-capital-on-trends-in-credit-secondaries/",
+    "video_id": "e178waomgm",
+    "subtitle_file": "Michael Schad.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "education",
+    "company_name": "Coller Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Michael Spence",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/prof-michael-spence-nobel-prize-for-economics-2001-on-permacrisis/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "c6tbg1agvt",
+    "subtitle_file": "Michael Spence.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Michal Lange",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/michal-lange-partner-at-astorg-on-how-to-identify-the-niche-in-private-equity-and-secondaries/",
+    "video_id": "k6nqbwfq87",
+    "subtitle_file": "Michal Lange.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "europe",
+    "sector": "technology",
+    "company_name": "Astorg",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Michel Lowy",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/memichel-lowy-founder-and-ceo-of-sc-lowy-on-private-debt-investors-2024-outlook/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "ai47l3f37a",
+    "subtitle_file": "Michel Lowy.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "real estate",
+    "company_name": "Sc Lowy",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Mike Custar",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/mike-custar-managing-director-co-head-of-private-capital-advisory-at-william-blair-at-william-blair-on-opportunities-in-the-secondary-market/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "gp7e1tp4xs",
+    "subtitle_file": "Mike Custar.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "technology",
+    "company_name": "William Blair At William Blair",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Mike Davis",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/mike-davis-founder-of-causeway-am-on-how-to-identify-a-niche-in-australian-private-credit/",
+    "video_id": "r06g27lbvn",
+    "subtitle_file": "Mike Davis.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "real estate",
+    "company_name": "Causeway Am",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Mike Ewald",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/michael-ewald-global-head-of-bain-private-credit-group-on-mid-market-attractiveness-and-industry-specialization/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "jmditw44lw",
+    "subtitle_file": "Mike Ewald.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "real estate",
+    "company_name": "Bain Private Credit Group",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Miriam Wohlfarth",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/miriam-wohlfarth-co-founder-and-co-ceo-of-banxware-on-trends-in-embedded-finance/",
+    "video_id": "7q7o54yr6t",
+    "subtitle_file": "Miriam Wohlfarth.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "Banxware",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Monika Nachyla",
+    "insights_link": "https://community.ionanalytics.com/monika-nachyla-partner-at-abris-capital-partners-on-how-traditional-private-equity-firms-can-do-impact-investing?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "mog61ufsdv",
+    "subtitle_file": "Monika Nachyla.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "central europe",
+    "sector": "technology",
+    "company_name": "Abris Capital Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Mounir Corm",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/mounir-corm-deputy-ceo-founding-partner-at-vauban-infrastructure-partners-on-gps-role-in-infrastructure-investments",
+    "video_id": "43aekqcp3w",
+    "subtitle_file": "Mounir Corm.txt",
+    "speaker_type": "Unknown",
+    "topic": "leadership",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "energy",
+    "company_name": "Vauban Infrastructure Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Mubashir Mukadam",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/mubashir-mukadam-managing-partner-and-chief-investment-officer-of-blantyre-capital-on-the-private-credit-and-special-situations-outlook/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "k1phfifg2d",
+    "subtitle_file": "Mubashir Mukadam.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "uk",
+    "sector": "energy",
+    "company_name": "Blantyre Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Murong Yang",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/murong-yang-managing-director-and-head-of-capital-markets-at-future-capital-on-deep-tech-landscape-in-china/",
+    "video_id": "iup9nbrixc",
+    "subtitle_file": "Murong Yang.txt",
+    "speaker_type": "Venture Capital",
+    "topic": "innovation",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Future Capital",
+    "company_size": "Small/Mid-Market"
+  },
+  {
+    "name": "Nainesh Jaisingh",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/nainesh-jaising-partner-at-affirma-capital-on-how-to-build-a-private-equity-firm/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "rq81xnekuw",
+    "subtitle_file": "Nainesh Jaisingh.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "technology",
+    "company_name": "Affirma Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "\nNassim Cherchali",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/nassim-cherchali-managing-partner-at-anacap-on-how-to-identify-opportunities-in-financial-sector-in-lower-mid-market/",
+    "video_id": "2q0ekqa7sv",
+    "subtitle_file": "Nassim Cherchali.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "education",
+    "company_name": "Anacap",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Nathalie Richards",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/nathalie-richards-ceo-of-seo-london-on-dei-and-roi/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "wcm7cfwsoe",
+    "subtitle_file": "Nathalie Richards.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "education",
+    "company_name": "Seo London",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Nav Khosla",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/navjeewan-khosla-partner-of-novo-holdings-on-the-development-of-healthcare-portfolios/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "163t7to8nu",
+    "subtitle_file": "Nav Khosla.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "education",
+    "company_name": "Novo Holdings",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Neil Harper",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/neil-harper-chairman-at-turkven-on-investment-outlook-in-turkey-in-the-next-three-years/",
+    "video_id": "67rifmi0zd",
+    "subtitle_file": "Neil Harper.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "education",
+    "company_name": "Turkven",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Neno Raic",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/neno-raic-managing-partner-at-nlc-on-fund-financing/",
+    "video_id": "rhrebyf9qf",
+    "subtitle_file": "Neno Raic.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "education",
+    "company_name": "Nlc",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Nick Cleary",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/nick-cleary-senior-partner-at-vantage-infrastructure-on-infrastructure-lending-trends/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "5s26d3jqgy",
+    "subtitle_file": "Nick Cleary.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Vantage Infrastructure",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Nick James",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/nick-james-co-head-of-the-venture-growth-banking-group-at-lazard-on-the-growth-capital-landscape-trends/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "aqscemawpl",
+    "subtitle_file": "Nick James.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "energy",
+    "company_name": "Lazard",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Nicolas Wolikow + Simon Istolainen",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/nicolas-wolikow-and-simon-istolainen-founders-at-cure-51-on-the-intersection-between-data-science-and-tech/",
+    "video_id": "n9ite060zr",
+    "subtitle_file": "Nicolas Wolikow + Simon Istolainen.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small"
+    ],
+    "geography": "asia",
+    "sector": "technology",
+    "company_name": "Cure 51",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Nicole Downer",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/nicole-downer-managing-partner-at-mv-credit-on-defining-the-upper-mid-market-private-credit-space/",
+    "video_id": "49qgcyw4m0",
+    "subtitle_file": "Nicole Downer.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "real estate",
+    "company_name": "Mv Credit",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Nicole Kidd",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/nicole-kidd-head-of-private-debt-apac-schroders-capital-on-uniqueness-of-private-credit-in-australia/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "3vvnn7ecnn",
+    "subtitle_file": "Nicole Kidd.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "education",
+    "company_name": "Private Debt Apac Schroders Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Nishan Srinivasan",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/nishan-srinivasan-head-of-origination-and-partner-of-ambienta-credit-on-private-credit-outlook/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "9rpv5fagow",
+    "subtitle_file": "Nishan Srinivasan.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "education",
+    "company_name": "Origination And Partner Of Ambienta Credit",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Norma Chu",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/norma-chu-founder-of-daydaycook-on-trends-in-the-food-sector/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "hlid278t83",
+    "subtitle_file": "Norma Chu.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "Daydaycook",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Olav Ostin",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/olav-ostin-founder-and-managing-partner-at-tempocap-on-trends-in-secondaries-in-technology/",
+    "video_id": "t37wldm7fk",
+    "subtitle_file": "Olav Ostin.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "america",
+    "sector": "energy",
+    "company_name": "Tempocap",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Orlando Gemes",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/orlando-gemes-founder-and-chief-investment-officer-at-fourier-asset-management-on-how-to-use-data-to-identify-repeatable-alpha/",
+    "video_id": "e1atkvsta9",
+    "subtitle_file": "Orlando Gemes.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "technology",
+    "company_name": "Fourier Asset Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Patrick Dai",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/patrick-dai-cfo-of-ykc-clean-energy-on-the-build-of-renewable-infrastructures/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "kxfqocbh97",
+    "subtitle_file": "Patrick Dai.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Ykc Clean Energy",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Patrick William",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/patrick-william-co-founder-and-managing-director-at-rixon-capital-on-risk-return-trends-in-australian-market/",
+    "video_id": "7ztfqt5gp2",
+    "subtitle_file": "Patrick William.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "singapore",
+    "sector": "finance",
+    "company_name": "Rixon Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Paul Robine",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/paul-robine-founder-and-ceo-of-tr-capital-on-the-secondaries-in-asia/",
+    "video_id": "weleyef5pm",
+    "subtitle_file": "Paul Robine.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "Tr Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Pedro Tavares",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/pedro-tavares-founder-and-ceo-of-altimapa-on-buy-build-trends-and-opportunities-for-credit-funds/",
+    "video_id": "oqrczsi2n7",
+    "subtitle_file": "Pedro Tavares.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "real estate",
+    "company_name": "Altimapa",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Pete Robinson",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/pete-robinson-head-of-investment-strategy-fixed-income-at-challenger-investment-management-on-corporate-governance-issues/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "o2fo5r649w",
+    "subtitle_file": "Pete Robinson.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "real estate",
+    "company_name": "Challenger Investment Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Peter Bruce Clark",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/peter-bruce-clark-founder-of-kalytix-ventures-on-impact-investing-trends/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "fkyd0enugz",
+    "subtitle_file": "Peter Bruce Clark.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "education",
+    "company_name": "Kalytix Ventures",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Peter Harbula",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/peter-harbula-head-of-ma-at-group-spie-on-the-day-in-the-life-of-a-head-of-ma/",
+    "video_id": "7bpt55facb",
+    "subtitle_file": "Peter Harbula.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "energy",
+    "company_name": "Group Spie",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Peter Kirsch",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/peter-kirsch-founder-of-blue-marlin-partners-on-private-equity-firm-evolution/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "yo8yrcq3si",
+    "subtitle_file": "Peter Kirsch.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "energy",
+    "company_name": "Blue Marlin Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Peter Rothschild ",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/peter-rothschild-co-founder-managing-partner-at-rf-investment-partners-on-identifying-a-niche-in-mid-market-investing/",
+    "video_id": "0hxzecdov6",
+    "subtitle_file": "Peter Rothschild.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "education",
+    "company_name": "Rf Investment Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Peter Zollinger",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/peter-zollinger-head-of-impact-research-at-globalance-bank-on-the-central-role-of-asset-owners/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "t9e9vxuj32",
+    "subtitle_file": "Peter Zollinger.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": null,
+    "geography": "europe",
+    "sector": "energy",
+    "company_name": "Globalance Bank",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Phil Arbour",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/philippe-arbour-ceo-and-managing-partner-tresmares-capital-uk-on-privare-credit-trends/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "h0l5lm1sj8",
+    "subtitle_file": "Phil Arbour.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "real estate",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Philip Hu",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/philip-hu-founding-member-managing-director-of-primavera-capital-on-energy-transition-outlook/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "iqtacc0uyl",
+    "subtitle_file": "Philip Hu.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Primavera Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Pia Kall",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/pia-kall-ceo-of-capman-on-the-nordics-real-assets-investment-landscape/",
+    "video_id": "x0gk46bsd3",
+    "subtitle_file": "Pia Kall.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Capman",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Pierre Abadie",
+    "insights_link": "https://community.ionanalytics.com/pierre-abadie-group-climate-director-at-tikehau-capital-on-financial-innovation-and-the-decarbonization-of-the-global-economy?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "yph0d7ysfi",
+    "subtitle_file": "Pierre Abadie.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Tikehau Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Pietro Busnardo",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/pietro-busnardo-founder-managing-partner-at-gradiente-on-how-to-improve-family-owned-businesses/",
+    "video_id": "iy7eds07wy",
+    "subtitle_file": "Pietro Busnardo.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small"
+    ],
+    "geography": "america",
+    "sector": "finance",
+    "company_name": "Gradiente",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Pramod Ahuja",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/pramod-ahuja-partner-at-tata-capital-on-investment-outlook-in-india/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "kr7rum74h8",
+    "subtitle_file": "Pramod Ahuja.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "education",
+    "company_name": "Tata Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Pratima Rangarajan",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/dr-pratima-rangarajan-ceo-of-climate-investment-on-trends-in-impact-investing",
+    "video_id": "cf8rrt8wt4",
+    "subtitle_file": "Pratima Rangarajan.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "energy",
+    "company_name": "Climate Investment",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Raffaele de Courten",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/raffaele-de-courten-founding-partner-at-alto-partners-on-the-investment-landscape-in-italy-and-how-to-identify-a-niche/",
+    "video_id": "p3s8qd515b",
+    "subtitle_file": "Raffaele de Courten.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "education",
+    "company_name": "Alto Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Ralph Buechel",
+    "insights_link": "https://community.ionanalytics.com/ralph-buechel-partner-and-global-head-of-secondaries-at-unigestion-on-the-rise-of-the-secondary-market?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "5g5zax8pm8",
+    "subtitle_file": "Ralph Buechel.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "real estate",
+    "company_name": "Unigestion",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Ramzi Bibi",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/ramzi-bibi-head-of-treasury-and-investment-at-arabia-insurance-company-on-how-to-use-ai-in-capital-markets/",
+    "video_id": "6wwez9rxfh",
+    "subtitle_file": "Ramzi Bibi.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "technology",
+    "company_name": "Arabia Insurance Company",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Randy Schwimmer",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/randy-schwimmer-vice-chairman-at-churchill-asset-management-on-how-to-build-a-competitive-advantage-in-private-credit-investing/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "5707ebjp9b",
+    "subtitle_file": "Randy Schwimmer.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "finance",
+    "company_name": "Churchill Asset Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Reggie Mills ",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/reggie-mills-head-of-financial-institutions-group-at-liquidity-group-on-how-technology-can-help-the-deal-sourcing-workflow/",
+    "video_id": "v7p4s30qc8",
+    "subtitle_file": "Reggie Mills.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "large"
+    ],
+    "geography": "asia",
+    "sector": "finance",
+    "company_name": "Liquidity Group",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Reynir Indahl",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/reynir-indahl-founder-and-managing-partner-at-summa-equity-on-how-sustainable-investing-can-lead-to-superior-returns/",
+    "video_id": "5sohhvhl9h",
+    "subtitle_file": "Reynir Indahl.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "technology",
+    "company_name": "Summa Equity",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Rhett Pan",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/rhett-pan-managing-director-of-cbc-group-on-investor-and-entrepreneurs-perspective-of-the-medical-device-sector-landscape/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "plqijwnevi",
+    "subtitle_file": "Rhett Pan.txt",
+    "speaker_type": "Healthcare Investment Manager",
+    "topic": "innovation",
+    "size": [
+      "small"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Cbc Group",
+    "company_size": "Large"
+  },
+  {
+    "name": "Richard De Silva",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/richard-de-silva-founder-and-managing-partner-of-lateral-investment-management-on-how-to-find-a-niche-in-bootstrapped-companies-investing/",
+    "video_id": "iqscuk9chc",
+    "subtitle_file": "Richard De Silva.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "technology",
+    "company_name": "Lateral Investment Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Richard Sanders",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/richard-sanders-founder-and-managing-partner-of-sullivan-street-on-how-to-add-value-from-an-operational-point-of-view-in-a-private-equity-transaction/",
+    "video_id": "mpv39kg2vn",
+    "subtitle_file": "Richard Sanders.txt",
+    "speaker_type": "Unknown",
+    "topic": "leadership",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "energy",
+    "company_name": "Sullivan Street",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Rodolfo De Benedetti",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/rodolfo-de-benedetti-partner-at-decalia-capital-on-private-assets-trends/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "3t8yykglvv",
+    "subtitle_file": "Rodolfo De Benedetti.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "large"
+    ],
+    "geography": "europe",
+    "sector": "real estate",
+    "company_name": "Decalia Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Roger Moh",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/roger-moh-managing-director-of-vi-asset-management-on-the-future-of-private-credit-and-outlook-of-technology-in-investment/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "7w0j0s354r",
+    "subtitle_file": "Roger Moh.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Vi Asset Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Roland Dennert",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/roland-dennert-managing-partner-of-cipio-partners-on-attractiveness-of-software-investing/",
+    "video_id": "wevl4q0qfh",
+    "subtitle_file": "Roland Dennert.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "germany",
+    "sector": "real estate",
+    "company_name": "Cipio Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Ron Diamond",
+    "insights_link": "https://community.ionanalytics.com/ronald-diamond-founder-of-diamond-wealth-on-private-assets-trends?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "tabis21ekt",
+    "subtitle_file": "Ron Diamond.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Diamond Wealth",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Ron Geffner",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/ron-geffner-founding-member-of-the-executive-committee-of-sadis-on-the-day-in-the-life-of-a-fund-formation-lawyer/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "jxcw235laf",
+    "subtitle_file": "Ron Geffner.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "finance",
+    "company_name": "The Executive Committee Of Sadis",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Ross Morrow",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/ross-morrow-co-founder-of-dunport-capital-management-on-creating-a-niche-in-european-mid-market-private-lending/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "jg0fjt45sz",
+    "subtitle_file": "Ross Morrow.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "finance",
+    "company_name": "Dunport Capital Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Ruprecht Hellauer",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/dr-ruprecht-hellauer-founder-of-albulus-on-finding-the-right-opportunities-in-the-german-real-estate-market/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "scyle3t42s",
+    "subtitle_file": "Ruprecht Hellauer.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "real estate",
+    "company_name": "Albulus",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Ryan Donnar and Atiya Habib",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/ryan-donnar-and-atiya-habib-managing-partners-and-members-of-the-investment-committee-at-dinimus-on-private-credit-trends/",
+    "video_id": "619dl8dqd0",
+    "subtitle_file": "Ryan Donnar and Atiya Habib.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "finance",
+    "company_name": "Dinimus",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Sam Nallen Copley",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/sam-nallen-copley-founder-of-family-office-social-fos-on-the-day-in-the-life-of-a-family-office-adviser/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "ba0a9zp5bv",
+    "subtitle_file": "Sam Nallen Copley.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "education",
+    "company_name": "Family Office Social Fos",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Sam Phillips ",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/sam-phillips-ceo-of-reach-alternative-investments-on-democratization-of-private-assets/",
+    "video_id": "a5pa4hkylm",
+    "subtitle_file": "Sam Phillips.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "education",
+    "company_name": "Reach Alternative Investments",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Samira Ann Qassim",
+    "insights_link": "https://community.ionanalytics.com/samira-ann-qassim-founder-of-pink-salt-ventures-on-female-leadership?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "cz9e3kixh4",
+    "subtitle_file": "Samira Ann Qassim.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "education",
+    "company_name": "Pink Salt Ventures",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Saum Vahdat",
+    "insights_link": "https://community.ionanalytics.com/saum-vahdat-ceo-of-bridgewest-ventures-on-vcs-role-in-the-push-of-collaboration-between-private-and-public-sectors?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "h6ufp3dcrz",
+    "subtitle_file": "Saum Vahdat.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "education",
+    "company_name": "Bridgewest Ventures",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Scott McClurg",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/scott-mcclurg-head-of-private-credit-at-hsbc-asset-management-on-how-to-identify-a-niche-in-private-credit/",
+    "video_id": "rbg771ny3i",
+    "subtitle_file": "Scott McClurg.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "education",
+    "company_name": "Hsbc Asset Management",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Sean He",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/sean-he-partner-and-head-of-china-of-novo-holdings-on-investing-opportunities-in-healthcare-sector/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "8krar2vx9c",
+    "subtitle_file": "Sean He.txt",
+    "speaker_type": "Unknown",
+    "topic": "leadership",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "China Of Novo Holdings",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Sean Low",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/sean-low-ceo-and-cio-of-golden-vision-on-building-a-private-debt-portfolio/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "38si31ah29",
+    "subtitle_file": "Sean Low.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "real estate",
+    "company_name": "Golden Vision",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Sebastian Beer",
+    "insights_link": "https://community.ionanalytics.com/sebastian-beer-head-of-growth-equity-of-ttb-partners-on-how-new-technologies-and-human-intelligence-can-improve-fintech-investments?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "yysge7zhrx",
+    "subtitle_file": "Sebastian Beer.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "finance",
+    "company_name": "Growth Equity Of Ttb Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Sengal Selassie",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/sengal-selassie-ceo-and-founder-of-brightwood-capital-on-identifying-a-niche-in-private-credit-in-the-us/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "shcbobmiyh",
+    "subtitle_file": "Sengal Selassie.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "finance",
+    "company_name": "Brightwood Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Shankar Hemmady",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/shankar-hemmady-founder-of-blue-horizons-on-the-evolution-of-electronics-and-biotech/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "bilzvisxn4",
+    "subtitle_file": "Shankar Hemmady.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "education",
+    "company_name": "Blue Horizons",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Shaun Lim",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/shaun-lim-co-president-of-hopu-investments-on-democratization-of-private-assets-in-asia/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "iqucgy6gkm",
+    "subtitle_file": "Shaun Lim.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Hopu Investments",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Shiloh Bates",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/shiloh-bates-chief-investment-officer-at-flat-rock-capital-on-trends-in-the-clo-space/",
+    "video_id": "xsdwpt4e1l",
+    "subtitle_file": "Shiloh Bates.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "uk",
+    "sector": "energy",
+    "company_name": "Flat Rock Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Shyam Menon",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/shyam-menon-founder-of-bharat-innovations-fund-on-the-outlook-of-deeptech-investment-in-india/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "0bfl23bdrt",
+    "subtitle_file": "Shyam Menon.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Bharat Innovations Fund",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Simon Feiglin",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/simon-feiglin-managing-partner-of-riverside-on-finding-successful-niches-in-private-equity-in-australia/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "hrlxr79c8q",
+    "subtitle_file": "Simon Feiglin.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Riverside",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Simon Hopkins",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/simon-hopkins-ceo-of-milltrust-international-group-on-emerging-markets-multi-family-office-industry-trends/",
+    "video_id": "l0nc6lp2e5",
+    "subtitle_file": "Simon Hopkins.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Milltrust International Group",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Simon Moore",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/simon-moore-founder-of-colinton-capital-partners-on-identifying-trends-in-lower-mid-market-in-australia/",
+    "video_id": "478debbpwy",
+    "subtitle_file": "Simon Moore.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "technology",
+    "company_name": "Colinton Capital Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Staffan Jafs",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/staffan-jafs-head-of-private-equity-at-eq-on-identifying-successful-managers/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "r5wes46dnk",
+    "subtitle_file": "Staffan Jafs.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "education",
+    "company_name": "Eq",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Stefano Iamoni ",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/stefano-iamoni-ceo-of-consilium-on-how-to-find-b2b-opportunities-in-italy/",
+    "video_id": "7tp4dp7wfp",
+    "subtitle_file": "Stefano Iamoni.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "technology",
+    "company_name": "Consilium",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Stephan Ruoff",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/stephan-ruoff-co-head-of-private-debt-credit-alternatives-and-chairman-of-insurance-linked-securities-ils-schroders-capital-on-ils-trends/",
+    "video_id": "a9smafzz8x",
+    "subtitle_file": "Stephan Ruoff.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "education",
+    "company_name": "Private Debt Credit Alternatives And Chairman Of Insurance Linked Securities Ils Schroders Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Stephanie Heller ",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/stephanie-heller-founder-of-bootstrap-europe-on-growth-debt-trends/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "pzgm3np46x",
+    "subtitle_file": "Stephanie Heller.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "finance",
+    "company_name": "Bootstrap Europe",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Stephen Meade",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/stephen-meade-founder-of-green-wave-funding-on-green-and-blue-bonds-in-unlocking-sustainable-finance/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "lbzmyre1dv",
+    "subtitle_file": "Stephen Meade.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small"
+    ],
+    "geography": "america",
+    "sector": "finance",
+    "company_name": "Green Wave Funding",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Steve Brown and Phil Hodsdon",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/steve-brown-and-phil-hodsdon-founder-and-cro-of-portola-valley-partners-on-generative-ai-evolution/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "bbzaquzicl",
+    "subtitle_file": "Steve Brown and Phil Hodsdon.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Portola Valley Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Steve Lim",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/steve-suk-jung-lim-chairman-and-managing-partner-of-sjl-partners-on-private-equity-outlook-in-korea-for-2024-2026/",
+    "video_id": "cqc29bjbs4",
+    "subtitle_file": "Steve Lim.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Sjl Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Steven Ruby",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/steven-ruby-co-head-of-originated-debt-at-audax-private-debt-on-how-to-identify-uniqueness-and-niche-in-private-credit/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "ge12gyn5vx",
+    "subtitle_file": "Steven Ruby.txt",
+    "speaker_type": "Unknown",
+    "topic": "leadership",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "energy",
+    "company_name": "Audax Private Debt",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Stuart Cook",
+    "insights_link": "https://community.ionanalytics.com/stuart-cook-founding-partner-at-twiyo-capital-on-promoting-health-wellbeing-as-an-investor-and-former-entrepreneur?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "46lj3ptk67",
+    "subtitle_file": "Stuart Cook.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "education",
+    "company_name": "Twiyo Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Subahoo Chordia",
+    "insights_link": "https://ionanalytics.com/insights/infralogic/subahoo-chordia-president-and-head-real-assets-funds-business-edelweiss-alternatives-on-energy-transition-investment-theme-across-asset-classes/",
+    "video_id": "uisadbp9mz",
+    "subtitle_file": "Subahoo Chordia.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "india",
+    "sector": "energy",
+    "company_name": null,
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Sumeet Gulati",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/sumeet-gulati-founder-and-managing-partner-of-genui-partners-on-the-evolution-of-impact-investing/",
+    "video_id": "4s16n0yrjz",
+    "subtitle_file": "Sumeet Gulati.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Genui Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Sunaina Sinha",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/sunaina-sinha-global-head-of-the-private-capital-advisory-group-at-raymond-james-on-the-evolution-of-the-secondary-market/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "ggyg3nob20",
+    "subtitle_file": "Sunaina Sinha.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "finance",
+    "company_name": "Raymond James",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Suzanne Kumar",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/suzanne-kumar-vice-president-of-global-ma-practice-at-bain-company-on-the-outlook-of-global-ma-regulatory-concerns-genai-and-ma-as-value-creation/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "shg597jfb2",
+    "subtitle_file": "Suzanne Kumar.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "large"
+    ],
+    "geography": "asia",
+    "sector": "technology",
+    "company_name": "Bain Company",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Symon Drake-Brockman",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/symon-drake-brockman-managing-partner-and-co-founder-of-pemberton-on-private-credit-trends-and-nav-lending/",
+    "video_id": "e8f6ojzqhs",
+    "subtitle_file": "Symon Drake-Brockman.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "united states",
+    "sector": "finance",
+    "company_name": "Pemberton",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Tagar Olson",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/tagar-olson-founding-partner-at-integrum-on-thematic-approach-in-private-equity-investing/",
+    "video_id": "pv1o3k0fig",
+    "subtitle_file": "Tagar Olson.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "finance",
+    "company_name": "Integrum",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Tai Lin",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/tai-lin-managing-partner-of-proterra-investment-partners-asia-on-investing-in-food/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "r6qh6i17uo",
+    "subtitle_file": "Tai Lin.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Proterra Investment Partners Asia",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Ted Goldthorpe",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/ted-goldthorpe-partner-head-of-bc-partners-credit-on-identifying-a-niche-in-private-credit/",
+    "video_id": "w99q5s0n7s",
+    "subtitle_file": "Ted Goldthorpe.txt",
+    "speaker_type": "Private Equity / Private Credit",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "real estate",
+    "company_name": "Bc Partners Credit",
+    "company_size": "Large"
+  },
+  {
+    "name": "Theodore Shou",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/theodore-shou-chief-investment-officer-of-skybound-capital-on-creating-a-niche-in-private-credit-investing/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "tgh5w2lqo3",
+    "subtitle_file": "Theodore Shou.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "Skybound Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Thierry Chignon",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/thierry-chignon-managing-partner-at-merieux-equity-partners-on-investments-trends-in-healthcare/",
+    "video_id": "msypay8bzu",
+    "subtitle_file": "Thierry Chignon.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "healthcare",
+    "company_name": "Merieux Equity Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Thomas de Waen",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/thomas-de-waen-managing-director-and-co-founder-of-core-equity-holdings-on-the-evolution-of-private-equity-in-2024-and-beyond/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "bymuvlnqes",
+    "subtitle_file": "Thomas de Waen.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "energy",
+    "company_name": "Core Equity Holdings",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Thomas Eskebaek",
+    "insights_link": "https://community.ionanalytics.com/thomas-eskebaek-ceo-of-titanbay-on-the-evolution-of-private-markets?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "1srf02la0c",
+    "subtitle_file": "Thomas Eskebaek.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Titanbay",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Tjarko Hector",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/tjarko-hektor-founder-of-new-2nd-capital-on-unlocking-value-in-gp-led-secondaries/",
+    "video_id": "olnyn0dane",
+    "subtitle_file": "Tjarko Hector.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "education",
+    "company_name": "New 2Nd Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Tom Gosling",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/tom-gosling-executive-fellow-at-london-business-school-on-executives-compensation-and-the-role-of-investors-on-climate-change/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "7tebumziyu",
+    "subtitle_file": "Tom Gosling.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "uk",
+    "sector": "finance",
+    "company_name": "London Business School On Executives Compensation And The Role Of Investors",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Troy Gayeski",
+    "insights_link": "https://community.ionanalytics.com/troy-gayeski-chief-market-strategist-of-fs-investments-on-the-democratization-of-alternative-investing?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "pgxd0b6dvj",
+    "subtitle_file": "Troy Gayeski.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "europe",
+    "sector": "real estate",
+    "company_name": "Fs Investments",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Udayan Goyal",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/udayan-goyal-co-founder-and-managing-partner-at-apis-partners-on-the-embedded-finance-trends/",
+    "video_id": "lm9a92piqy",
+    "subtitle_file": "Udayan Goyal.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "asia",
+    "sector": "real estate",
+    "company_name": "Apis Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Victoria Mesquita",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/victoria-mesquita-head-of-private-credit-special-situations-at-curtis-mallet-prevost-colt-mosle-llp-on-outlook-for-private-credit-in-mea/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "f1cijruzs5",
+    "subtitle_file": "Victoria Mesquita.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "finance",
+    "company_name": "Curtis Mallet Prevost Colt Mosle Llp",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Vikram Raju",
+    "insights_link": "https://community.ionanalytics.com/vikram-raju-head-of-climate-investing-of-morgan-stanley-on-climate-investing-opportunities?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "9uc155j876",
+    "subtitle_file": "Vikram Raju.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "asia",
+    "sector": "energy",
+    "company_name": "Climate Investing Of Morgan Stanley",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Wouter Kneepkens",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/wouter-kneepkens-partner-at-blauwpark-partners-on-family-offices-trends-in-singapore/",
+    "video_id": "ulb1h9lvwx",
+    "subtitle_file": "Wouter Kneepkens.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "education",
+    "company_name": "Blauwpark Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Yang Yang",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/yang-yang-managing-director-of-firstred-capital-on-data-services-industry-landscape-in-china/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "956211ztpi",
+    "subtitle_file": "Yang Yang.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "china",
+    "sector": "energy",
+    "company_name": "Firstred Capital",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Yann Robard",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/yann-robard-managing-partner-at-dawson-partners-on-how-to-identify-a-niche-in-the-secondary-market/",
+    "video_id": "anme3qua5a",
+    "subtitle_file": "Yann Robard.txt",
+    "speaker_type": "Unknown",
+    "topic": "innovation",
+    "size": null,
+    "geography": "uk",
+    "sector": "education",
+    "company_name": "Dawson Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Yohan Hills",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/yohan-hills-director-of-esg-and-responsible-investments-at-adam-street-partners-on-impact-framework-and-challenges/?utm_source=linkedin&utm_medium=social&utm_campaign=ion_analytics_influencers&utm_content=giovanni_amodeo",
+    "video_id": "d1dx9mu1v8",
+    "subtitle_file": "Yohan Hills.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "america",
+    "sector": "education",
+    "company_name": "Adam Street Partners",
+    "company_size": "Unknown"
+  },
+  {
+    "name": "Zachary Krug\n",
+    "insights_link": "https://ionanalytics.com/insights/debtwire/zac-krug-managing-director-of-northwall-on-litigation-finance-trends/",
+    "video_id": "5safswjb40",
+    "subtitle_file": "Zachary Krug.txt",
+    "speaker_type": "Unknown",
+    "topic": "growth",
+    "size": [
+      "small",
+      " large"
+    ],
+    "geography": "united states",
+    "sector": "education",
+    "company_name": "Northwall",
+    "company_size": "Unknown"
+  }
+]
