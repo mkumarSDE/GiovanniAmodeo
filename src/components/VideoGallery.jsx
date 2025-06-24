@@ -117,7 +117,7 @@ export default function VideoGallery({ videos }) {
                 >
                   <iframe
                     src={`https://fast.wistia.net/embed/iframe/${video.video_id}`}
-                    title={video.name}
+                    title={video.video_title}
                     allow="autoplay; fullscreen"
                     allowtransparency="true"
                     frameBorder="0"
@@ -127,7 +127,7 @@ export default function VideoGallery({ videos }) {
                 </div>
               </div>
               <div className="p-4">
-                <h3 className="text-lg font-semibold text-gray-800">{video.name}</h3>
+                <h3 className="text-lg font-semibold text-gray-800">{video.video_title}</h3>
               </div>
             </section>
           ))}
