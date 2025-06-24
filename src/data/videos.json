@@ -13,7 +13,8 @@
     "geography": "america",
     "sector": "energy",
     "company_name": "Aip Management",
-    "company_size": "Mid-Market"
+    "company_size": "Mid-Market",
+    "video_title": "Kasper Hansen Managing Partner At Aip Management On Why Specialisation Matters"
   },
   {
     "name": "David Wilton",
@@ -29,7 +30,8 @@
     "geography": "china",
     "sector": "healthcare",
     "company_name": "Oister Global",
-    "company_size": "Small"
+    "company_size": "Small",
+    "video_title": "David Wilton Chief Investment Officer At Oister Global On Outlook For Indias Private Markets In 2025"
   },
   {
     "name": "Adam Turtle",
@@ -44,7 +46,8 @@
     "geography": "europe",
     "sector": "energy",
     "company_name": "Rede Partner",
-    "company_size": "Small"
+    "company_size": "Small",
+    "video_title": "Adam Turtle Co Founder At Rede Partner On Identifying Trends In Private Equity"
   },
   {
     "name": "Michael Gahleitner",
@@ -60,7 +63,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Triton Partners",
-    "company_size": "Mid-Market/Large"
+    "company_size": "Mid-Market/Large",
+    "video_title": "Michael Gahleitner Managing Partner At Triton Partners On Corporate Carveout Opportunities"
   },
   {
     "name": "Ted Goldthorpe and David Spreng",
@@ -76,7 +80,8 @@
     "geography": "europe",
     "sector": "finance",
     "company_name": "Bc Partners And David Spreng Founder At Runway Growth Capital",
-    "company_size": "Large"
+    "company_size": "Large",
+    "video_title": "Ted Goldthorpe Head Of Credit At Bc Partners And David Spreng Founder At Runway Growth Capital On The Outlook For Private Credit In 2025"
   },
   {
     "name": "Simon Lancaster",
@@ -92,7 +97,8 @@
     "geography": "europe",
     "sector": "technology",
     "company_name": "Omni Ventures",
-    "company_size": "Small"
+    "company_size": "Small",
+    "video_title": "Sabrina Paseman And Simon Lancaster Founders At Omni Ventures On The Evolution Of The Private Equity Industry"
   },
   {
     "name": "Sabrina Paseman",
@@ -108,7 +114,8 @@
     "geography": "europe",
     "sector": "technology",
     "company_name": "Omni Ventures",
-    "company_size": "Small"
+    "company_size": "Small",
+    "video_title": "Sabrina Paseman And Simon Lancaster Founders At Omni Ventures On The Evolution Of The Private Equity Industry"
   },
   {
     "name": "Alberto Gennarini",
@@ -121,7 +128,8 @@
     "geography": "europe",
     "sector": "finance",
     "company_name": "Vitaleco S P A",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Alberto Gennarini Founder Managing Partner At Vitaleco S P A On Trends In The Consumer Space In Italy"
   },
   {
     "name": "Neil Evans",
@@ -137,7 +145,8 @@
     "geography": "united states",
     "sector": "energy",
     "company_name": "Clifford Chance",
-    "company_size": "Large"
+    "company_size": "Large",
+    "video_title": "Neil Evans Partner At Clifford Chance On Private Capital Trends In Data Centers"
   },
   {
     "name": "Hooman Yazhari",
@@ -152,7 +161,8 @@
     "geography": "america",
     "sector": "energy",
     "company_name": "Michelman Robinson",
-    "company_size": "Mid-Market"
+    "company_size": "Mid-Market",
+    "video_title": "Hooman Yazhari Partner At Michelman Robinson On Business Transformation To Create Value"
   },
   {
     "name": "Matthew Strassberg",
@@ -168,7 +178,8 @@
     "geography": "uk",
     "sector": "healthcare",
     "company_name": "Mideuropa",
-    "company_size": "Mid-Market"
+    "company_size": "Mid-Market",
+    "video_title": "Matthew Strassberg Partner And Head Of Healthcare At Mideuropa On How To Bring Mideuropa Investment Themes To Southern Europe"
   },
   {
     "name": "Aaron Ratner",
@@ -184,7 +195,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Alternus Clean Energy And Co Founder Of Vectr Carbon Partners",
-    "company_size": "Mid-Market"
+    "company_size": "Mid-Market",
+    "video_title": "Aaron Ratner Executive Director Of Alternus Clean Energy And Co Founder Of Vectr Carbon Partners On The Financing And Deployment Of Climate Technologies Into The Global Energy Transition"
   },
   {
     "name": "Aaron Sack",
@@ -200,7 +212,8 @@
     "geography": "america",
     "sector": "finance",
     "company_name": "Morgan Stanley Capital Partners Mscp",
-    "company_size": "Large"
+    "company_size": "Large",
+    "video_title": "Aaron Sack Head Of Morgan Stanley Capital Partners Mscp On Operational Value Approach In Private Equity Investing"
   },
   {
     "name": "Aditi Wanchoo",
@@ -215,7 +228,8 @@
     "geography": "asia",
     "sector": "education",
     "company_name": "Novartis",
-    "company_size": "Large"
+    "company_size": "Large",
+    "video_title": "Aditi Wanchoo Senior Manager Of Human Rights At Novartis On Why Human Rights And Modern Slavery Is An Important Focus For Corporates"
   },
   {
     "name": "Alaistar Brown",
@@ -231,7 +245,8 @@
     "geography": "uk",
     "sector": "energy",
     "company_name": "Shard Credit Partners",
-    "company_size": "Small/Mid-Market"
+    "company_size": "Small/Mid-Market",
+    "video_title": "Alastair Brown Founder Of Shard Credit Partners On How To Increase Diversity In Boards"
   },
   {
     "name": "Alan Gauld",
@@ -247,7 +262,8 @@
     "geography": "america",
     "sector": "education",
     "company_name": "Abrdn",
-    "company_size": "Large"
+    "company_size": "Large",
+    "video_title": "Alan Gauld Senior Investment Director Apeot Lead Investment Manager At Abrdn On Private Assets In The Mid Market Space"
   },
   {
     "name": "Alan Young",
@@ -263,7 +279,8 @@
     "geography": "america",
     "sector": "education",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Alan Gauld Senior Investment Director On Private Assets In The Mid Market Space"
   },
   {
     "name": "Alban Gerard",
@@ -279,7 +296,8 @@
     "geography": "uk",
     "sector": "finance",
     "company_name": "Experienced Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Alban Gerard Partner Member Of The Executive Committee At Experienced Capital On Identifying Opportunities In The Premium Consumer Brands Category"
   },
   {
     "name": "Albertus Rigter",
@@ -295,7 +313,8 @@
     "geography": "germany",
     "sector": "real estate",
     "company_name": "Astra Asset Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Albertus Rigter Partner At Astra Asset Management On Private Credit Trends"
   },
   {
     "name": "Alessandro Santini",
@@ -308,7 +327,8 @@
     "geography": "america",
     "sector": "real estate",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Alessandro Santini Group Executive Board Member Ceresio Investors On The Role Of Private Capital In Wealth Management"
   },
   {
     "name": "Alex Abell",
@@ -324,7 +344,8 @@
     "geography": "america",
     "sector": "energy",
     "company_name": "Rcp Advisors",
-    "company_size": "Mid-Market"
+    "company_size": "Mid-Market",
+    "video_title": "Alex Abell Managing Partner At Rcp Advisors On Small Mid Market Investing In Us"
   },
   {
     "name": "Alex Dunev",
@@ -340,7 +361,8 @@
     "geography": "america",
     "sector": "education",
     "company_name": "Park Cities Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Alex Dunev Managing Partner Of Park Cities Management On Identifying Niches In Private Credit"
   },
   {
     "name": "Alex Zhavoronkov",
@@ -356,7 +378,8 @@
     "geography": "china",
     "sector": "finance",
     "company_name": "Insilico Medicine",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Alex Zhavoronkov Chairman And Ceo Of Insilico Medicine On Ai In Drug Discovery"
   },
   {
     "name": "Alfonso Erhardt",
@@ -372,7 +395,8 @@
     "geography": "uk",
     "sector": "finance",
     "company_name": "Oquendo",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Alfonso Erhardt Founder Of Oquendo On How To Find Opportunities In Private Credit In Southern Europe"
   },
   {
     "name": "Alina Aldambergen",
@@ -387,7 +411,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Kazakhstan Stock Exchange",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Mergermarket Influencers Alina Aldambergen Chairman Of Kazakhstan Stock Exchange On The Stock Exchanges Role In Attracting Capital And Kazakhstan Investment"
   },
   {
     "name": "Allan Bertie",
@@ -403,7 +428,8 @@
     "geography": "america",
     "sector": "education",
     "company_name": "European Investment Banking",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Allan Bertie Managing Director Head Of European Investment Banking On Identifying The Right Horse To Back In A Buyout Process"
   },
   {
     "name": "Allan Dowie",
@@ -419,7 +445,8 @@
     "geography": "uk",
     "sector": "finance",
     "company_name": "N4 Ventures",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Allan Dowie Co Founder Of N4 Ventures On Entrepreneurs Landscape In Scotland"
   },
   {
     "name": "Amit Bahri",
@@ -434,7 +461,8 @@
     "geography": "uk",
     "sector": "finance",
     "company_name": "European Direct Lending Goldman Sachs Am",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Amit Bahri Co Head Of European Direct Lending Goldman Sachs Am On The Private Credit Outlook"
   },
   {
     "name": "Amit Kunal",
@@ -449,7 +477,8 @@
     "geography": "china",
     "sector": "finance",
     "company_name": "Growtheum Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Amit Kunal Managing Partner At Growtheum Capital On Identifying Opportunities In South East Asia"
   },
   {
     "name": "Amit Kunal",
@@ -464,7 +493,8 @@
     "geography": "china",
     "sector": "finance",
     "company_name": "Growtheum Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Amit Kunal Managing Partner At Growtheum Capital On Identifying Opportunities In South East Asia"
   },
   {
     "name": "Amit Kunal",
@@ -479,7 +509,8 @@
     "geography": "china",
     "sector": "finance",
     "company_name": "Growtheum Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Amit Kunal Managing Partner At Growtheum Capital On Identifying Opportunities In South East Asia"
   },
   {
     "name": "Amit Kunal",
@@ -494,7 +525,72 @@
     "geography": "china",
     "sector": "finance",
     "company_name": "Growtheum Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Amit Kunal Managing Partner At Growtheum Capital On Identifying Opportunities In South East Asia"
+  },
+  {
+    "name": "Amit Kunal",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/amit-kunal-managing-partner-at-growtheum-capital-on-identifying-opportunities-in-south-east-asia/",
+    "video_id": "nnicl5cl11",
+    "subtitle_file": "Amit Kunal.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "Growtheum Capital",
+    "company_size": "Unknown",
+    "video_title": "Amit Kunal Managing Partner At Growtheum Capital On Identifying Opportunities In South East Asia"
+  },
+  {
+    "name": "Amit Kunal",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/amit-kunal-managing-partner-at-growtheum-capital-on-identifying-opportunities-in-south-east-asia/",
+    "video_id": "nnicl5cl11",
+    "subtitle_file": "Amit Kunal.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "Growtheum Capital",
+    "company_size": "Unknown",
+    "video_title": "Amit Kunal Managing Partner At Growtheum Capital On Identifying Opportunities In South East Asia"
+  },
+  {
+    "name": "Amit Kunal",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/amit-kunal-managing-partner-at-growtheum-capital-on-identifying-opportunities-in-south-east-asia/",
+    "video_id": "nnicl5cl11",
+    "subtitle_file": "Amit Kunal.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "Growtheum Capital",
+    "company_size": "Unknown",
+    "video_title": "Amit Kunal Managing Partner At Growtheum Capital On Identifying Opportunities In South East Asia"
+  },
+  {
+    "name": "Amit Kunal",
+    "insights_link": "https://ionanalytics.com/insights/mergermarket/amit-kunal-managing-partner-at-growtheum-capital-on-identifying-opportunities-in-south-east-asia/",
+    "video_id": "nnicl5cl11",
+    "subtitle_file": "Amit Kunal.txt",
+    "speaker_type": "Unknown",
+    "topic": "sustainability",
+    "size": [
+      "large"
+    ],
+    "geography": "china",
+    "sector": "finance",
+    "company_name": "Growtheum Capital",
+    "company_size": "Unknown",
+    "video_title": "Amit Kunal Managing Partner At Growtheum Capital On Identifying Opportunities In South East Asia"
   },
   {
     "name": "Amit Varma",
@@ -509,7 +605,8 @@
     "geography": "china",
     "sector": "finance",
     "company_name": "Quadria Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Dr Amit Varma Managing Partner At Quadria Capital On Trends In Healthcare Investing"
   },
   {
     "name": "Andre Hakkak",
@@ -524,7 +621,8 @@
     "geography": "united states",
     "sector": "finance",
     "company_name": "White Oak",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Andre Hakkak Ceo And Co Founder Of White Oak On White Oak Differentiator And Its Role In The Real Economy"
   },
   {
     "name": "Andrea Mugnai & Stefano Coccia ",
@@ -539,7 +637,8 @@
     "geography": "asia",
     "sector": "technology",
     "company_name": "Pm Partners And Stefano Coccia Founder Of Cytech",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Andrea Mugnai Founder Of Pm Partners And Stefano Coccia Founder Of Cytech On Best Practices Of Interaction Between Gp And Portfolio Companies"
   },
   {
     "name": "Andrea Mugnai",
@@ -555,7 +654,8 @@
     "geography": "europe",
     "sector": "energy",
     "company_name": "Pmpartners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Andrea Mugnai Founder Of Pmpartners On Buy And Build Best Practices"
   },
   {
     "name": "Andrea Pescatori",
@@ -571,7 +671,8 @@
     "geography": "china",
     "sector": "retail",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Andrea Pescatori Ver Capitals Ceo On The Italian Private Credit Outlook"
   },
   {
     "name": "Andreas Klein",
@@ -587,7 +688,8 @@
     "geography": "uk",
     "sector": "finance",
     "company_name": "Pictet Asset Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Andreas Klein Head Of Private Debt At Pictet Asset Management On Identifying A Niche In Private Credit"
   },
   {
     "name": "Andrew Cleland-Bogle ",
@@ -603,7 +705,8 @@
     "geography": "europe",
     "sector": "energy",
     "company_name": "Bridgepoint",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Andrew Cleland Bogle Partner And Head Of Direct Lending At Bridgepoint On The Europe Direct Lending Outlook And Opportunities"
   },
   {
     "name": "Andrew Lockhart",
@@ -619,7 +722,8 @@
     "geography": "asia",
     "sector": "real estate",
     "company_name": "Metrics Credit Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Andrew Lockhart Managing Partner At Metrics Credit Partners On Australian Private Debt As The Opportunity For Global Investors"
   },
   {
     "name": "Andrew McDonnell",
@@ -635,7 +739,8 @@
     "geography": "europe",
     "sector": "finance",
     "company_name": "Arrowpoint Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Andrew Mcdonnell Founder And Managing Director At Arrowpoint Capital On Private Lending Trends In The Australian Lower Mid Market"
   },
   {
     "name": "Andy Kuper",
@@ -651,7 +756,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Leapfrog Investments",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Andy Kuper Ceo Founder Of Leapfrog Investments On The Private Equity Investments From Purpose To Impact"
   },
   {
     "name": "Andy Lee",
@@ -667,7 +773,8 @@
     "geography": "china",
     "sector": "education",
     "company_name": "Parallaxes Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Andy Lee Founder And Cio Of Parallaxes Capital On Tra Investing"
   },
   {
     "name": "Angus Sedgwick",
@@ -683,7 +790,8 @@
     "geography": "asia",
     "sector": "finance",
     "company_name": "Optipay",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Angus Sedgwick Ceo Of Optipay On Trends In Non Banking Finance In Australia"
   },
   {
     "name": "Angus Whiteley",
@@ -698,7 +806,8 @@
     "geography": "america",
     "sector": "energy",
     "company_name": "Stafford Capital Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Angus Whiteley Ceo Of Stafford Capital Partners On Addressing Clients Needs"
   },
   {
     "name": "Anne Fossemalle",
@@ -714,7 +823,8 @@
     "geography": "china",
     "sector": "retail",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Anne Fossemalle Director Of Equity Funds European Bank For Reconstruction And Development Ebrd"
   },
   {
     "name": "Anthony Chan",
@@ -730,7 +840,8 @@
     "geography": "singapore",
     "sector": "real estate",
     "company_name": "Isola Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Anthony Chan Ceo Of Isola Capital On The Private Alternatives Outlook"
   },
   {
     "name": "Anurag Tripathi",
@@ -746,7 +857,8 @@
     "geography": "china",
     "sector": "finance",
     "company_name": "Venture Soul Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Anurag Tripathi Co Founder Of Venture Soul Capital On Private Credit Landscape In India"
   },
   {
     "name": "Arsalan Karim",
@@ -762,7 +874,8 @@
     "geography": "uk",
     "sector": "energy",
     "company_name": "Healthwords Ai",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Arsalan Karim Co Founder At Healthwords Ai On Trends In The Health Tech Space"
   },
   {
     "name": "Arvind Mathur",
@@ -778,7 +891,8 @@
     "geography": "china",
     "sector": "finance",
     "company_name": "Private Equity Pro Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Arvind Mathur Chairman At Private Equity Pro Partners On India Investment Landscape"
   },
   {
     "name": "Aurelie Hariton-Fardad",
@@ -794,7 +908,8 @@
     "geography": "united states",
     "sector": "finance",
     "company_name": "Metlife Investment Management On The Deep Dive",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Aurelie Hariton Fardad Head Of Emea Portfolio Management At Metlife Investment Management On The Deep Dive On Investment Grade Private Credit"
   },
   {
     "name": "Avantika Saisekar",
@@ -809,7 +924,8 @@
     "geography": "europe",
     "sector": "education",
     "company_name": "Wafra",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Avantika Saisekar Managing Director At Wafra On Esg As A Value Creation Tool And Not A Cost"
   },
   {
     "name": "Benedict Cheng",
@@ -825,7 +941,8 @@
     "geography": "china",
     "sector": "finance",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Mergermarket Influencers Benedict Cheng Pccws Chief Risk Officer On Financial Compliance"
   },
   {
     "name": "Benjamin Hubner",
@@ -841,7 +958,8 @@
     "geography": "germany",
     "sector": "technology",
     "company_name": "Sophora",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Benjamin Hubner Managing Partner Of Sophora On How Emerging Manager Manages To Raise The First Time Fund"
   },
   {
     "name": "Bertrand Badre",
@@ -857,7 +975,8 @@
     "geography": "america",
     "sector": "energy",
     "company_name": "Blue Like An Orange Sustainable Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Bertrand Badre Managing Partner Founder Of Blue Like An Orange Sustainable Capital On The Role Of A Responsible Manager"
   },
   {
     "name": "Beryl Li",
@@ -873,7 +992,8 @@
     "geography": "europe",
     "sector": "finance",
     "company_name": "Yield Guild Games",
-    "company_size": "Small"
+    "company_size": "Small",
+    "video_title": "Beryl Li Founder Of Yield Guild Games On The Development Of Web3 Community"
   },
   {
     "name": "Bill Ammons",
@@ -889,7 +1009,8 @@
     "geography": "uk",
     "sector": "education",
     "company_name": "Albacore Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Bill Ammons Partner At Albacore Capital On The European Private Credit Outlook"
   },
   {
     "name": "Bill Lenihan",
@@ -905,7 +1026,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Zola Electric",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Bill Lenihan Ceo Of Zola Electric On Building A Company Identity While Addressing A Big Need In The Energy Sector"
   },
   {
     "name": "Bill Nixon",
@@ -921,7 +1043,8 @@
     "geography": "uk",
     "sector": "finance",
     "company_name": "Maven Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Bill Nixon Founder Of Maven Capital On How To Identify Successful Niches In The Uk Mid Market"
   },
   {
     "name": "Bogdan Gogulan",
@@ -936,7 +1059,8 @@
     "geography": "uk",
     "sector": "finance",
     "company_name": "New Space Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Bogdan Gogulan Ceo Of New Space Capital On Space Economy Investment Outlook"
   },
   {
     "name": "Boyu Hu",
@@ -952,7 +1076,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Xvc",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Boyu Hu Partner And Founder Of Xvc On Funds Pattern Seeking Strategy"
   },
   {
     "name": "Brett Hickey",
@@ -968,7 +1093,8 @@
     "geography": "united states",
     "sector": "real estate",
     "company_name": "Star Mountain Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Brett Hickey Chief Executive Officer At Star Mountain Capital On Creating A Niche In Private Credit Investing"
   },
   {
     "name": "Brian Dudley",
@@ -984,7 +1110,8 @@
     "geography": "europe",
     "sector": "technology",
     "company_name": "Adams Street Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Brian Dudley Partner At Adams Street Partners On Attractiveness Of Growth Equity As Asset Class"
   },
   {
     "name": "Brian Higgins ",
@@ -1000,7 +1127,8 @@
     "geography": "united states",
     "sector": "energy",
     "company_name": "Babcock Wilcox Bw",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Dr Brian Higgins Vp Of Innovation At Babcock Wilcox Bw On The Role Of Hydrogen Within The Green Energy Future"
   },
   {
     "name": "Brian Schaffer",
@@ -1016,7 +1144,8 @@
     "geography": "america",
     "sector": "finance",
     "company_name": "Prosek",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Brian Schaffer Partner At Prosek On Navigating Crisis And Complex Ma In A Highly Visible Private Markets"
   },
   {
     "name": "Brooke Coburn",
@@ -1032,7 +1161,8 @@
     "geography": "uk",
     "sector": "education",
     "company_name": "Capitol Meridian Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Brooke Coburn Co Founder Partner At Capitol Meridian Partners On Identifying Opportunities In The Defence Sector"
   },
   {
     "name": "Carlos Mendez",
@@ -1048,7 +1178,8 @@
     "geography": "united states",
     "sector": "finance",
     "company_name": "Crayhill Capital Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Carlos Mendez Co Founder And Managing Partner Of Crayhill Capital Management On Trends In Srt"
   },
   {
     "name": "Carman Chan",
@@ -1063,7 +1194,8 @@
     "geography": "china",
     "sector": "technology",
     "company_name": "Click Ventures",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Carman Chan Founder Of Click Ventures On The Current Outlook Of Lp Investment"
   },
   {
     "name": "Cecile Levi",
@@ -1079,7 +1211,8 @@
     "geography": "uk",
     "sector": "energy",
     "company_name": "Tikehau Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Cecile Mayer Levi Head Of Private Debt At Tikehau Capital On Identifying A Niche In Private Credit"
   },
   {
     "name": "Chai Chi Kit",
@@ -1095,7 +1228,8 @@
     "geography": "china",
     "sector": "education",
     "company_name": "Seatown",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Chai Chi Kit Chief Investment Officer At Seatown On Identifying Opportunities In Sea Sustainability Investments"
   },
   {
     "name": "Charles Fan",
@@ -1111,7 +1245,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Jinyi Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Charles Fan Ceo And Cio Of Jinyi Capital On Identifying Investment Opportunities And Understanding The Asset Management Landscape In China"
   },
   {
     "name": "Charles-Edouard Bou\u00e9e",
@@ -1127,7 +1262,8 @@
     "geography": "china",
     "sector": "healthcare",
     "company_name": "Adagia Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Charles Edouard Bouee Co Founder And Managing Partner At Adagia Partners On Emerging Managers Trends"
   },
   {
     "name": "Chenxi Wang",
@@ -1143,7 +1279,8 @@
     "geography": "europe",
     "sector": "technology",
     "company_name": "Rain Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Chenxi Wang Managing General Partner At Rain Capital On Ai Security And Trust"
   },
   {
     "name": "Chris Acito",
@@ -1159,7 +1296,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Gapstow Capital Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Chris Acito Ceo Of Gapstow Capital Partners On The Us Alternative Credits Outlook"
   },
   {
     "name": "Chris Lawrence",
@@ -1175,7 +1313,8 @@
     "geography": "asia",
     "sector": "education",
     "company_name": "Labyrinth Capital Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Chris Lawrence Managing Partner Of Labyrinth Capital Partners On Identifying A Niche In Secondaries Investing"
   },
   {
     "name": "Christian Fritsch",
@@ -1191,7 +1330,8 @@
     "geography": "germany",
     "sector": "energy",
     "company_name": "Elf Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Christian Fritsch Founder Of Elf Capital On Creating Its Own Niche In Private Credit Market"
   },
   {
     "name": "Christian Noske",
@@ -1207,7 +1347,8 @@
     "geography": "china",
     "sector": "education",
     "company_name": "Ngp Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Christian Noske Partner At Ngp Capital On Investment Landscape Between Europe And Us"
   },
   {
     "name": "Christoph Gort",
@@ -1223,7 +1364,8 @@
     "geography": "europe",
     "sector": "education",
     "company_name": "Siglo",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Christoph Gort Founding Partner Of Siglo On Evolution Of Private Credit Market"
   },
   {
     "name": "Christophe Carrasco",
@@ -1239,7 +1381,8 @@
     "geography": "uk",
     "sector": "finance",
     "company_name": "Bnpp Asset Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Christophe Carrasco Head Of Private Assets At Bnpp Asset Management On Trends In Private Credit"
   },
   {
     "name": "Clare Murray",
@@ -1255,7 +1398,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Blumen And Kristian Ronn Ceo Of Normative",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Clare Murray Co Founder Of Blumen And Kristian Ronn Ceo Of Normative On Impact Investing Perspectives"
   },
   {
     "name": "Claudia Bertolino",
@@ -1271,7 +1415,8 @@
     "geography": "america",
     "sector": "technology",
     "company_name": "Private Equity And Private Credit Citco Fund Services Usa",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Claudia Bertolino Head Of Private Equity And Private Credit Citco Fund Services Usa On Private Market Trends"
   },
   {
     "name": "Cliff Zhang",
@@ -1287,7 +1432,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Templewater",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Cliff Zhang Chairman And Ceo Of Templewater On Operational Improvement In Private Equity In Asia"
   },
   {
     "name": "Coralie De Maesschalck",
@@ -1302,7 +1448,8 @@
     "geography": "uk",
     "sector": "education",
     "company_name": "Kartesia",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Coralie De Maesschalck Partner At Kartesia On Esg And How To Carve Out A Niche In Sponsor Less Private Credit"
   },
   {
     "name": "Cyril Demaria-Bengochea",
@@ -1318,7 +1465,8 @@
     "geography": "china",
     "sector": "education",
     "company_name": "Julius Baer",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Cyril Demaria Bengochea Head Of Private Markets Strategy At Julius Baer On How To Identity Successful Strategies In Private Markets"
   },
   {
     "name": "Dan Robinson",
@@ -1334,7 +1482,8 @@
     "geography": "america",
     "sector": "real estate",
     "company_name": "Dws",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Dan Robinson Emea Head Of Alternative Credit At Dws On Creating The Right Solutions In Private Credit"
   },
   {
     "name": "Daniele Colantonio",
@@ -1350,7 +1499,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Anthilia",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Daniele Colantonio Partner And Executive Board Member At Anthilia On Identifying A Niche In Private Credit In Italy"
   },
   {
     "name": "Danny Vroegop",
@@ -1365,7 +1515,8 @@
     "geography": "europe",
     "sector": "energy",
     "company_name": "Colesco Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Danny Vroegop Cio At Colesco Capital On Identifying Niche Trend In Sustainable Private Market Investing"
   },
   {
     "name": "Daphne Tong",
@@ -1380,7 +1531,8 @@
     "geography": "united states",
     "sector": "education",
     "company_name": "Westcap",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Daphne Tong Partner Co Head Of Investments At Westcap On How To Identify A Niche In Private Markets"
   },
   {
     "name": "Dave Breazzano ",
@@ -1396,7 +1548,8 @@
     "geography": "europe",
     "sector": "education",
     "company_name": "Polen Capital Credit Team",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Dave Breazzano Head Of Polen Capital Credit Team On Finding Niche Opportunities In Private Credit"
   },
   {
     "name": "David Chung",
@@ -1412,7 +1565,8 @@
     "geography": "europe",
     "sector": "technology",
     "company_name": "Hggc",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "David Chung Partner And Co Chief Investment Officer Of Hggc On Take Privates"
   },
   {
     "name": "David Merriman",
@@ -1427,7 +1581,8 @@
     "geography": "uk",
     "sector": "finance",
     "company_name": "Beechbrook",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Mdavid Merriman Head Of Private Debt At Beechbrook On Identifying Opportunities In The Mid Market"
   },
   {
     "name": "David York",
@@ -1443,7 +1598,8 @@
     "geography": "singapore",
     "sector": "education",
     "company_name": "Ttcp",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "David York Founder And General Partner At Ttcp On Observing The Cycles In Vc Investing"
   },
   {
     "name": "Dominic Wells",
@@ -1459,7 +1615,8 @@
     "geography": "europe",
     "sector": "finance",
     "company_name": "Onfolio Holdings",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Dominic Wells Ceo Director Of Onfolio Holdings On How To Make Repeated Online Digital Acquisitions"
   },
   {
     "name": "Don Dimitrievich",
@@ -1474,7 +1631,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Don Dimitrievich Portfolio Manager Senior Managing Director Energy Infrastructure Credit Nuveen On Infrastructure Credit Trends"
   },
   {
     "name": "Dongik Lee",
@@ -1490,7 +1648,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Asia Infrastructure Investment Bank",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Don Lee Director General Of Asia Infrastructure Investment Bank On The Infrastructure And Sustainability Investment Outlook"
   },
   {
     "name": "Doug Cruikshank",
@@ -1506,7 +1665,8 @@
     "geography": "asia",
     "sector": "finance",
     "company_name": "Hark Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Doug Cruikshank Managing Partner Founder At Hark Capital On Opportunities In Nav Financing"
   },
   {
     "name": "Durreen Shahnaz",
@@ -1522,7 +1682,8 @@
     "geography": "asia",
     "sector": "education",
     "company_name": "Impact Investment Exchange Iix And Iix Foundation",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Durreen Shahnaz Founder Of Impact Investment Exchange Iix And Iix Foundation On Impact Investing To Enhance Gender Equality"
   },
   {
     "name": "Edo Pfennings",
@@ -1538,7 +1699,8 @@
     "geography": "europe",
     "sector": "energy",
     "company_name": "Mentha Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Edo Pfennings Co Founder At Mentha Capital On Trends In Impact Investing And Sustainability"
   },
   {
     "name": "Ella Hoxha",
@@ -1553,7 +1715,8 @@
     "geography": "asia",
     "sector": "education",
     "company_name": "Newton Investment Management Bny Mellon Group",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Ella Hoxha Head Of Fixed Income At Newton Investment Management Bny Mellon Group On Empowering Female Leaders"
   },
   {
     "name": "Elton Cheung",
@@ -1569,7 +1732,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Vms",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Elton Cheung Partner At Vms On How To Build Relationships In The Investors Segment"
   },
   {
     "name": "Enis Hulli",
@@ -1585,7 +1749,8 @@
     "geography": "asia",
     "sector": "finance",
     "company_name": "500 Startups Istanbul",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Enis Hulli General Partner At 500 Startups Istanbul On Investing In Emerging Europe"
   },
   {
     "name": "Eric Gallerne",
@@ -1601,7 +1766,8 @@
     "geography": "uk",
     "sector": "real estate",
     "company_name": "Eurazeo",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Eric Gallerne Managing Partner Co Head Of Private Debt At Eurazeo On Trends In The Private Credit Space"
   },
   {
     "name": "Eric Muller",
@@ -1617,7 +1783,8 @@
     "geography": "europe",
     "sector": "education",
     "company_name": "Oak Hill Advisors",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Eric Muller Portfolio Manager Partner Ceo Bdcs At Oak Hill Advisors On Democratization Of Private Assets In Private Credit"
   },
   {
     "name": "Eugene Zhang and Spencer Greene",
@@ -1630,7 +1797,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Eugene Zhang Tsvcs Founding Partner And Spencer Greene Tsvcs General Partner On Chinese Firms Looking To Venture Out In New Markets"
   },
   {
     "name": "Eugenio de Blasio",
@@ -1646,7 +1814,8 @@
     "geography": "uk",
     "sector": "energy",
     "company_name": "Green Arrow Capital",
-    "company_size": "Mid-Market"
+    "company_size": "Mid-Market",
+    "video_title": "Eugenio De Blasio Founder Of Green Arrow Capital On Sustainability As An Industry"
   },
   {
     "name": "Eva Yazhari",
@@ -1662,7 +1831,8 @@
     "geography": "india",
     "sector": "education",
     "company_name": "Beyond Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Eva Yazhari Managing Partner At Beyond Capital On Trends In Sustainability"
   },
   {
     "name": "Fan Xia",
@@ -1677,7 +1847,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Sirio Pharma",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Fan Xia Cfo Of Sirio Pharma On Women Leadership In Finance"
   },
   {
     "name": "Filippo Gaggini",
@@ -1693,7 +1864,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Progressio",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Filippo Gaggini Ceo Of Progressio On Digitization Trends In Italy"
   },
   {
     "name": "Finian Tan",
@@ -1709,7 +1881,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Vickers Venture Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Finian Tan Chairman And Cio Of Vickers Venture Partners On How Innovation Powers Vc To Greater Return"
   },
   {
     "name": "Francisco del Pozo",
@@ -1725,7 +1898,8 @@
     "geography": "america",
     "sector": "energy",
     "company_name": "Infrastructure Funds Area",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Francisco Del Pozo Head Of Infrastructure Funds Area On How To Start A Scale An Infra Fund"
   },
   {
     "name": "Frank Danieli",
@@ -1740,7 +1914,8 @@
     "geography": "america",
     "sector": "finance",
     "company_name": "Ma Financial Group",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Frank Danieli Head Of Credit Investments Lending At Ma Financial Group On The Private Credit Situation In Australia How To Carve Out A Niche Within That"
   },
   {
     "name": "Funeka Montjane",
@@ -1755,7 +1930,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Standard Bank",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Funeka Montjane Ceo Of Personal Private Banking At Standard Bank On Promoting Women Leadership"
   },
   {
     "name": "Gareth Young",
@@ -1770,7 +1946,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "International Strategy Of Livingbridge",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Gareth Young Head Of International Strategy Of Livingbridge On Driving Pe Firms Global Expansion"
   },
   {
     "name": "Gary Leung",
@@ -1786,7 +1963,8 @@
     "geography": "asia",
     "sector": "real estate",
     "company_name": "Jp Morgan Asset Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Gary Leung Head Of Alternatives Asia Pacific At Jp Morgan Asset Management On Alternatives Market Landscape And Democratization Of Private Assets"
   },
   {
     "name": "Giovanna Dossena",
@@ -1802,7 +1980,8 @@
     "geography": "germany",
     "sector": "finance",
     "company_name": "Avm Gestioni",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Giovanna Dossena Founder Of Avm Gestioni On How Influencers Will Affect The Capital Market"
   },
   {
     "name": "Giulio Leucci and Juhani Sillanpaa",
@@ -1818,7 +1997,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Indevo Energy",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Giulio Leucci And Juhani Sillanpaa Founders Of Indevo Energy On Opportunities In Energy Decarbonization"
   },
   {
     "name": "Glenn Harrison",
@@ -1834,7 +2014,8 @@
     "geography": "united states",
     "sector": "finance",
     "company_name": "Lo3 Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Glenn Harrison Founder Of Lo3 Capital On Identifying Successful Niche In Private Credit"
   },
   {
     "name": "Grant Nachman",
@@ -1849,7 +2030,8 @@
     "geography": "france",
     "sector": "energy",
     "company_name": "Shorecliff Asset Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Grant Nachman Cio Ceo Of Shorecliff Asset Management On Building A Team In The Performing Credit Space"
   },
   {
     "name": "Gustavo Cardenas",
@@ -1865,7 +2047,8 @@
     "geography": "america",
     "sector": "energy",
     "company_name": "Wafra",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Gustavo Cardenas Managing Director At Wafra On Trends In Gp Stakes Investing"
   },
   {
     "name": "Heath Zarin",
@@ -1881,7 +2064,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Emergevest",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Heath Zarin Founder Of Emergevest On Secondaries And Industry Focus Supply Chain Investing"
   },
   {
     "name": "Helen Wong",
@@ -1897,7 +2081,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Ac Ventures",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Helen Wong Managing Partner Of Ac Ventures On Impact Investing Outlook And Di For Portfolio Companies Industry"
   },
   {
     "name": "Henry Yuan",
@@ -1912,7 +2097,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Agricultural Bank Of China International",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Henry Yuan General Manager Of Agricultural Bank Of China International On China In Attracting International Capital"
   },
   {
     "name": "Hideaki Harada",
@@ -1928,7 +2114,8 @@
     "geography": "china",
     "sector": "education",
     "company_name": "Panasonic Connect",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Hideaki Harada Chief Strategy Officer Of Panasonic Connect On Leadership In Technology"
   },
   {
     "name": "Holly Sites",
@@ -1941,7 +2128,8 @@
     "geography": "uk",
     "sector": "energy",
     "company_name": "Grant Thornton",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Holly Stiles Partner National Head Of Corporate Finance At Grant Thornton On Identifying Exit Options For Entrepreneurs"
   },
   {
     "name": "Hui Hsing Ma",
@@ -1957,7 +2145,8 @@
     "geography": "asia",
     "sector": "education",
     "company_name": "Blue7",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Hui Hsing Ma Founder Of Blue7 On Family Offices Approach To Impact Investing"
   },
   {
     "name": "Ian Lee",
@@ -1973,7 +2162,8 @@
     "geography": "china",
     "sector": "finance",
     "company_name": "Dewu Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Ian Lee Managing Partner Of Dewu Capital On Reasons To Invest In China"
   },
   {
     "name": "Ian Patrick",
@@ -1989,7 +2179,8 @@
     "geography": "europe",
     "sector": "real estate",
     "company_name": "Australian Retirement Trust",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Ian Patrick Chief Investment Officer At Australian Retirement Trust On The Private Market In Australia And Art Approach To It"
   },
   {
     "name": "Indranil Basu",
@@ -2005,7 +2196,8 @@
     "geography": "america",
     "sector": "finance",
     "company_name": "Pearl Diver Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Indranil Basu Ceo And Managing Partner Of Pearl Diver Capital On Clos As A Specialized Asset Class In Alternative Credit"
   },
   {
     "name": "Itamar Volkov",
@@ -2021,7 +2213,8 @@
     "geography": "america",
     "sector": "education",
     "company_name": "Frux Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Itamar Volkov Managing Partner Of Frux Capital On Identifying A Niche In Private Credit"
   },
   {
     "name": "Ivo Hobson",
@@ -2036,7 +2229,8 @@
     "geography": "asia",
     "sector": "finance",
     "company_name": "Mutares",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Ivo Hobson Head Of Uk At Mutares On Opportunities In Corporate Carve Out"
   },
   {
     "name": "Jaime McKenzie Forsyth",
@@ -2052,7 +2246,8 @@
     "geography": "america",
     "sector": "finance",
     "company_name": "Monomoy Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Jaime Mckenzie Forsyth Partner Head Of Investment Team At Monomoy Capital On Promoting Diversity"
   },
   {
     "name": "James Garner",
@@ -2068,7 +2263,8 @@
     "geography": "united states",
     "sector": "energy",
     "company_name": "Percheron Therapeutics",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Dr James Garner Ceo At Percheron Therapeutics On Trends In The Rare Diseases Niche"
   },
   {
     "name": "James Hawkins",
@@ -2084,7 +2280,8 @@
     "geography": "europe",
     "sector": "finance",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "James Hawkins Partner Head L1 Capital Catalyst Fund On Activism In Australia"
   },
   {
     "name": "James Jin",
@@ -2100,7 +2297,8 @@
     "geography": "china",
     "sector": "education",
     "company_name": "Ventech",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "James Jin Managing Partner Of Ventech On The Tech Investment Landscape Silicon Valley Vs China"
   },
   {
     "name": "James O' Leary",
@@ -2113,7 +2311,8 @@
     "geography": "europe",
     "sector": "finance",
     "company_name": "Stepstone",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "James Oleary Partner Head Of Infrastructure Real Assets At Stepstone On Infrastructure Outlook For 2024 2026"
   },
   {
     "name": "James Tannahill",
@@ -2129,7 +2328,8 @@
     "geography": "asia",
     "sector": "finance",
     "company_name": "Plocamium Holding",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "James Tannahill President Private Equity At Plocamium Holding On Driving Value Creation"
   },
   {
     "name": "James Tynan",
@@ -2145,7 +2345,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Square Peg Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "James Tynan Partner At Square Peg Capital On The Role Of Venture Capital In Climate And Ai"
   },
   {
     "name": "James Wang",
@@ -2161,7 +2362,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Fosun Asset Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "James Wang Managing Director At Fosun Asset Management On Identifying Niches In Global Investing"
   },
   {
     "name": "James Zhang",
@@ -2177,7 +2379,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Great Eagle Holdings",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "James Zhang Chief Investment Officer Of Great Eagle Holdings On The Outlook Of Private Market"
   },
   {
     "name": "Jason Shin",
@@ -2193,7 +2396,8 @@
     "geography": "asia",
     "sector": "real estate",
     "company_name": "Vig Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Jason Shin Co Founding Partner Of Vig Partners On Identifying Trends In Mid Market Investing In Korea"
   },
   {
     "name": "Jeff Hammer",
@@ -2209,7 +2413,8 @@
     "geography": "asia",
     "sector": "real estate",
     "company_name": "Manulife",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Jeff Hammer Global Co Head Of Secondaries At Manulife On How To Find Uniqueness In The Secondary Market"
   },
   {
     "name": "Jeffrey Collins",
@@ -2225,7 +2430,8 @@
     "geography": "united states",
     "sector": "education",
     "company_name": "Cloverlay",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Jeffrey Collins Managing Partner At Cloverlay On Identifying Niches In Intellectual Property Investing"
   },
   {
     "name": "Jehangir Vevaina",
@@ -2241,7 +2447,8 @@
     "geography": "america",
     "sector": "energy",
     "company_name": "Brookfield",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Jehangir Vevaina Managing Partner Renewable Power Transition At Brookfield On Identifying Investment Niches In The Renewables Space"
   },
   {
     "name": "Jeroen Afink",
@@ -2257,7 +2464,8 @@
     "geography": "asia",
     "sector": "education",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "On Democratization Of Private Markets"
   },
   {
     "name": "Jess Zhou",
@@ -2272,7 +2480,8 @@
     "geography": "china",
     "sector": "manufacturing",
     "company_name": "Boehringer Ingelheim",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Jess Zhou Ma Director Of Boehringer Ingelheim On Culture Differences In Cross Border Deal Negotiation 2"
   },
   {
     "name": "Jim Pittman",
@@ -2288,7 +2497,8 @@
     "geography": "europe",
     "sector": "energy",
     "company_name": "Bci",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Jim Pittman Evp Global Head Of Private Equity At Bci On Bcis Proposition And The Outlook Of Private Equity Market"
   },
   {
     "name": "Joe Millward ",
@@ -2304,7 +2514,8 @@
     "geography": "uk",
     "sector": "energy",
     "company_name": "Epsilon Direct Lending",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Joe Millward Founding Partner Of Epsilon Direct Lending On Evolution Of The Private Credit Industry In Australia"
   },
   {
     "name": "Joe Qiao",
@@ -2320,7 +2531,8 @@
     "geography": "china",
     "sector": "real estate",
     "company_name": "Globaltec Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Joe Qiao Cio Of Globaltec Capital On Building An Effective Portfolio Allocation For Family Offices"
   },
   {
     "name": "Joe Schorge",
@@ -2335,7 +2547,8 @@
     "geography": "europe",
     "sector": "education",
     "company_name": "Isomer Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Joe Schorge Managing Partner Of Isomer Capital On Secondaries Trends In Venture Capital"
   },
   {
     "name": "Joel Sandhu",
@@ -2351,7 +2564,8 @@
     "geography": "germany",
     "sector": "real estate",
     "company_name": "Tta",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Joel Sandhu Co Founder Of Tta On How To Identify Red Flags In Gp Investing"
   },
   {
     "name": "Johan Hultner",
@@ -2366,7 +2580,8 @@
     "geography": "germany",
     "sector": "finance",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Johan Hultner Senior Partner And Ceo Of Arcos Capital"
   },
   {
     "name": "Johan Rozali-Wathooth",
@@ -2382,7 +2597,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Bintang Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Johan Rozali Wathooth Founder And Ceo Of Bintang Capital On Creating The B Corp Community"
   },
   {
     "name": "John Hartwell Cocke",
@@ -2398,7 +2614,8 @@
     "geography": "united states",
     "sector": "education",
     "company_name": "Corbin Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "John Hartwell Cocke Partner And Deputy Cio Credit At Corbin Capital On Secondaries In Private Debt"
   },
   {
     "name": "John Lykouretzos",
@@ -2414,7 +2631,8 @@
     "geography": "uk",
     "sector": "education",
     "company_name": "Focus Growth",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "John Lykouretzos Founder And Ceo Of Focus Growth On Identifying A Niche In Cannabis Investing"
   },
   {
     "name": "John Merrill",
@@ -2430,7 +2648,8 @@
     "geography": "united states",
     "sector": "healthcare",
     "company_name": "Grove Street",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "John Merrill Senior Executive At Grove Street On Building Private Equity Portfolios"
   },
   {
     "name": "Johnny el Hachem",
@@ -2446,7 +2665,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Johnny El Hachem Edmond De Rothschild Pes Ceo On Private Equity And Demographics Sustainability And Technology"
   },
   {
     "name": "Jose Epalza",
@@ -2462,7 +2682,8 @@
     "geography": "united states",
     "sector": "healthcare",
     "company_name": "Altamarcam",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Jose Epalza Managing Partner At Altamarcam On Evolution Of The Private Equity Sector In Spain"
   },
   {
     "name": "Joseph Healy",
@@ -2478,7 +2699,8 @@
     "geography": "china",
     "sector": "real estate",
     "company_name": "Judo Bank",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Joseph Healy Founder Of Judo Bank On How To Set Up A Bank In Australia"
   },
   {
     "name": "Joseph Siprut",
@@ -2494,7 +2716,8 @@
     "geography": "europe",
     "sector": "energy",
     "company_name": "Kerberos Capital Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Joseph Siprut Founder Ceo And Cio Of Kerberos Capital Management On Identifying A Niche In Private Credit Financing"
   },
   {
     "name": "Josh Harlan",
@@ -2510,7 +2733,8 @@
     "geography": "europe",
     "sector": "real estate",
     "company_name": "Harlan Capital Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Josh Harlan Founder And Managing Partner Of Harlan Capital Partners On How To Carve Out A Niche In Direct Lending"
   },
   {
     "name": "Josh Pottinger",
@@ -2526,7 +2750,8 @@
     "geography": "asia",
     "sector": "education",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Josh Pottinger Senior Vp Private Wealth Management Ubs On The Evolution Of Private Wealth Advisory"
   },
   {
     "name": "Julien Zornig",
@@ -2542,7 +2767,8 @@
     "geography": "america",
     "sector": "education",
     "company_name": "Astorius Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Julien Zornig Managing Partner At Astorius Capital On How To Make Private Markets More Transparent"
   },
   {
     "name": "Julius Chin",
@@ -2558,7 +2784,8 @@
     "geography": "china",
     "sector": "real estate",
     "company_name": "Cachet Group",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Julius Chin Md Of Cachet Group On Multifamily Offices Asset Allocation Approach And Market Outlook 2024"
   },
   {
     "name": "Justin Ryan",
@@ -2574,7 +2801,8 @@
     "geography": "europe",
     "sector": "finance",
     "company_name": "Glow Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Justin Ryan Founder Of Glow Capital On How To Successfully Raise A First Time Fund"
   },
   {
     "name": "Kai Rintala",
@@ -2589,7 +2817,8 @@
     "geography": "europe",
     "sector": "energy",
     "company_name": "Taaleri Energia",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Kai Rintala Managing Director Of Taaleri Energia On How To Identify Opportunities In European Renewables"
   },
   {
     "name": "Karen Page",
@@ -2605,7 +2834,8 @@
     "geography": "asia",
     "sector": "healthcare",
     "company_name": "B Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Karen Page General Partner Of B Capital On The Go To Market For Technology Companies"
   },
   {
     "name": "Karsten Langer",
@@ -2621,7 +2851,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Karsten Langer Managing Partner The Riverside Company On How To Grow Resilient Portfolio Companies In Mid Market"
   },
   {
     "name": "Kazushige Kobayashi",
@@ -2637,7 +2868,8 @@
     "geography": "europe",
     "sector": "technology",
     "company_name": "Mcp Asset Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Kazushige Kobayashi Managing Director At Mcp Asset Management On Impact And Climate In Japan Vs Europe"
   },
   {
     "name": "Ken Yasunaga",
@@ -2652,7 +2884,8 @@
     "geography": "china",
     "sector": "technology",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Ken Yasunaga Co Founder Global Hands On Vc On Taking Japanese Technology Global"
   },
   {
     "name": "Kent Chen",
@@ -2667,7 +2900,8 @@
     "geography": "china",
     "sector": "finance",
     "company_name": "Asia Private Equity Of Neuberger Berman",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Kent Chen Managing Director And Head Of Asia Private Equity Of Neuberger Berman On Navigating The Large And Diverse Asia Pe Market"
   },
   {
     "name": "Khaled Khan",
@@ -2680,7 +2914,8 @@
     "geography": "america",
     "sector": "technology",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Khaled Khan Koi Ventures Founder On Successful Entrepreneurship Globally Linked And Local Empowerment In Fintech"
   },
   {
     "name": "Kirk Konert",
@@ -2696,7 +2931,8 @@
     "geography": "europe",
     "sector": "technology",
     "company_name": "Ae Industrial Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Kirk Konert Managing Partner At Ae Industrial Partners On Identifying Opportunities In The National Security Sector"
   },
   {
     "name": "Kirsten Bode",
@@ -2712,7 +2948,8 @@
     "geography": "asia",
     "sector": "real estate",
     "company_name": "Private Debt Pan Europe Muzinich",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Kirsten Bode Co Head Of Private Debt Pan Europe Muzinich On Identifying A Successful Niche In Mid Market Private Credit"
   },
   {
     "name": "Kristopher Ring",
@@ -2728,7 +2965,8 @@
     "geography": "europe",
     "sector": "finance",
     "company_name": "Goodwin",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Kristopher Ring Debt Finance Equity Partner At Goodwin On The Evolution Of Private Credit"
   },
   {
     "name": "Kunal Sood",
@@ -2744,7 +2982,8 @@
     "geography": "asia",
     "sector": "education",
     "company_name": "Pantheon",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Kunal Sood Managing Director Private Equity At Pantheon On Private Market Outlook"
   },
   {
     "name": "Lakshmi Narayanan ",
@@ -2760,7 +2999,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Swfi And Executive Of Patel Family Office",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Lakshmi Narayanan Chairman Of Swfi And Executive Of Patel Family Office On India Economic Outlook And Lp Opportunities"
   },
   {
     "name": "Laurent Mignon",
@@ -2776,7 +3016,8 @@
     "geography": "france",
     "sector": "energy",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Laurent Mignon Wendel Group Ceo On The Evolution Of Private Equity As An Asset Class"
   },
   {
     "name": "Leo Fletcher-Smith",
@@ -2792,7 +3033,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Aksia",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Leo Fletcher Smith Managing Director Head Of European Private Credit Strategy At Aksia On The Evolution Of The Private Credit Market"
   },
   {
     "name": "Leonard Clemens",
@@ -2808,7 +3050,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Cadence Growth Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Leonard Clemens Managing Partners And Co Founder At Cadence Growth Partners On Investment Landscape And Democratization Of Private Assets"
   },
   {
     "name": "Lisheng Wang",
@@ -2824,7 +3067,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Tsvc",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Lisheng Wang Partner At Tsvc On Deep Tech Entrepreneurship"
   },
   {
     "name": "Louis Godron",
@@ -2840,7 +3084,8 @@
     "geography": "germany",
     "sector": "energy",
     "company_name": "Argos Wityu",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Louis Godron Managing Partner At Argos Wityu On How To Combine Financial And Environmental Performance In Private Equity Investing"
   },
   {
     "name": "Luigi Terranova",
@@ -2856,7 +3101,8 @@
     "geography": "germany",
     "sector": "energy",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Luigi Terranova Riello Investimentis Ceo On The Italian Private Equity Outlook"
   },
   {
     "name": "Maggie Arvedlund",
@@ -2871,7 +3117,8 @@
     "geography": "america",
     "sector": "real estate",
     "company_name": "Turning Rock Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Maggie Arvedlund Ceo And Managing Partner Of Turning Rock Partners On Identifying Niche In Private Capital Investing"
   },
   {
     "name": "Manisha Girotra",
@@ -2887,7 +3134,8 @@
     "geography": "china",
     "sector": "real estate",
     "company_name": "Moelis India",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Manisha Girotra Ceo Of Moelis India On The Outlook For India 2024 2026"
   },
   {
     "name": "Manuel Noronha Andrade",
@@ -2903,7 +3151,8 @@
     "geography": "asia",
     "sector": "real estate",
     "company_name": "Ecs Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Manuel Noronha Andrade Ceo Of Ecs Capital On The Outlook Of European Pe Markets Consolidation Trend And Opportunities In Portugal"
   },
   {
     "name": "Marc Utay",
@@ -2919,7 +3168,8 @@
     "geography": "united states",
     "sector": "finance",
     "company_name": "Clarion Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Marc Utay Managing Partner At Clarion Capital On Opportunities In The Mid Market Private Structured Credit Space"
   },
   {
     "name": "Marcia Ellis",
@@ -2934,7 +3184,8 @@
     "geography": "china",
     "sector": "education",
     "company_name": "Morrison Foerster",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Marcia Ellis Global Co Chair Of The Private Equity Practice At Morrison Foerster On Where The Opportunities Lie In Asia Pacific"
   },
   {
     "name": "Marco Busca",
@@ -2950,7 +3201,8 @@
     "geography": "europe",
     "sector": "real estate",
     "company_name": "Generali Invest",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Marco Busca Head Of Indirect Private Debt At Generali Invest On The Evolution Of The Private Credit Industry"
   },
   {
     "name": "Marcus Edwards-Jones",
@@ -2966,7 +3218,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Phoenix Copper",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Marcus Edward Jones And Paul De Gruchy At Phoenix Copper On Trends In The Copper Space"
   },
   {
     "name": "Mark Benedetti",
@@ -2982,7 +3235,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Ardian",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Mark Benedetti Executive President And Chairman Of The Executive Committee And Operations Committee At Ardian On The Evolution Of The Private Equity Industry"
   },
   {
     "name": "Mark Hoeing",
@@ -2998,7 +3252,8 @@
     "geography": "united states",
     "sector": "energy",
     "company_name": "Cf Private Equity",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Mark Hoeing President And Ceo Of Cf Private Equity On Identifying Sector Niches In Pe Investing"
   },
   {
     "name": "Markus Geiger",
@@ -3014,7 +3269,8 @@
     "geography": "asia",
     "sector": "real estate",
     "company_name": "Oddo Bhf Asset Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Markus Geiger Head Of Private Debt At Oddo Bhf Asset Management On Identifying Opportunities In The Lower Mid Market In The Dach Region"
   },
   {
     "name": "Martin Moloney",
@@ -3030,7 +3286,8 @@
     "geography": "america",
     "sector": "education",
     "company_name": "Iosco",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Martin Moloney Secretary General Of Iosco On Standards In Sustainable Finance"
   },
   {
     "name": "Matteo Squilloni",
@@ -3046,7 +3303,8 @@
     "geography": "germany",
     "sector": "energy",
     "company_name": "European Investment Fund",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Matteo Squilloni Head Of Climate Transition At European Investment Fund On How To Reach Net Zero"
   },
   {
     "name": "Matteo Zenari",
@@ -3062,7 +3320,8 @@
     "geography": "america",
     "sector": "finance",
     "company_name": "Financial Sponsor Group Of Intesa Sanpaolo",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Matteo Zenari Global Head Of Financial Sponsor Group Of Intesa Sanpaolo On Capital Structure Alternatives"
   },
   {
     "name": "Matthew Prout",
@@ -3078,7 +3337,8 @@
     "geography": "america",
     "sector": "education",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Matthew Prout Managing Partner At Falcon Investment In Trends In The Credit Space"
   },
   {
     "name": "Matthias Wilcken",
@@ -3094,7 +3354,8 @@
     "geography": "america",
     "sector": "energy",
     "company_name": "Rivean",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Matthias Wilcken Senior Partner Member Of The Executive Committee At Rivean On Digitization In Private Equity"
   },
   {
     "name": "Mattis Poetter",
@@ -3110,7 +3371,8 @@
     "geography": "america",
     "sector": "finance",
     "company_name": "Arcmont Asset Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Mattis Poetter Partner And Co Cio Of Arcmont Asset Management On How To Carve Out A Niche In Private Credit"
   },
   {
     "name": "Mauro Moretti",
@@ -3126,7 +3388,8 @@
     "geography": "america",
     "sector": "energy",
     "company_name": "Three Hills",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Mauro Moretti Founder Ceo Of Three Hills On How To Identify The Best Growth Options For Entrepreneurs"
   },
   {
     "name": "Michael Fieweger",
@@ -3141,7 +3404,8 @@
     "geography": "america",
     "sector": "technology",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Michael Fieweger Partner Baker Mckenzie On Evolving Regulatory Landscape For The Private Equity Industry"
   },
   {
     "name": "Michael Pollan",
@@ -3157,7 +3421,8 @@
     "geography": "germany",
     "sector": "energy",
     "company_name": "Omnes Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Michael Pollan Managing Partner At Omnes Capital On Identifying Niche Opportunities In The Renewable Sector"
   },
   {
     "name": "Michael Schad",
@@ -3173,7 +3438,8 @@
     "geography": "uk",
     "sector": "education",
     "company_name": "Coller Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Michael Schad Partner At Coller Capital On Trends In Credit Secondaries"
   },
   {
     "name": "Michael Spence",
@@ -3189,7 +3455,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Prof Michael Spence Nobel Prize For Economics 2001 On Permacrisis"
   },
   {
     "name": "Michal Lange",
@@ -3204,7 +3471,8 @@
     "geography": "europe",
     "sector": "technology",
     "company_name": "Astorg",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Michal Lange Partner At Astorg On How To Identify The Niche In Private Equity And Secondaries"
   },
   {
     "name": "Michel Lowy",
@@ -3220,7 +3488,8 @@
     "geography": "asia",
     "sector": "real estate",
     "company_name": "Sc Lowy",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Memichel Lowy Founder And Ceo Of Sc Lowy On Private Debt Investors 2024 Outlook"
   },
   {
     "name": "Mike Custar",
@@ -3236,7 +3505,8 @@
     "geography": "europe",
     "sector": "technology",
     "company_name": "William Blair At William Blair",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Mike Custar Managing Director Co Head Of Private Capital Advisory At William Blair At William Blair On Opportunities In The Secondary Market"
   },
   {
     "name": "Mike Davis",
@@ -3252,7 +3522,8 @@
     "geography": "asia",
     "sector": "real estate",
     "company_name": "Causeway Am",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Mike Davis Founder Of Causeway Am On How To Identify A Niche In Australian Private Credit"
   },
   {
     "name": "Mike Ewald",
@@ -3268,7 +3539,8 @@
     "geography": "asia",
     "sector": "real estate",
     "company_name": "Bain Private Credit Group",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Michael Ewald Global Head Of Bain Private Credit Group On Mid Market Attractiveness And Industry Specialization"
   },
   {
     "name": "Miriam Wohlfarth",
@@ -3284,7 +3556,8 @@
     "geography": "china",
     "sector": "finance",
     "company_name": "Banxware",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Miriam Wohlfarth Co Founder And Co Ceo Of Banxware On Trends In Embedded Finance"
   },
   {
     "name": "Monika Nachyla",
@@ -3300,7 +3573,8 @@
     "geography": "central europe",
     "sector": "technology",
     "company_name": "Abris Capital Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Monika Nachyla Partner At Abris Capital Partners On How Traditional Private Equity Firms Can Do Impact Investing"
   },
   {
     "name": "Mounir Corm",
@@ -3316,7 +3590,8 @@
     "geography": "uk",
     "sector": "energy",
     "company_name": "Vauban Infrastructure Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Mounir Corm Deputy Ceo Founding Partner At Vauban Infrastructure Partners On Gps Role In Infrastructure Investments"
   },
   {
     "name": "Mubashir Mukadam",
@@ -3331,7 +3606,8 @@
     "geography": "uk",
     "sector": "energy",
     "company_name": "Blantyre Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Mubashir Mukadam Managing Partner And Chief Investment Officer Of Blantyre Capital On The Private Credit And Special Situations Outlook"
   },
   {
     "name": "Murong Yang",
@@ -3346,7 +3622,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Future Capital",
-    "company_size": "Small/Mid-Market"
+    "company_size": "Small/Mid-Market",
+    "video_title": "Murong Yang Managing Director And Head Of Capital Markets At Future Capital On Deep Tech Landscape In China"
   },
   {
     "name": "Nainesh Jaisingh",
@@ -3362,7 +3639,8 @@
     "geography": "china",
     "sector": "technology",
     "company_name": "Affirma Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Nainesh Jaising Partner At Affirma Capital On How To Build A Private Equity Firm"
   },
   {
     "name": "\nNassim Cherchali",
@@ -3378,7 +3656,8 @@
     "geography": "america",
     "sector": "education",
     "company_name": "Anacap",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Nassim Cherchali Managing Partner At Anacap On How To Identify Opportunities In Financial Sector In Lower Mid Market"
   },
   {
     "name": "Nathalie Richards",
@@ -3393,7 +3672,8 @@
     "geography": "china",
     "sector": "education",
     "company_name": "Seo London",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Nathalie Richards Ceo Of Seo London On Dei And Roi"
   },
   {
     "name": "Nav Khosla",
@@ -3409,7 +3689,8 @@
     "geography": "china",
     "sector": "education",
     "company_name": "Novo Holdings",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Navjeewan Khosla Partner Of Novo Holdings On The Development Of Healthcare Portfolios"
   },
   {
     "name": "Neil Harper",
@@ -3425,7 +3706,8 @@
     "geography": "asia",
     "sector": "education",
     "company_name": "Turkven",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Neil Harper Chairman At Turkven On Investment Outlook In Turkey In The Next Three Years"
   },
   {
     "name": "Neno Raic",
@@ -3441,7 +3723,8 @@
     "geography": "europe",
     "sector": "education",
     "company_name": "Nlc",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Neno Raic Managing Partner At Nlc On Fund Financing"
   },
   {
     "name": "Nick Cleary",
@@ -3457,7 +3740,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Vantage Infrastructure",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Nick Cleary Senior Partner At Vantage Infrastructure On Infrastructure Lending Trends"
   },
   {
     "name": "Nick James",
@@ -3473,7 +3757,8 @@
     "geography": "uk",
     "sector": "energy",
     "company_name": "Lazard",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Nick James Co Head Of The Venture Growth Banking Group At Lazard On The Growth Capital Landscape Trends"
   },
   {
     "name": "Nicolas Wolikow + Simon Istolainen",
@@ -3488,7 +3773,8 @@
     "geography": "asia",
     "sector": "technology",
     "company_name": "Cure 51",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Nicolas Wolikow And Simon Istolainen Founders At Cure 51 On The Intersection Between Data Science And Tech"
   },
   {
     "name": "Nicole Downer",
@@ -3504,7 +3790,8 @@
     "geography": "uk",
     "sector": "real estate",
     "company_name": "Mv Credit",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Nicole Downer Managing Partner At Mv Credit On Defining The Upper Mid Market Private Credit Space"
   },
   {
     "name": "Nicole Kidd",
@@ -3520,7 +3807,8 @@
     "geography": "asia",
     "sector": "education",
     "company_name": "Private Debt Apac Schroders Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Nicole Kidd Head Of Private Debt Apac Schroders Capital On Uniqueness Of Private Credit In Australia"
   },
   {
     "name": "Nishan Srinivasan",
@@ -3536,7 +3824,8 @@
     "geography": "america",
     "sector": "education",
     "company_name": "Origination And Partner Of Ambienta Credit",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Nishan Srinivasan Head Of Origination And Partner Of Ambienta Credit On Private Credit Outlook"
   },
   {
     "name": "Norma Chu",
@@ -3551,7 +3840,8 @@
     "geography": "china",
     "sector": "finance",
     "company_name": "Daydaycook",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Norma Chu Founder Of Daydaycook On Trends In The Food Sector"
   },
   {
     "name": "Olav Ostin",
@@ -3566,7 +3856,8 @@
     "geography": "america",
     "sector": "energy",
     "company_name": "Tempocap",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Olav Ostin Founder And Managing Partner At Tempocap On Trends In Secondaries In Technology"
   },
   {
     "name": "Orlando Gemes",
@@ -3582,7 +3873,8 @@
     "geography": "asia",
     "sector": "technology",
     "company_name": "Fourier Asset Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Orlando Gemes Founder And Chief Investment Officer At Fourier Asset Management On How To Use Data To Identify Repeatable Alpha"
   },
   {
     "name": "Patrick Dai",
@@ -3598,7 +3890,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Ykc Clean Energy",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Patrick Dai Cfo Of Ykc Clean Energy On The Build Of Renewable Infrastructures"
   },
   {
     "name": "Patrick William",
@@ -3614,7 +3907,8 @@
     "geography": "singapore",
     "sector": "finance",
     "company_name": "Rixon Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Patrick William Co Founder And Managing Director At Rixon Capital On Risk Return Trends In Australian Market"
   },
   {
     "name": "Paul Robine",
@@ -3630,7 +3924,8 @@
     "geography": "china",
     "sector": "finance",
     "company_name": "Tr Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Paul Robine Founder And Ceo Of Tr Capital On The Secondaries In Asia"
   },
   {
     "name": "Pedro Tavares",
@@ -3646,7 +3941,8 @@
     "geography": "uk",
     "sector": "real estate",
     "company_name": "Altimapa",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Pedro Tavares Founder And Ceo Of Altimapa On Buy Build Trends And Opportunities For Credit Funds"
   },
   {
     "name": "Pete Robinson",
@@ -3662,7 +3958,8 @@
     "geography": "asia",
     "sector": "real estate",
     "company_name": "Challenger Investment Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Pete Robinson Head Of Investment Strategy Fixed Income At Challenger Investment Management On Corporate Governance Issues"
   },
   {
     "name": "Peter Bruce Clark",
@@ -3678,7 +3975,8 @@
     "geography": "uk",
     "sector": "education",
     "company_name": "Kalytix Ventures",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Peter Bruce Clark Founder Of Kalytix Ventures On Impact Investing Trends"
   },
   {
     "name": "Peter Harbula",
@@ -3694,7 +3992,8 @@
     "geography": "europe",
     "sector": "energy",
     "company_name": "Group Spie",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Peter Harbula Head Of Ma At Group Spie On The Day In The Life Of A Head Of Ma"
   },
   {
     "name": "Peter Kirsch",
@@ -3710,7 +4009,8 @@
     "geography": "united states",
     "sector": "energy",
     "company_name": "Blue Marlin Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Peter Kirsch Founder Of Blue Marlin Partners On Private Equity Firm Evolution"
   },
   {
     "name": "Peter Rothschild ",
@@ -3726,7 +4026,8 @@
     "geography": "europe",
     "sector": "education",
     "company_name": "Rf Investment Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Peter Rothschild Co Founder Managing Partner At Rf Investment Partners On Identifying A Niche In Mid Market Investing"
   },
   {
     "name": "Peter Zollinger",
@@ -3739,7 +4040,8 @@
     "geography": "europe",
     "sector": "energy",
     "company_name": "Globalance Bank",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Peter Zollinger Head Of Impact Research At Globalance Bank On The Central Role Of Asset Owners"
   },
   {
     "name": "Phil Arbour",
@@ -3755,7 +4057,8 @@
     "geography": "uk",
     "sector": "real estate",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Philippe Arbour Ceo And Managing Partner Tresmares Capital Uk On Privare Credit Trends"
   },
   {
     "name": "Philip Hu",
@@ -3771,7 +4074,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Primavera Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Philip Hu Founding Member Managing Director Of Primavera Capital On Energy Transition Outlook"
   },
   {
     "name": "Pia Kall",
@@ -3787,7 +4091,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Capman",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Pia Kall Ceo Of Capman On The Nordics Real Assets Investment Landscape"
   },
   {
     "name": "Pierre Abadie",
@@ -3803,7 +4108,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Tikehau Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Pierre Abadie Group Climate Director At Tikehau Capital On Financial Innovation And The Decarbonization Of The Global Economy"
   },
   {
     "name": "Pietro Busnardo",
@@ -3818,7 +4124,8 @@
     "geography": "america",
     "sector": "finance",
     "company_name": "Gradiente",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Pietro Busnardo Founder Managing Partner At Gradiente On How To Improve Family Owned Businesses"
   },
   {
     "name": "Pramod Ahuja",
@@ -3834,7 +4141,8 @@
     "geography": "china",
     "sector": "education",
     "company_name": "Tata Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Pramod Ahuja Partner At Tata Capital On Investment Outlook In India"
   },
   {
     "name": "Pratima Rangarajan",
@@ -3850,7 +4158,8 @@
     "geography": "europe",
     "sector": "energy",
     "company_name": "Climate Investment",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Dr Pratima Rangarajan Ceo Of Climate Investment On Trends In Impact Investing"
   },
   {
     "name": "Raffaele de Courten",
@@ -3866,7 +4175,8 @@
     "geography": "asia",
     "sector": "education",
     "company_name": "Alto Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Raffaele De Courten Founding Partner At Alto Partners On The Investment Landscape In Italy And How To Identify A Niche"
   },
   {
     "name": "Ralph Buechel",
@@ -3882,7 +4192,8 @@
     "geography": "asia",
     "sector": "real estate",
     "company_name": "Unigestion",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Ralph Buechel Partner And Global Head Of Secondaries At Unigestion On The Rise Of The Secondary Market"
   },
   {
     "name": "Ramzi Bibi",
@@ -3898,7 +4209,8 @@
     "geography": "europe",
     "sector": "technology",
     "company_name": "Arabia Insurance Company",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Ramzi Bibi Head Of Treasury And Investment At Arabia Insurance Company On How To Use Ai In Capital Markets"
   },
   {
     "name": "Randy Schwimmer",
@@ -3914,7 +4226,8 @@
     "geography": "united states",
     "sector": "finance",
     "company_name": "Churchill Asset Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Randy Schwimmer Vice Chairman At Churchill Asset Management On How To Build A Competitive Advantage In Private Credit Investing"
   },
   {
     "name": "Reggie Mills ",
@@ -3929,7 +4242,8 @@
     "geography": "asia",
     "sector": "finance",
     "company_name": "Liquidity Group",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Reggie Mills Head Of Financial Institutions Group At Liquidity Group On How Technology Can Help The Deal Sourcing Workflow"
   },
   {
     "name": "Reynir Indahl",
@@ -3945,7 +4259,8 @@
     "geography": "europe",
     "sector": "technology",
     "company_name": "Summa Equity",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Reynir Indahl Founder And Managing Partner At Summa Equity On How Sustainable Investing Can Lead To Superior Returns"
   },
   {
     "name": "Rhett Pan",
@@ -3960,7 +4275,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Cbc Group",
-    "company_size": "Large"
+    "company_size": "Large",
+    "video_title": "Rhett Pan Managing Director Of Cbc Group On Investor And Entrepreneurs Perspective Of The Medical Device Sector Landscape"
   },
   {
     "name": "Richard De Silva",
@@ -3976,7 +4292,8 @@
     "geography": "america",
     "sector": "technology",
     "company_name": "Lateral Investment Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Richard De Silva Founder And Managing Partner Of Lateral Investment Management On How To Find A Niche In Bootstrapped Companies Investing"
   },
   {
     "name": "Richard Sanders",
@@ -3992,7 +4309,8 @@
     "geography": "europe",
     "sector": "energy",
     "company_name": "Sullivan Street",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Richard Sanders Founder And Managing Partner Of Sullivan Street On How To Add Value From An Operational Point Of View In A Private Equity Transaction"
   },
   {
     "name": "Rodolfo De Benedetti",
@@ -4007,7 +4325,8 @@
     "geography": "europe",
     "sector": "real estate",
     "company_name": "Decalia Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Rodolfo De Benedetti Partner At Decalia Capital On Private Assets Trends"
   },
   {
     "name": "Roger Moh",
@@ -4023,7 +4342,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Vi Asset Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Roger Moh Managing Director Of Vi Asset Management On The Future Of Private Credit And Outlook Of Technology In Investment"
   },
   {
     "name": "Roland Dennert",
@@ -4039,7 +4359,8 @@
     "geography": "germany",
     "sector": "real estate",
     "company_name": "Cipio Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Roland Dennert Managing Partner Of Cipio Partners On Attractiveness Of Software Investing"
   },
   {
     "name": "Ron Diamond",
@@ -4054,7 +4375,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Diamond Wealth",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Ronald Diamond Founder Of Diamond Wealth On Private Assets Trends"
   },
   {
     "name": "Ron Geffner",
@@ -4070,7 +4392,8 @@
     "geography": "america",
     "sector": "finance",
     "company_name": "The Executive Committee Of Sadis",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Ron Geffner Founding Member Of The Executive Committee Of Sadis On The Day In The Life Of A Fund Formation Lawyer"
   },
   {
     "name": "Ross Morrow",
@@ -4086,7 +4409,8 @@
     "geography": "america",
     "sector": "finance",
     "company_name": "Dunport Capital Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Ross Morrow Co Founder Of Dunport Capital Management On Creating A Niche In European Mid Market Private Lending"
   },
   {
     "name": "Ruprecht Hellauer",
@@ -4102,7 +4426,8 @@
     "geography": "united states",
     "sector": "real estate",
     "company_name": "Albulus",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Dr Ruprecht Hellauer Founder Of Albulus On Finding The Right Opportunities In The German Real Estate Market"
   },
   {
     "name": "Ryan Donnar and Atiya Habib",
@@ -4118,7 +4443,8 @@
     "geography": "asia",
     "sector": "finance",
     "company_name": "Dinimus",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Ryan Donnar And Atiya Habib Managing Partners And Members Of The Investment Committee At Dinimus On Private Credit Trends"
   },
   {
     "name": "Sam Nallen Copley",
@@ -4134,7 +4460,8 @@
     "geography": "asia",
     "sector": "education",
     "company_name": "Family Office Social Fos",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Sam Nallen Copley Founder Of Family Office Social Fos On The Day In The Life Of A Family Office Adviser"
   },
   {
     "name": "Sam Phillips ",
@@ -4150,7 +4477,8 @@
     "geography": "asia",
     "sector": "education",
     "company_name": "Reach Alternative Investments",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Sam Phillips Ceo Of Reach Alternative Investments On Democratization Of Private Assets"
   },
   {
     "name": "Samira Ann Qassim",
@@ -4166,7 +4494,8 @@
     "geography": "uk",
     "sector": "education",
     "company_name": "Pink Salt Ventures",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Samira Ann Qassim Founder Of Pink Salt Ventures On Female Leadership"
   },
   {
     "name": "Saum Vahdat",
@@ -4182,7 +4511,8 @@
     "geography": "china",
     "sector": "education",
     "company_name": "Bridgewest Ventures",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Saum Vahdat Ceo Of Bridgewest Ventures On Vcs Role In The Push Of Collaboration Between Private And Public Sectors"
   },
   {
     "name": "Scott McClurg",
@@ -4198,7 +4528,8 @@
     "geography": "asia",
     "sector": "education",
     "company_name": "Hsbc Asset Management",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Scott Mcclurg Head Of Private Credit At Hsbc Asset Management On How To Identify A Niche In Private Credit"
   },
   {
     "name": "Sean He",
@@ -4214,7 +4545,8 @@
     "geography": "china",
     "sector": "finance",
     "company_name": "China Of Novo Holdings",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Sean He Partner And Head Of China Of Novo Holdings On Investing Opportunities In Healthcare Sector"
   },
   {
     "name": "Sean Low",
@@ -4230,7 +4562,8 @@
     "geography": "china",
     "sector": "real estate",
     "company_name": "Golden Vision",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Sean Low Ceo And Cio Of Golden Vision On Building A Private Debt Portfolio"
   },
   {
     "name": "Sebastian Beer",
@@ -4246,7 +4579,8 @@
     "geography": "asia",
     "sector": "finance",
     "company_name": "Growth Equity Of Ttb Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Sebastian Beer Head Of Growth Equity Of Ttb Partners On How New Technologies And Human Intelligence Can Improve Fintech Investments"
   },
   {
     "name": "Sengal Selassie",
@@ -4262,7 +4596,8 @@
     "geography": "europe",
     "sector": "finance",
     "company_name": "Brightwood Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Sengal Selassie Ceo And Founder Of Brightwood Capital On Identifying A Niche In Private Credit In The Us"
   },
   {
     "name": "Shankar Hemmady",
@@ -4278,7 +4613,8 @@
     "geography": "china",
     "sector": "education",
     "company_name": "Blue Horizons",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Shankar Hemmady Founder Of Blue Horizons On The Evolution Of Electronics And Biotech"
   },
   {
     "name": "Shaun Lim",
@@ -4294,7 +4630,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Hopu Investments",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Shaun Lim Co President Of Hopu Investments On Democratization Of Private Assets In Asia"
   },
   {
     "name": "Shiloh Bates",
@@ -4309,7 +4646,8 @@
     "geography": "uk",
     "sector": "energy",
     "company_name": "Flat Rock Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Shiloh Bates Chief Investment Officer At Flat Rock Capital On Trends In The Clo Space"
   },
   {
     "name": "Shyam Menon",
@@ -4325,7 +4663,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Bharat Innovations Fund",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Shyam Menon Founder Of Bharat Innovations Fund On The Outlook Of Deeptech Investment In India"
   },
   {
     "name": "Simon Feiglin",
@@ -4341,7 +4680,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Riverside",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Simon Feiglin Managing Partner Of Riverside On Finding Successful Niches In Private Equity In Australia"
   },
   {
     "name": "Simon Hopkins",
@@ -4357,7 +4697,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Milltrust International Group",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Simon Hopkins Ceo Of Milltrust International Group On Emerging Markets Multi Family Office Industry Trends"
   },
   {
     "name": "Simon Moore",
@@ -4373,7 +4714,8 @@
     "geography": "asia",
     "sector": "technology",
     "company_name": "Colinton Capital Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Simon Moore Founder Of Colinton Capital Partners On Identifying Trends In Lower Mid Market In Australia"
   },
   {
     "name": "Staffan Jafs",
@@ -4389,7 +4731,8 @@
     "geography": "uk",
     "sector": "education",
     "company_name": "Eq",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Staffan Jafs Head Of Private Equity At Eq On Identifying Successful Managers"
   },
   {
     "name": "Stefano Iamoni ",
@@ -4405,7 +4748,8 @@
     "geography": "united states",
     "sector": "technology",
     "company_name": "Consilium",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Stefano Iamoni Ceo Of Consilium On How To Find B2B Opportunities In Italy"
   },
   {
     "name": "Stephan Ruoff",
@@ -4421,7 +4765,8 @@
     "geography": "united states",
     "sector": "education",
     "company_name": "Private Debt Credit Alternatives And Chairman Of Insurance Linked Securities Ils Schroders Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Stephan Ruoff Co Head Of Private Debt Credit Alternatives And Chairman Of Insurance Linked Securities Ils Schroders Capital On Ils Trends"
   },
   {
     "name": "Stephanie Heller ",
@@ -4437,7 +4782,8 @@
     "geography": "uk",
     "sector": "finance",
     "company_name": "Bootstrap Europe",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Stephanie Heller Founder Of Bootstrap Europe On Growth Debt Trends"
   },
   {
     "name": "Stephen Meade",
@@ -4452,7 +4798,8 @@
     "geography": "america",
     "sector": "finance",
     "company_name": "Green Wave Funding",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Stephen Meade Founder Of Green Wave Funding On Green And Blue Bonds In Unlocking Sustainable Finance"
   },
   {
     "name": "Steve Brown and Phil Hodsdon",
@@ -4467,7 +4814,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Portola Valley Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Steve Brown And Phil Hodsdon Founder And Cro Of Portola Valley Partners On Generative Ai Evolution"
   },
   {
     "name": "Steve Lim",
@@ -4482,7 +4830,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Sjl Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Steve Suk Jung Lim Chairman And Managing Partner Of Sjl Partners On Private Equity Outlook In Korea For 2024 2026"
   },
   {
     "name": "Steven Ruby",
@@ -4498,7 +4847,8 @@
     "geography": "europe",
     "sector": "energy",
     "company_name": "Audax Private Debt",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Steven Ruby Co Head Of Originated Debt At Audax Private Debt On How To Identify Uniqueness And Niche In Private Credit"
   },
   {
     "name": "Stuart Cook",
@@ -4514,7 +4864,8 @@
     "geography": "america",
     "sector": "education",
     "company_name": "Twiyo Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Stuart Cook Founding Partner At Twiyo Capital On Promoting Health Wellbeing As An Investor And Former Entrepreneur"
   },
   {
     "name": "Subahoo Chordia",
@@ -4530,7 +4881,8 @@
     "geography": "india",
     "sector": "energy",
     "company_name": null,
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Subahoo Chordia President And Head Real Assets Funds Business Edelweiss Alternatives On Energy Transition Investment Theme Across Asset Classes"
   },
   {
     "name": "Sumeet Gulati",
@@ -4545,7 +4897,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Genui Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Sumeet Gulati Founder And Managing Partner Of Genui Partners On The Evolution Of Impact Investing"
   },
   {
     "name": "Sunaina Sinha",
@@ -4561,7 +4914,8 @@
     "geography": "europe",
     "sector": "finance",
     "company_name": "Raymond James",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Sunaina Sinha Global Head Of The Private Capital Advisory Group At Raymond James On The Evolution Of The Secondary Market"
   },
   {
     "name": "Suzanne Kumar",
@@ -4576,7 +4930,8 @@
     "geography": "asia",
     "sector": "technology",
     "company_name": "Bain Company",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Suzanne Kumar Vice President Of Global Ma Practice At Bain Company On The Outlook Of Global Ma Regulatory Concerns Genai And Ma As Value Creation"
   },
   {
     "name": "Symon Drake-Brockman",
@@ -4591,7 +4946,8 @@
     "geography": "united states",
     "sector": "finance",
     "company_name": "Pemberton",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Symon Drake Brockman Managing Partner And Co Founder Of Pemberton On Private Credit Trends And Nav Lending"
   },
   {
     "name": "Tagar Olson",
@@ -4607,7 +4963,8 @@
     "geography": "europe",
     "sector": "finance",
     "company_name": "Integrum",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Tagar Olson Founding Partner At Integrum On Thematic Approach In Private Equity Investing"
   },
   {
     "name": "Tai Lin",
@@ -4623,7 +4980,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Proterra Investment Partners Asia",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Tai Lin Managing Partner Of Proterra Investment Partners Asia On Investing In Food"
   },
   {
     "name": "Ted Goldthorpe",
@@ -4639,7 +4997,8 @@
     "geography": "united states",
     "sector": "real estate",
     "company_name": "Bc Partners Credit",
-    "company_size": "Large"
+    "company_size": "Large",
+    "video_title": "Ted Goldthorpe Partner Head Of Bc Partners Credit On Identifying A Niche In Private Credit"
   },
   {
     "name": "Theodore Shou",
@@ -4655,7 +5014,8 @@
     "geography": "china",
     "sector": "finance",
     "company_name": "Skybound Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Theodore Shou Chief Investment Officer Of Skybound Capital On Creating A Niche In Private Credit Investing"
   },
   {
     "name": "Thierry Chignon",
@@ -4671,7 +5031,8 @@
     "geography": "europe",
     "sector": "healthcare",
     "company_name": "Merieux Equity Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Thierry Chignon Managing Partner At Merieux Equity Partners On Investments Trends In Healthcare"
   },
   {
     "name": "Thomas de Waen",
@@ -4687,7 +5048,8 @@
     "geography": "europe",
     "sector": "energy",
     "company_name": "Core Equity Holdings",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Thomas De Waen Managing Director And Co Founder Of Core Equity Holdings On The Evolution Of Private Equity In 2024 And Beyond"
   },
   {
     "name": "Thomas Eskebaek",
@@ -4703,7 +5065,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Titanbay",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Thomas Eskebaek Ceo Of Titanbay On The Evolution Of Private Markets"
   },
   {
     "name": "Tjarko Hector",
@@ -4719,7 +5082,8 @@
     "geography": "america",
     "sector": "education",
     "company_name": "New 2Nd Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Tjarko Hektor Founder Of New 2Nd Capital On Unlocking Value In Gp Led Secondaries"
   },
   {
     "name": "Tom Gosling",
@@ -4735,7 +5099,8 @@
     "geography": "uk",
     "sector": "finance",
     "company_name": "London Business School On Executives Compensation And The Role Of Investors",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Tom Gosling Executive Fellow At London Business School On Executives Compensation And The Role Of Investors On Climate Change"
   },
   {
     "name": "Troy Gayeski",
@@ -4751,7 +5116,8 @@
     "geography": "europe",
     "sector": "real estate",
     "company_name": "Fs Investments",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Troy Gayeski Chief Market Strategist Of Fs Investments On The Democratization Of Alternative Investing"
   },
   {
     "name": "Udayan Goyal",
@@ -4766,7 +5132,8 @@
     "geography": "asia",
     "sector": "real estate",
     "company_name": "Apis Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Udayan Goyal Co Founder And Managing Partner At Apis Partners On The Embedded Finance Trends"
   },
   {
     "name": "Victoria Mesquita",
@@ -4782,7 +5149,8 @@
     "geography": "america",
     "sector": "finance",
     "company_name": "Curtis Mallet Prevost Colt Mosle Llp",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Victoria Mesquita Head Of Private Credit Special Situations At Curtis Mallet Prevost Colt Mosle Llp On Outlook For Private Credit In Mea"
   },
   {
     "name": "Vikram Raju",
@@ -4798,7 +5166,8 @@
     "geography": "asia",
     "sector": "energy",
     "company_name": "Climate Investing Of Morgan Stanley",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Vikram Raju Head Of Climate Investing Of Morgan Stanley On Climate Investing Opportunities"
   },
   {
     "name": "Wouter Kneepkens",
@@ -4813,7 +5182,8 @@
     "geography": "china",
     "sector": "education",
     "company_name": "Blauwpark Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Wouter Kneepkens Partner At Blauwpark Partners On Family Offices Trends In Singapore"
   },
   {
     "name": "Yang Yang",
@@ -4829,7 +5199,8 @@
     "geography": "china",
     "sector": "energy",
     "company_name": "Firstred Capital",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Yang Yang Managing Director Of Firstred Capital On Data Services Industry Landscape In China"
   },
   {
     "name": "Yann Robard",
@@ -4842,7 +5213,8 @@
     "geography": "uk",
     "sector": "education",
     "company_name": "Dawson Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Yann Robard Managing Partner At Dawson Partners On How To Identify A Niche In The Secondary Market"
   },
   {
     "name": "Yohan Hills",
@@ -4858,7 +5230,8 @@
     "geography": "america",
     "sector": "education",
     "company_name": "Adam Street Partners",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Yohan Hills Director Of Esg And Responsible Investments At Adam Street Partners On Impact Framework And Challenges"
   },
   {
     "name": "Zachary Krug\n",
@@ -4874,6 +5247,7 @@
     "geography": "united states",
     "sector": "education",
     "company_name": "Northwall",
-    "company_size": "Unknown"
+    "company_size": "Unknown",
+    "video_title": "Zac Krug Managing Director Of Northwall On Litigation Finance Trends"
   }
 ]
