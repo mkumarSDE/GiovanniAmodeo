@@ -1,94 +1,127 @@
 ---
-import ContactModal from '../components/ContactModal.astro';
+// No script needed
 ---
 
-<section id="services" class="py-24 px-6 bg-gray-50 text-gray-900 font-sans">
-        <div class="max-w-6xl mx-auto" x-data="{ contactModalOpen: false }">
-                <h2 class="text-4xl font-bold text-center mb-16">
-                        What I Offer
-                </h2>
+<section id="services" class="py-16 md:py-20 bg-gradient-to-br from-gray-50 to-white">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6">
+    <div class="text-center mb-12 md:mb-16">
+      <h2 class="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-900 mb-4 md:mb-6 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+        What I Offer
+      </h2>
+      <p class="text-lg sm:text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed font-medium px-4">
+        Strategic consulting, speaking engagements, and exclusive access to capital markets insights
+      </p>
+    </div>
 
-                <div class="grid grid-cols-1 md:grid-cols-2 gap-12">
-                        <!-- Strategic & Life Coaching -->
-                        <div
-                                class="bg-white/10 backdrop-blur-md border border-gray-200 rounded-2xl p-8 shadow-lg transition hover:scale-[1.02] duration-300"
-                        >
-                                <h3
-                                        class="text-2xl font-semibold flex items-center gap-2 mb-4"
-                                >
-                                        🧭 Strategic & Life Coaching
-                                </h3>
-                                <p class="text-gray-800 leading-relaxed">
-                                        Giovanni works privately with a select
-                                        group of executives, investors, and
-                                        founders seeking clarity in both
-                                        business and life. His coaching blends
-                                        decades of market experience with deep
-                                        emotional intelligence — helping leaders
-                                        recalibrate, refocus, and rise.
-                                </p>
-                                <ul
-                                        class="mt-5 list-disc list-inside text-gray-700 text-sm space-y-1"
-                                >
-                                        <li>
-                                                1:1 strategic alignment sessions
-                                        </li>
-                                        <li>
-                                                High-performance mindset
-                                                coaching
-                                        </li>
-                                        <li>
-                                                Navigating transitions, burnout,
-                                                and boardroom dynamics
-                                        </li>
-                                </ul>
-                        </div>
-
-                        <!-- Speaking & Moderation -->
-                        <div
-                                class="bg-white/10 backdrop-blur-md border border-gray-200 rounded-2xl p-8 shadow-lg transition hover:scale-[1.02] duration-300"
-                        >
-                                <h3
-                                        class="text-2xl font-semibold flex items-center gap-2 mb-4"
-                                >
-                                        🎤 Speaking & Moderation
-                                </h3>
-                                <p class="text-gray-800 leading-relaxed">
-                                        Giovanni is a trusted keynote speaker
-                                        and panel moderator across capital
-                                        markets and private equity circles. He
-                                        brings clarity, insight, and tempo to
-                                        stages — from investor roundtables to
-                                        global conferences.
-                                </p>
-                                <ul
-                                        class="mt-5 list-disc list-inside text-gray-700 text-sm space-y-1"
-                                >
-                                        <li>
-                                                Keynote addresses on market
-                                                trends & leadership
-                                        </li>
-                                        <li>Private roundtable moderation</li>
-                                        <li>
-                                                Host of 150+ off-the-record
-                                                fireside chats annually
-                                        </li>
-                                </ul>
-                        </div>
-                </div>
-
-                <div
-                        class="text-center mt-16"
-                        
-                >
-                        <a
-                                href="javascript:void(0)"
-                                @click="contactModalOpen = true"
-                                class="inline-block bg-white text-blue-900 font-bold py-3 px-6 rounded-full shadow hover:bg-sky-100 transition duration-300"
-                        >
-                                Let’s Connect
-                        </a>
-                </div>
-                <ContactModal />
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8">
+      <!-- Strategic Coaching -->
+      <div class="bg-white rounded-2xl md:rounded-3xl p-6 md:p-8 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-2 border border-gray-100">
+        <div class="w-12 h-12 md:w-16 md:h-16 bg-gradient-to-r from-blue-500 to-blue-600 rounded-xl md:rounded-2xl flex items-center justify-center mb-4 md:mb-6 shadow-lg">
+          <svg class="w-6 h-6 md:w-8 md:h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/>
+          </svg>
         </div>
+        <h3 class="text-lg md:text-xl font-bold text-gray-900 mb-3 md:mb-4">Strategic Coaching</h3>
+        <p class="text-gray-600 mb-4 md:mb-6 leading-relaxed text-sm md:text-base">
+          Private coaching sessions for executives, investors, and founders seeking clarity in both business and life decisions.
+        </p>
+        <ul class="space-y-2 md:space-y-3 text-xs md:text-sm text-gray-600">
+          <li class="flex items-center">
+            <svg class="w-3 h-3 md:w-4 md:h-4 text-green-500 mr-2 md:mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+            </svg>
+            1:1 strategic alignment sessions
+          </li>
+          <li class="flex items-center">
+            <svg class="w-3 h-3 md:w-4 md:h-4 text-green-500 mr-2 md:mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+            </svg>
+            High-performance mindset coaching
+          </li>
+          <li class="flex items-center">
+            <svg class="w-3 h-3 md:w-4 md:h-4 text-green-500 mr-2 md:mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+            </svg>
+            Boardroom dynamics guidance
+          </li>
+        </ul>
+      </div>
+
+      <!-- Speaking & Moderation -->
+      <div class="bg-white rounded-2xl md:rounded-3xl p-6 md:p-8 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-2 border border-gray-100">
+        <div class="w-12 h-12 md:w-16 md:h-16 bg-gradient-to-r from-purple-500 to-purple-600 rounded-xl md:rounded-2xl flex items-center justify-center mb-4 md:mb-6 shadow-lg">
+          <svg class="w-6 h-6 md:w-8 md:h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11a7 7 0 01-7 7m0 0a7 7 0 01-7-7m7 7v4m0 0H8m4 0h4m-4-8a3 3 0 01-3-3V5a3 3 0 116 0v6a3 3 0 01-3 3z"/>
+          </svg>
+        </div>
+        <h3 class="text-lg md:text-xl font-bold text-gray-900 mb-3 md:mb-4">Speaking & Moderation</h3>
+        <p class="text-gray-600 mb-4 md:mb-6 leading-relaxed text-sm md:text-base">
+          Keynote speaker and panel moderator across capital markets and private equity circles worldwide.
+        </p>
+        <ul class="space-y-2 md:space-y-3 text-xs md:text-sm text-gray-600">
+          <li class="flex items-center">
+            <svg class="w-3 h-3 md:w-4 md:h-4 text-green-500 mr-2 md:mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+            </svg>
+            Keynote addresses on market trends
+          </li>
+          <li class="flex items-center">
+            <svg class="w-3 h-3 md:w-4 md:h-4 text-green-500 mr-2 md:mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+            </svg>
+            Private roundtable moderation
+          </li>
+          <li class="flex items-center">
+            <svg class="w-3 h-3 md:w-4 md:h-4 text-green-500 mr-2 md:mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+            </svg>
+            300+ annual fireside chats
+          </li>
+        </ul>
+      </div>
+
+      <!-- Market Intelligence -->
+      <div class="bg-white rounded-2xl md:rounded-3xl p-6 md:p-8 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-2 border border-gray-100">
+        <div class="w-12 h-12 md:w-16 md:h-16 bg-gradient-to-r from-green-500 to-green-600 rounded-xl md:rounded-2xl flex items-center justify-center mb-4 md:mb-6 shadow-lg">
+          <svg class="w-6 h-6 md:w-8 md:h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/>
+          </svg>
+        </div>
+        <h3 class="text-lg md:text-xl font-bold text-gray-900 mb-3 md:mb-4">Market Intelligence</h3>
+        <p class="text-gray-600 mb-4 md:mb-6 leading-relaxed text-sm md:text-base">
+          Exclusive access to market insights and strategic data from global investment leaders.
+        </p>
+        <ul class="space-y-2 md:space-y-3 text-xs md:text-sm text-gray-600">
+          <li class="flex items-center">
+            <svg class="w-3 h-3 md:w-4 md:h-4 text-green-500 mr-2 md:mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+            </svg>
+            Real-time market analysis
+          </li>
+          <li class="flex items-center">
+            <svg class="w-3 h-3 md:w-4 md:h-4 text-green-500 mr-2 md:mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+            </svg>
+            Investment trend reports
+          </li>
+          <li class="flex items-center">
+            <svg class="w-3 h-3 md:w-4 md:h-4 text-green-500 mr-2 md:mr-3 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/>
+            </svg>
+            Strategic advisory services
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- Enhanced Full-Width CTA Section -->
+  
 </section>
+
+<style>
+  .bg-dots-pattern {
+    background-image: radial-gradient(circle, rgba(255,255,255,0.1) 1px, transparent 1px);
+    background-size: 20px 20px;
+  }
+</style>

@@ -1,2 +1,126 @@
 @import "tailwindcss";
-[x-cloak] { display: none !important; }
+
+/* Custom animations for Hero component */
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.8s ease-out;
+}
+
+.animate-slide-up {
+  animation: slide-up 0.6s ease-out;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom gradient text support */
+.bg-clip-text {
+  -webkit-background-clip: text;
+  background-clip: text;
+}
+
+/* Responsive improvements */
+@media (max-width: 640px) {
+  /* Ensure proper touch targets on mobile */
+  button, a {
+    min-height: 44px;
+    min-width: 44px;
+  }
+  
+  /* Improve text readability on small screens */
+  body {
+    font-size: 16px; /* Prevents zoom on iOS */
+  }
+  
+  /* Better spacing for mobile */
+  .container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+/* Improve modal scrolling on mobile */
+@media (max-width: 768px) {
+  .modal-content {
+    max-height: 90vh;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+/* Better video aspect ratios for mobile */
+@media (max-width: 640px) {
+  .aspect-video {
+    aspect-ratio: 16 / 9;
+  }
+}
+
+/* Improve carousel touch experience */
+@media (max-width: 768px) {
+  .carousel-wrapper {
+    touch-action: pan-y pinch-zoom;
+  }
+}
+
+/* Better form inputs on mobile */
+@media (max-width: 640px) {
+  input, textarea, select {
+    font-size: 16px; /* Prevents zoom on iOS */
+  }
+}
+
+/* Improve button accessibility */
+button:focus, a:focus {
+  outline: 2px solid #3b82f6;
+  outline-offset: 2px;
+}
+
+/* Better loading states */
+.loading {
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+/* Improve image loading */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Better line clamping for text */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
