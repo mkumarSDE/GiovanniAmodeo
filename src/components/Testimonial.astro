@@ -2,13 +2,13 @@
 // No script needed
 ---
 
-<section id="testimonial" class="py-20 bg-gradient-to-br from-gray-50 to-white">
-  <div class="max-w-7xl mx-auto px-6">
-    <div class="text-center mb-16">
-      <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+<section id="testimonial" class="py-16 md:py-20 bg-gradient-to-br from-gray-50 to-white">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6">
+    <div class="text-center mb-12 md:mb-16">
+      <h2 class="text-3xl sm:text-4xl md:text-5xl font-bold text-gray-900 mb-4 md:mb-6 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
         Trusted By
       </h2>
-      <p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed font-medium">
+      <p class="text-lg sm:text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed font-medium px-4">
         What people I've worked with have to say about their experience
       </p>
     </div>
@@ -26,11 +26,11 @@
         
         <!-- Individual Testimonial Cards -->
         <template x-for="(testimonial, index) in testimonials" :key="index">
-          <div class="testimonial-card flex-shrink-0 w-1/3 px-4">
-            <div class="bg-white rounded-3xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-2 border border-gray-100 text-center h-full">
-              <img :src="testimonial.image" :alt="testimonial.author" class="w-16 h-16 mx-auto rounded-full mb-4 object-cover shadow-lg" />
-              <h4 class="font-bold text-lg text-gray-900 mb-3" x-text="testimonial.author"></h4>
-              <p class="text-gray-700 leading-relaxed italic text-sm" x-text="testimonial.quote"></p>
+          <div class="testimonial-card flex-shrink-0 w-1/3 px-2 sm:px-4">
+            <div class="bg-white rounded-2xl md:rounded-3xl p-4 sm:p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-2 border border-gray-100 text-center h-full">
+              <img :src="testimonial.image" :alt="testimonial.author" class="w-12 h-12 sm:w-16 sm:h-16 mx-auto rounded-full mb-3 sm:mb-4 object-cover shadow-lg" />
+              <h4 class="font-bold text-base sm:text-lg text-gray-900 mb-2 sm:mb-3" x-text="testimonial.author"></h4>
+              <p class="text-gray-700 leading-relaxed italic text-xs sm:text-sm" x-text="testimonial.quote"></p>
             </div>
           </div>
         </template>
@@ -38,15 +38,15 @@
       </div>
 
       <!-- Navigation Arrows at Bottom -->
-      <div class="flex justify-center items-center space-x-4 py-6 mt-8">
-        <button @click="prev()" class="bg-white rounded-full p-3 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110 border border-gray-200">
-          <svg class="w-6 h-6 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <div class="flex justify-center items-center space-x-3 sm:space-x-4 py-4 sm:py-6 mt-6 sm:mt-8">
+        <button @click="prev()" class="bg-white rounded-full p-2 sm:p-3 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110 border border-gray-200">
+          <svg class="w-5 h-5 sm:w-6 sm:h-6 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
           </svg>
         </button>
         
-        <button @click="next()" class="bg-white rounded-full p-3 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110 border border-gray-200">
-          <svg class="w-6 h-6 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <button @click="next()" class="bg-white rounded-full p-2 sm:p-3 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110 border border-gray-200">
+          <svg class="w-5 h-5 sm:w-6 sm:h-6 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
           </svg>
         </button>
@@ -54,16 +54,16 @@
     </div>
 
     <!-- Trusted By Companies Section -->
-    <div class="overflow-hidden relative">
-      <div class="trusted-track flex items-center gap-16 px-6">
+    <div class="overflow-hidden relative mt-8 sm:mt-12">
+      <div class="trusted-track flex items-center gap-8 sm:gap-16 px-4 sm:px-6">
         <!-- Repeat this group of logos twice for seamless loop -->
-        <div class="flex items-center gap-16 shrink-0">
+        <div class="flex items-center gap-8 sm:gap-16 shrink-0">
           <img src="/company1.svg" alt="Company 1" class="trusted-logo" />
           <img src="/company2.svg" alt="Company 2" class="trusted-logo" />
           <img src="/company3.svg" alt="Company 3" class="trusted-logo" />
           <img src="/company4.svg" alt="Company 4" class="trusted-logo" />
         </div>
-        <div class="flex items-center gap-16 shrink-0">
+        <div class="flex items-center gap-8 sm:gap-16 shrink-0">
           <img src="/company1.svg" alt="Company 1" class="trusted-logo" />
           <img src="/company2.svg" alt="Company 2" class="trusted-logo" />
           <img src="/company3.svg" alt="Company 3" class="trusted-logo" />
@@ -130,9 +130,15 @@
   }
 
   .trusted-logo {
-    height: 48px;
+    height: 32px;
     opacity: 0.8;
     transition: opacity 0.3s ease;
+  }
+
+  @media (min-width: 640px) {
+    .trusted-logo {
+      height: 48px;
+    }
   }
 
   .trusted-logo:hover {

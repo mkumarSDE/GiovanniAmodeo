@@ -17,13 +17,20 @@
   }
 
   .profile-pic {
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     object-fit: cover;
     border: 6px solid #fff;
     margin-bottom: 30px;
     animation: float 6s ease-in-out infinite;
+  }
+
+  @media (min-width: 768px) {
+    .profile-pic {
+      width: 250px;
+      height: 250px;
+    }
   }
 
   @keyframes float {
@@ -32,9 +39,15 @@
   }
 
   .social-icon {
-    font-size: 24px;
+    font-size: 20px;
     color: white;
     transition: all 0.3s ease;
+  }
+
+  @media (min-width: 768px) {
+    .social-icon {
+      font-size: 24px;
+    }
   }
 
   .social-icon:hover {
@@ -44,32 +57,59 @@
 
   .socials-container {
     position: absolute;
-    bottom: 30px;
-    right: 30px;
+    bottom: 20px;
+    right: 20px;
     background-color: rgba(0, 0, 0, 0.5);
-    padding: 12px 16px;
+    padding: 10px 14px;
     border-radius: 12px;
     display: flex;
-    gap: 16px;
+    gap: 12px;
     box-shadow: 0 8px 24px rgba(0,0,0,0.2);
     backdrop-filter: blur(10px);
+  }
+
+  @media (min-width: 768px) {
+    .socials-container {
+      bottom: 30px;
+      right: 30px;
+      padding: 12px 16px;
+      gap: 16px;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .socials-container {
+      position: relative;
+      bottom: auto;
+      right: auto;
+      margin-top: 20px;
+      justify-content: center;
+    }
   }
 
   .cta-button {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
-    padding: 16px 32px;
+    padding: 14px 28px;
     border-radius: 50px;
     font-weight: 600;
-    font-size: 18px;
+    font-size: 16px;
     text-decoration: none;
     display: inline-flex;
     align-items: center;
-    gap: 12px;
+    gap: 10px;
     box-shadow: 0 10px 30px rgba(102, 126, 234, 0.4);
     transition: all 0.3s ease;
     position: relative;
     overflow: hidden;
+  }
+
+  @media (min-width: 768px) {
+    .cta-button {
+      padding: 16px 32px;
+      font-size: 18px;
+      gap: 12px;
+    }
   }
 
   .cta-button::before {
@@ -133,11 +173,11 @@
   />
 
   <!-- Name and Description -->
-  <h1 class="text-4xl md:text-6xl font-bold text-white drop-shadow mb-4 z-10">
+  <h1 class="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold text-white drop-shadow mb-4 z-10">
     Giovanni Amodeo
   </h1>
 
-  <p class="text-lg md:text-xl text-white max-w-xl mb-8 z-10 drop-shadow">
+  <p class="text-base sm:text-lg md:text-xl text-white max-w-xl mb-6 md:mb-8 z-10 drop-shadow px-4">
     Hi! I'm <span class="font-semibold">Giovanni Amodeo</span> 👋  People call me Gio.
   </p>
 
@@ -147,9 +187,22 @@
     class="cta-button z-10"
   >
     <span>Watch Me in Action</span>
-    <svg class="cta-icon w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <svg class="cta-icon w-4 h-4 md:w-5 md:h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.828 14.828a4 4 0 01-5.656 0M9 10h1m4 0h1m-6 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
     </svg>
   </a>
+
+  <!-- Social Icons - Responsive positioning -->
+  <div class="socials-container z-10">
+    <a href="#" class="social-icon hover:text-blue-400">
+      <i class="fab fa-linkedin"></i>
+    </a>
+    <a href="#" class="social-icon hover:text-blue-400">
+      <i class="fab fa-twitter"></i>
+    </a>
+    <a href="#" class="social-icon hover:text-blue-400">
+      <i class="fab fa-instagram"></i>
+    </a>
+  </div>
 
 </section>
