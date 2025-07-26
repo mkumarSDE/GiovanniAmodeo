@@ -1,304 +1,284 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Testimonials and Trusted By</title>
-    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
-    <style>
-      /* Custom dot navigation styling */
-      .dot {
-        width: 12px;
-        height: 12px;
-        margin: 0 4px;
-        border-radius: 50%;
-        background-color: #bbb;
-        cursor: pointer;
-        transition: background-color 0.3s ease;
-      }
-      .dot.active {
-        background-color: #4caf50;
-      }
+---
+// No script needed
+---
 
-      /* Ensure the carousel is responsive */
-      .carousel-container {
-        position: relative;
-        overflow: hidden;
-      }
+<section id="testimonial" class="py-20 bg-gradient-to-br from-gray-50 to-white">
+  <div class="max-w-7xl mx-auto px-6">
+    <div class="text-center mb-16">
+      <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+        Trusted By
+      </h2>
+      <p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed font-medium">
+        What people I've worked with have to say about their experience
+      </p>
+    </div>
 
-      .carousel-wrapper {
-        display: flex;
-        transition: transform 0.5s ease;
-      }
-
-      .testimonial-group {
-        flex-shrink: 0;
-        width: 100%;
-        display: grid;
-        gap: 8px;
-        grid-template-columns: 1fr 1fr 1fr;
-        padding: 0 16px;
-      }
-
-      /* Handle responsive grid */
-      @media (max-width: 768px) {
-        .testimonial-group {
-          grid-template-columns: 1fr 1fr;
-        }
-      }
-
-      @media (max-width: 480px) {
-        .testimonial-group {
-          grid-template-columns: 1fr;
-        }
-      }
-
-      /* Trusted By Section Styling */
-      .trusted-section {
-        padding: 40px 0;
-        background-color: #f9f9f9;
-      }
-
-      .trusted-track {
-        width: max-content;
-        animation: scroll-left 30s linear infinite;
-      }
-
-      @keyframes scroll-left {
-        0% {
-          transform: translateX(0%);
-        }
-        100% {
-          transform: translateX(-50%);
-        }
-      }
-
-      .trusted-logo {
-        height: 48px;
-        opacity: 0.8;
-        transition: opacity 0.3s ease;
-      }
-
-      .trusted-logo:hover {
-        opacity: 1;
-      }
-    </style>
-  </head>
-  <body class="bg-white text-gray-800">
-
-    <!-- Testimonials Section -->
-    <section id="testimonial" class="py-20 bg-white">
-      <div class="max-w-6xl mx-auto px-4 text-center" x-data="testimonialCarousel()">
-        <h2 class="text-4xl font-bold mb-12">Trusted By</h2>
-        <!-- <p class="text-gray-600 mb-12">What people I've worked with have to say.</p> -->
-
-        <!-- Carousel Container -->
-        <div class="carousel-container">
-          <div class="carousel-wrapper"
-               :style="`transform: translateX(-${current * 100}%);`"
-               @mousedown="startDrag($event)" 
-               @mousemove="onDrag($event)" 
-               @mouseup="endDrag()"
-               @touchstart="startSwipe($event)" 
-               @touchmove="moveSwipe($event)" 
-               @touchend="endSwipe($event)">
-            
-            <!-- Grouped Slides -->
-            <template x-for="group in groupedTestimonials" :key="group">
-              <div class="testimonial-group">
-                <template x-for="(t, i) in group" :key="i">
-                  <div class="bg-gray-50 p-12 mr-6 rounded-xl shadow-md text-center">
-                    <img :src="t.image" alt="t.author" class="w-16 h-16 mx-auto rounded-full mb-4 object-cover" />
-                    <h4 class="font-semibold text-lg" x-text="t.author"></h4>
-                    <p class="text-sm text-gray-600 mt-2" x-text="t.quote"></p>
-                  </div>
-                </template>
-              </div>
-            </template>
-
+    <!-- Carousel Container -->
+    <div class="carousel-container relative" x-data="testimonialCarousel()">
+      <div class="carousel-wrapper"
+           :style="`transform: translateX(-${current * 33.333}%);`"
+           @mousedown="startDrag($event)" 
+           @mousemove="onDrag($event)" 
+           @mouseup="endDrag()"
+           @touchstart="startSwipe($event)" 
+           @touchmove="moveSwipe($event)" 
+           @touchend="endSwipe($event)">
+        
+        <!-- Individual Testimonial Cards -->
+        <template x-for="(testimonial, index) in testimonials" :key="index">
+          <div class="testimonial-card flex-shrink-0 w-1/3 px-4">
+            <div class="bg-white rounded-3xl p-6 shadow-lg hover:shadow-xl transition-all duration-300 hover:-translate-y-2 border border-gray-100 text-center h-full">
+              <img :src="testimonial.image" :alt="testimonial.author" class="w-16 h-16 mx-auto rounded-full mb-4 object-cover shadow-lg" />
+              <h4 class="font-bold text-lg text-gray-900 mb-3" x-text="testimonial.author"></h4>
+              <p class="text-gray-700 leading-relaxed italic text-sm" x-text="testimonial.quote"></p>
+            </div>
           </div>
+        </template>
 
-          <!-- Dot Navigation -->
-          <div class="flex justify-center space-x-2 py-4 mt-4">
-            <template x-for="(group, index) in groupedTestimonials" :key="index">
-              <div class="dot" :class="{ 'active': current === index }" @click="goToGroup(index)"></div>
-            </template>
-          </div>
+      </div>
+
+      <!-- Navigation Arrows at Bottom -->
+      <div class="flex justify-center items-center space-x-4 py-6 mt-8">
+        <button @click="prev()" class="bg-white rounded-full p-3 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110 border border-gray-200">
+          <svg class="w-6 h-6 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
+          </svg>
+        </button>
+        
+        <button @click="next()" class="bg-white rounded-full p-3 shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110 border border-gray-200">
+          <svg class="w-6 h-6 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- Trusted By Companies Section -->
+    <div class="overflow-hidden relative">
+      <div class="trusted-track flex items-center gap-16 px-6">
+        <!-- Repeat this group of logos twice for seamless loop -->
+        <div class="flex items-center gap-16 shrink-0">
+          <img src="/company1.svg" alt="Company 1" class="trusted-logo" />
+          <img src="/company2.svg" alt="Company 2" class="trusted-logo" />
+          <img src="/company3.svg" alt="Company 3" class="trusted-logo" />
+          <img src="/company4.svg" alt="Company 4" class="trusted-logo" />
+        </div>
+        <div class="flex items-center gap-16 shrink-0">
+          <img src="/company1.svg" alt="Company 1" class="trusted-logo" />
+          <img src="/company2.svg" alt="Company 2" class="trusted-logo" />
+          <img src="/company3.svg" alt="Company 3" class="trusted-logo" />
+          <img src="/company4.svg" alt="Company 4" class="trusted-logo" />
         </div>
       </div>
-      <div class="overflow-hidden relative mt-10">
-        <!-- Outer scroller -->
-        <div class="trusted-track flex items-center gap-12 px-6">
-          <!-- Repeat this group of logos twice for seamless loop -->
-          <div class="flex items-center gap-12 shrink-0">
-            <img src="/company1.svg" alt="Company 1" class="trusted-logo" />
-            <img src="/company2.svg" alt="Company 2" class="trusted-logo" />
-            <img src="/company3.svg" alt="Company 3" class="trusted-logo" />
-            <img src="/company4.svg" alt="Company 4" class="trusted-logo" />
-          </div>
-          <div class="flex items-center gap-12 shrink-0">
-            <img src="/company1.svg" alt="Company 1" class="trusted-logo" />
-            <img src="/company2.svg" alt="Company 2" class="trusted-logo" />
-            <img src="/company3.svg" alt="Company 3" class="trusted-logo" />
-            <img src="/company4.svg" alt="Company 4" class="trusted-logo" />
-          </div>
-        </div>
-      </div>
-    </section>
+    </div>
+  </div>
+</section>
 
-   
-
-    <!-- Alpine Component Script -->
-    <script is:inline>
-      function testimonialCarousel() {
-        const all = [
-  {
-    quote: "Giovanni was an excellent MC for our Investors Day. He helped curating the agenda, moderated the panels making sure the conversations were engaging and insightful. His charism and presence on stage were a key factor for the success of our event",
-    author: "Andrea Costantini, Founder of SMART Capital",
-    image: "https://randomuser.me/api/portraits/men/90.jpg"
-  },
-  {
-    quote: "I really enjoyed the discussion with Giovanni around trends in private capital. Giovanni showed knowledge of the topic, he asked thoughtful questions and made the podcast a pleasant experience.",
-    author: "Michael Schulmann, Running Point Capital",
-    image: "https://randomuser.me/api/portraits/men/28.jpg"
-  },
-  {
-    quote: "A first-rate conversation—smart questions that let us unpack how private placement life insurance (PPLI) supercharges private deals. Easily one of the most useful half-hours I’ve spent behind a mic.",
-    author: "Michael Schulmann, Running Point Capital",
-    image: "https://randomuser.me/api/portraits/men/28.jpg"
-  },
-  {
-    quote: "High-signal, zero fluff. We covered alternative deal flow, due-diligence stories, and why PPLI is the best-kept secret for high-net-worth families—all in under an hour.",
-    author: "Michael Schulmann, Running Point Capital",
-    image: "https://randomuser.me/api/portraits/men/28.jpg"
-  },
-  {
-    quote: "The dialogue was sharp, informed, and refreshingly practical. If you want the inside track on private markets and efficient structuring, start with this episode.",
-    author: "Michael Schulmann, Running Point Capital",
-    image: "https://randomuser.me/api/portraits/men/28.jpg"
-  },
-  {
-    quote: "I walked in expecting the usual talking-points; I left impressed by the depth we reached on portfolio construction and PPLI. A must-listen for serious allocators and families.",
-    author: "Michael Schulmann, Running Point Capital",
-    image: "https://randomuser.me/api/portraits/men/28.jpg"
-  },
-  {
-    quote: "I really enjoyed my conversation with Giovanni, covering alternatives and digging into Australian and offshore private credit. Giovanni’s insights into strategies, risk management, and trends were invaluable.",
-    author: "Kyle Lydbury, Perpetual",
-    image: "https://randomuser.me/api/portraits/men/35.jpg"
-  },
-  {
-    quote: "I really enjoyed Giovanni's thoughtful questions which shows he understands the private capital space. The conversation was always engaging and flowing smoothly.",
-    author: "Deborah Shire, AXA IM",
-    image: "https://randomuser.me/api/portraits/women/25.jpg"
-  },
-  {
-    quote: "Giovanni has a great and engaging way to conduct interviews. I really enjoyed the podcast!",
-    author: "Maria Sanz, Co-Head Private Equity, YIELCO",
-    image: "https://randomuser.me/api/portraits/women/60.jpg"
-  },
-  {
-    quote: "Giovanni is an excellent host. His questions are always engaging and thought provoking—we discussed the evolution of private assets in a compelling way.",
-    author: "Alan McKnight, CIO, Regions Asset Management",
-    image: "https://randomuser.me/api/portraits/men/55.jpg"
-  },
-  {
-    quote: "Great discussion with Giovanni about fund formation. I enjoyed the thoughtful questions and his gentle inquisitive style that made the discussion engaging.",
-    author: "Ron Geffner, Partner, Sadis & Goldberg LLP",
-    image: "https://randomuser.me/api/portraits/men/52.jpg"
-  },
-  {
-    quote: "Despite five strong guests, Giovanni got the best out of us on the panel with his thoughtful and provoking questions. Humble and inquisitive moderator.",
-    author: "Nicole Kidd, Managing Director at Schroders RF",
-    image: "https://randomuser.me/api/portraits/women/31.jpg"
-  },
-  {
-    quote: "Giovanni is a very charismatic moderator. He created great rapport during our fireside chat and helped surface meaningful CEO insights. A great experience!",
-    author: "Joseph Healy, Founder of Malu Health, ex-CEO Judo Bank",
-    image: "https://randomuser.me/api/portraits/men/48.jpg"
-  },
-  {
-    quote: "Giovanni has been an engaging keynote speaker at our M&A Research Centre, and a valued contributor to our Advisory Board for over 15 years.",
-    author: "Scott Moeller, Bayes Business School",
-    image: "https://randomuser.me/api/portraits/men/75.jpg"
-  },
-  {
-    quote: "Giovanni has helped me understand the power of communication. His public speaking coaching is essential for any executive who wants real impact.",
-    author: "Masha Blinova, Co-Founder, Leaders First",
-    image: "https://randomuser.me/api/portraits/women/85.jpg"
-  },
-  {
-    quote: "Giovanni mentored me over 10 years as I built Leaders First. His strategic input helped refine our brand, grow our community and elevate our communication.",
-    author: "Masha Blinova, Co-Founder, Leaders First",
-    image: "https://randomuser.me/api/portraits/women/85.jpg"
+<style>
+  /* Ensure the carousel is responsive */
+  .carousel-container {
+    position: relative;
+    overflow: hidden;
   }
-];
 
-        const chunk = (arr, size) => {
-          return Array.from({ length: Math.ceil(arr.length / size) }, (_, i) =>
-            arr.slice(i * size, i * size + size)
-          );
-        };
+  .carousel-wrapper {
+    display: flex;
+    transition: transform 0.5s ease;
+  }
 
-        return {
-          current: 0,
-          testimonials: all,
-          groupedTestimonials: chunk(all, 3),
-          next() {
-            this.current = (this.current + 1) % this.groupedTestimonials.length;
-          },
-          prev() {
-            this.current = (this.current - 1 + this.groupedTestimonials.length) % this.groupedTestimonials.length;
-          },
-          goToGroup(index) {
-            this.current = index;
-          },
-          // Touch and Mouse Swipe functionality
-          isDragging: false,
-          startX: 0,
-          moveX: 0,
-          startDrag(event) {
-            this.isDragging = true;
-            this.startX = event.clientX || event.touches[0].clientX;
-          },
-          onDrag(event) {
-            if (this.isDragging) {
-              this.moveX = (event.clientX || event.touches[0].clientX) - this.startX;
-            }
-          },
-          endDrag() {
-            if (this.isDragging) {
-              if (this.moveX > 50) {
-                this.prev();
-              } else if (this.moveX < -50) {
-                this.next();
-              }
-              this.isDragging = false;
-              this.moveX = 0;
-            }
-          },
-          startSwipe(event) {
-            this.isDragging = true;
-            this.startX = event.touches[0].clientX;
-          },
-          moveSwipe(event) {
-            if (this.isDragging) {
-              this.moveX = event.touches[0].clientX - this.startX;
-            }
-          },
-          endSwipe() {
-            if (this.isDragging) {
-              if (this.moveX > 50) {
-                this.prev();
-              } else if (this.moveX < -50) {
-                this.next();
-              }
-              this.isDragging = false;
-              this.moveX = 0;
-            }
-          }
-        };
+  .testimonial-card {
+    flex-shrink: 0;
+    width: 33.333%;
+    padding: 0 8px;
+  }
+
+  /* Handle responsive grid */
+  @media (max-width: 768px) {
+    .testimonial-card {
+      width: 50%;
+    }
+    .carousel-wrapper {
+      transform: translateX(-50%);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .testimonial-card {
+      width: 100%;
+    }
+    .carousel-wrapper {
+      transform: translateX(-100%);
+    }
+  }
+
+  .trusted-track {
+    width: max-content;
+    animation: scroll-left 30s linear infinite;
+  }
+
+  @keyframes scroll-left {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+
+  .trusted-track:hover {
+    animation-play-state: paused;
+  }
+
+  .trusted-logo {
+    height: 48px;
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+  }
+
+  .trusted-logo:hover {
+    opacity: 1;
+  }
+</style>
+
+<!-- Alpine Component Script -->
+<script is:inline>
+  function testimonialCarousel() {
+    const all = [
+      {
+        quote: "Giovanni was an excellent MC for our Investors Day. He helped curating the agenda, moderated the panels making sure the conversations were engaging and insightful. His charism and presence on stage were a key factor for the success of our event",
+        author: "Andrea Costantini, Founder of SMART Capital",
+        image: "https://randomuser.me/api/portraits/men/90.jpg"
+      },
+      {
+        quote: "I really enjoyed the discussion with Giovanni around trends in private capital. Giovanni showed knowledge of the topic, he asked thoughtful questions and made the podcast a pleasant experience.",
+        author: "Michael Schulmann, Running Point Capital",
+        image: "https://randomuser.me/api/portraits/men/28.jpg"
+      },
+      {
+        quote: "A first-rate conversation—smart questions that let us unpack how private placement life insurance (PPLI) supercharges private deals. Easily one of the most useful half-hours I've spent behind a mic.",
+        author: "Michael Schulmann, Running Point Capital",
+        image: "https://randomuser.me/api/portraits/men/28.jpg"
+      },
+      {
+        quote: "High-signal, zero fluff. We covered alternative deal flow, due-diligence stories, and why PPLI is the best-kept secret for high-net-worth families—all in under an hour.",
+        author: "Michael Schulmann, Running Point Capital",
+        image: "https://randomuser.me/api/portraits/men/28.jpg"
+      },
+      {
+        quote: "The dialogue was sharp, informed, and refreshingly practical. If you want the inside track on private markets and efficient structuring, start with this episode.",
+        author: "Michael Schulmann, Running Point Capital",
+        image: "https://randomuser.me/api/portraits/men/28.jpg"
+      },
+      {
+        quote: "I walked in expecting the usual talking-points; I left impressed by the depth we reached on portfolio construction and PPLI. A must-listen for serious allocators and families.",
+        author: "Michael Schulmann, Running Point Capital",
+        image: "https://randomuser.me/api/portraits/men/28.jpg"
+      },
+      {
+        quote: "I really enjoyed my conversation with Giovanni, covering alternatives and digging into Australian and offshore private credit. Giovanni's insights into strategies, risk management, and trends were invaluable.",
+        author: "Kyle Lydbury, Perpetual",
+        image: "https://randomuser.me/api/portraits/men/35.jpg"
+      },
+      {
+        quote: "I really enjoyed Giovanni's thoughtful questions which shows he understands the private capital space. The conversation was always engaging and flowing smoothly.",
+        author: "Deborah Shire, AXA IM",
+        image: "https://randomuser.me/api/portraits/women/25.jpg"
+      },
+      {
+        quote: "Giovanni has a great and engaging way to conduct interviews. I really enjoyed the podcast!",
+        author: "Maria Sanz, Co-Head Private Equity, YIELCO",
+        image: "https://randomuser.me/api/portraits/women/60.jpg"
+      },
+      {
+        quote: "Giovanni is an excellent host. His questions are always engaging and thought provoking—we discussed the evolution of private assets in a compelling way.",
+        author: "Alan McKnight, CIO, Regions Asset Management",
+        image: "https://randomuser.me/api/portraits/men/55.jpg"
+      },
+      {
+        quote: "Great discussion with Giovanni about fund formation. I enjoyed the thoughtful questions and his gentle inquisitive style that made the discussion engaging.",
+        author: "Ron Geffner, Partner, Sadis & Goldberg LLP",
+        image: "https://randomuser.me/api/portraits/men/52.jpg"
+      },
+      {
+        quote: "Despite five strong guests, Giovanni got the best out of us on the panel with his thoughtful and provoking questions. Humble and inquisitive moderator.",
+        author: "Nicole Kidd, Managing Director at Schroders RF",
+        image: "https://randomuser.me/api/portraits/women/31.jpg"
+      },
+      {
+        quote: "Giovanni is a very charismatic moderator. He created great rapport during our fireside chat and helped surface meaningful CEO insights. A great experience!",
+        author: "Joseph Healy, Founder of Malu Health, ex-CEO Judo Bank",
+        image: "https://randomuser.me/api/portraits/men/48.jpg"
+      },
+      {
+        quote: "Giovanni has been an engaging keynote speaker at our M&A Research Centre, and a valued contributor to our Advisory Board for over 15 years.",
+        author: "Scott Moeller, Bayes Business School",
+        image: "https://randomuser.me/api/portraits/men/75.jpg"
+      },
+      {
+        quote: "Giovanni has helped me understand the power of communication. His public speaking coaching is essential for any executive who wants real impact.",
+        author: "Masha Blinova, Co-Founder, Leaders First",
+        image: "https://randomuser.me/api/portraits/women/85.jpg"
+      },
+      {
+        quote: "Giovanni mentored me over 10 years as I built Leaders First. His strategic input helped refine our brand, grow our community and elevate our communication.",
+        author: "Masha Blinova, Co-Founder, Leaders First",
+        image: "https://randomuser.me/api/portraits/women/85.jpg"
       }
-    </script>
-  </body>
-</html>
+    ];
+
+    return {
+      current: 0,
+      testimonials: all,
+      next() {
+        this.current = (this.current + 1) % this.testimonials.length;
+      },
+      prev() {
+        this.current = (this.current - 1 + this.testimonials.length) % this.testimonials.length;
+      },
+      // Touch and Mouse Swipe functionality
+      isDragging: false,
+      startX: 0,
+      moveX: 0,
+      startDrag(event) {
+        this.isDragging = true;
+        this.startX = event.clientX || event.touches[0].clientX;
+      },
+      onDrag(event) {
+        if (this.isDragging) {
+          this.moveX = (event.clientX || event.touches[0].clientX) - this.startX;
+        }
+      },
+      endDrag() {
+        if (this.isDragging) {
+          if (this.moveX > 50) {
+            this.prev();
+          } else if (this.moveX < -50) {
+            this.next();
+          }
+          this.isDragging = false;
+          this.moveX = 0;
+        }
+      },
+      startSwipe(event) {
+        this.isDragging = true;
+        this.startX = event.touches[0].clientX;
+      },
+      moveSwipe(event) {
+        if (this.isDragging) {
+          this.moveX = event.touches[0].clientX - this.startX;
+        }
+      },
+      endSwipe() {
+        if (this.isDragging) {
+          if (this.moveX > 50) {
+            this.prev();
+          } else if (this.moveX < -50) {
+            this.next();
+          }
+          this.isDragging = false;
+          this.moveX = 0;
+        }
+      }
+    };
+  }
+</script>

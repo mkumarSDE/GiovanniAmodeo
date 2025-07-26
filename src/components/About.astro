@@ -1,56 +1,76 @@
----
-// No script needed
----
+<section id="about" class="py-20 bg-white w-full">
+  <div class="max-w-7xl mx-auto px-6 w-full">
+    <div class="text-center mb-16">
+      <h2 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+        About Giovanni Amodeo
+      </h2>
+      <p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed font-medium">
+        Capital markets strategist, C-suite operator, and trusted host to the world's most influential investors
+      </p>
+    </div>
 
-<style>
-  .social-icon {
-    font-size: 24px;
-    color: #4b5563; /* Gray-700 */
-    transition: color 0.3s ease;
-  }
-
-  .social-icon:hover {
-    color: #2563eb; /* Tailwind blue-600 */
-  }
-</style>
-
-<section id="about" class="py-20 px-6 bg-gray-50">
-  <div class="max-w-6xl mx-auto">
-    <!-- Title -->
-    <h2 class="text-4xl font-bold text-gray-800 text-center mb-16">About Me</h2>
-
-    <div class="flex flex-col md:flex-row items-start gap-10">
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-stretch w-full">
       <!-- Profile Image -->
-      <div class="md:w-1/3 w-full">
-        <div class="w-full h-full overflow-hidden rounded-xl border shadow-md aspect-[3/4]">
+      <div class="relative w-full h-full self-stretch">
+        <div class="aspect-square lg:aspect-auto h-full rounded-3xl overflow-hidden shadow-2xl">
           <img
             src="/photo.jpg"
             alt="Giovanni Amodeo"
             class="w-full h-full object-cover"
           />
         </div>
+        <div class="absolute -bottom-6 -right-6 bg-gradient-to-r from-blue-600 to-purple-600 text-white p-6 rounded-2xl shadow-lg">
+          <div class="text-3xl font-bold">300+</div>
+          <div class="text-sm font-medium">Fireside Chats</div>
+        </div>
       </div>
 
-      <!-- Text Content -->
-      <div class="md:w-2/3 flex flex-col justify-center">
-        <p class="text-lg text-gray-700 leading-relaxed">
-          I’m Giovanni Amodeo — a capital markets strategist, C-suite operator, and trusted host to the world’s most influential investors.
-        </p>
-        <p class="text-lg text-gray-700 leading-relaxed mt-4">
-          At ION Analytics, I convene conversations with senior LPs, GPs, founders, and corporate leaders — over 300 fireside chats annually for those who move markets.
-        </p>
-        <p class="text-lg text-gray-700 leading-relaxed mt-4">
-          Previously, as Chief Data Officer at ION Analytics, I unified data strategy across M&A, ECM, DCM, Infrastructure, and Compliance — integrating 30+ databases and leading a global team of 600 analysts and engineers.
-        </p>
-        <p class="text-lg text-gray-700 leading-relaxed mt-4">
-          Earlier in my career, I was Global Editor-in-Chief at Mergermarket, where I scaled one of the industry’s largest editorial teams and launched the firm’s Editorial Analytics unit — combining proprietary content with strategic data insights.
-        </p>
-        <p class="text-lg text-gray-700 leading-relaxed mt-4">
-          Today, I operate where relevance meets relationship — building a curated global network of over 1,000 senior decision-makers, and enabling the kind of access, insight, and alignment that never makes it to stage.
-        </p>
-        <p class="text-lg text-gray-700 leading-relaxed mt-4">
-          Looking for signal over noise in global markets? Let’s connect.
-        </p>
+      <!-- Content -->
+      <div class="space-y-8 w-full bg-gradient-to-br from-gray-50 to-white rounded-3xl p-8 h-full self-stretch shadow-lg border border-gray-100">
+        <div class="space-y-6">
+          <h3 class="text-2xl font-bold text-gray-900 mb-4 flex items-center">
+            <span class="w-8 h-1 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full mr-4"></span>
+            Current Role
+          </h3>
+          <p class="text-gray-700 leading-relaxed text-lg">
+            At <span class="font-semibold text-blue-600">ION Analytics</span>, I convene conversations with senior LPs, GPs, founders, and corporate leaders — over 300 fireside chats annually for those who move markets.
+          </p>
+        </div>
+
+        <div class="space-y-6">
+          <h3 class="text-2xl font-bold text-gray-900 mb-4 flex items-center">
+            <span class="w-8 h-1 bg-gradient-to-r from-purple-600 to-pink-600 rounded-full mr-4"></span>
+            Previous Experience
+          </h3>
+          <p class="text-gray-700 leading-relaxed text-lg">
+            Previously, as <span class="font-semibold text-purple-600">Chief Data Officer</span> at ION Analytics, I unified data strategy across M&A, ECM, DCM, Infrastructure, and Compliance — integrating 30+ databases and leading a global team of 600 analysts and engineers.
+          </p>
+        </div>
+
+        <div class="space-y-6">
+          <h3 class="text-2xl font-bold text-gray-900 mb-4 flex items-center">
+            <span class="w-8 h-1 bg-gradient-to-r from-green-600 to-blue-600 rounded-full mr-4"></span>
+            Global Network
+          </h3>
+          <p class="text-gray-700 leading-relaxed text-lg">
+            Today, I operate where relevance meets relationship — building a curated global network of over <span class="font-semibold text-green-600">1,000 senior decision-makers</span>, and enabling the kind of access, insight, and alignment that never makes it to stage.
+          </p>
+        </div>
+
+        <div class="flex flex-wrap gap-3 pt-4">
+          <div class="bg-gradient-to-r from-blue-500 to-blue-600 text-white px-6 py-3 rounded-full text-sm font-semibold shadow-md hover:shadow-lg transition-all duration-300 transform hover:-translate-y-1">
+            Capital Markets
+          </div>
+          <div class="bg-gradient-to-r from-purple-500 to-purple-600 text-white px-6 py-3 rounded-full text-sm font-semibold shadow-md hover:shadow-lg transition-all duration-300 transform hover:-translate-y-1">
+            Private Equity
+          </div>
+          <div class="bg-gradient-to-r from-green-500 to-green-600 text-white px-6 py-3 rounded-full text-sm font-semibold shadow-md hover:shadow-lg transition-all duration-300 transform hover:-translate-y-1">
+            Investment Strategy
+          </div>
+          <div class="bg-gradient-to-r from-orange-500 to-orange-600 text-white px-6 py-3 rounded-full text-sm font-semibold shadow-md hover:shadow-lg transition-all duration-300 transform hover:-translate-y-1">
+            C-Suite Advisory
+          </div>
+        </div>
       </div>
     </div>
   </div>

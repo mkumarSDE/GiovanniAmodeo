@@ -1,47 +1,102 @@
-# Astro Starter Kit: Minimal
+# Astro + React + Tailwind CSS Project
 
-```sh
-npm create astro@latest -- --template minimal
+This is a modern web development project that combines the power of Astro, React, and Tailwind CSS.
+
+## 🚀 Features
+
+- **Astro**: Modern static site generator with excellent performance
+- **React**: Interactive components with full client-side functionality
+- **Tailwind CSS**: Utility-first CSS framework for rapid UI development
+- **TypeScript**: Full TypeScript support for better development experience
+
+## 📁 Project Structure
+
+```
+src/
+├── components/     # React components
+├── layouts/        # Astro layout components
+├── pages/          # Astro pages (routes)
+└── styles/         # Global styles and Tailwind CSS
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+## 🛠️ Getting Started
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+### Prerequisites
 
-## 🚀 Project Structure
+- Node.js (version 18 or higher)
+- npm or yarn
 
-Inside of your Astro project, you'll see the following folders and files:
+### Installation
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+### Development
+
+Start the development server:
+
+```bash
+npm run dev
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+The site will be available at `http://localhost:4321`
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+### Building for Production
 
-Any static assets, like images, can be placed in the `public/` directory.
+Build the project for production:
 
-## 🧞 Commands
+```bash
+npm run build
+```
 
-All commands are run from the root of the project, from a terminal:
+### Preview Production Build
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+Preview the production build locally:
 
-## 👀 Want to learn more?
+```bash
+npm run preview
+```
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## 🎨 Using React Components
+
+React components can be used in Astro pages with different hydration strategies:
+
+- `client:load` - Hydrates immediately on page load
+- `client:idle` - Hydrates when the browser is idle
+- `client:visible` - Hydrates when the component enters the viewport
+- `client:media` - Hydrates based on media queries
+
+Example:
+```astro
+---
+import MyReactComponent from '../components/MyReactComponent';
+---
+
+<MyReactComponent client:load />
+```
+
+## 🎯 Tailwind CSS
+
+This project uses Tailwind CSS v4 with the new `@import "tailwindcss"` syntax. All Tailwind utility classes are available throughout the project.
+
+## 📝 Available Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run preview` - Preview production build
+- `npm run astro` - Run Astro CLI commands
+
+## 🔧 Configuration
+
+- `astro.config.mjs` - Astro configuration with React and Tailwind CSS
+- `tsconfig.json` - TypeScript configuration
+- `src/styles/global.css` - Global styles with Tailwind CSS import
+
+## 📚 Learn More
+
+- [Astro Documentation](https://docs.astro.build/)
+- [React Documentation](https://react.dev/)
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
