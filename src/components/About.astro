@@ -1,3 +1,6 @@
+---
+---
+
 <section id="about" class="py-16 md:py-20 bg-white w-full">
   <div class="max-w-7xl mx-auto px-4 sm:px-6 w-full">
     <div class="text-center mb-12 md:mb-16">
@@ -12,11 +15,12 @@
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 items-stretch w-full">
       <!-- Profile Image -->
       <div class="relative w-full h-full self-stretch order-2 lg:order-1">
-        <div class="aspect-square lg:aspect-auto h-full rounded-2xl md:rounded-3xl overflow-hidden shadow-2xl">
+        <div class="w-full h-full rounded-2xl md:rounded-3xl overflow-hidden shadow-2xl">
           <img
             src="/photo.jpg"
             alt="Giovanni Amodeo"
             class="w-full h-full object-cover"
+            style="height: 100% !important; max-height: 100% !important; min-height: 100% !important;"
           />
         </div>
         <div class="absolute -bottom-4 -right-4 md:-bottom-6 md:-right-6 bg-gradient-to-r from-blue-600 to-purple-600 text-white p-4 md:p-6 rounded-xl md:rounded-2xl shadow-lg">
@@ -74,4 +78,31 @@
       </div>
     </div>
   </div>
+
+  <style>
+    #about img {
+      height: 100% !important;
+      max-height: 100% !important;
+      min-height: 100% !important;
+      object-fit: cover !important;
+    }
+    #about .aspect-square {
+      height: 100% !important;
+    }
+    #about .aspect-auto {
+      height: 100% !important;
+    }
+    #about .grid {
+      align-items: stretch;
+    }
+    #about .grid > div {
+      height: 100%;
+    }
+    #about .relative {
+      height: 100%;
+    }
+    #about .rounded-2xl {
+      height: 100%;
+    }
+  </style>
 </section>

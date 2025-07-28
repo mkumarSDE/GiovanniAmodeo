@@ -194,7 +194,7 @@ export default function FeaturedVideos() {
                     onClick={showMore}
                     className="bg-gradient-to-r from-blue-600 to-purple-600 text-white px-6 md:px-8 py-3 md:py-4 rounded-full font-semibold hover:from-blue-700 hover:to-purple-700 transition-all duration-300 shadow-lg hover:shadow-xl text-base md:text-lg"
                   >
-                    Show 10 More
+                    Show More
                   </button>
                 </div>
               )}
