@@ -1,8 +1,8 @@
 import { MongoClient } from 'mongodb';
 import type { APIRoute } from 'astro';
 
-const MONGODB_URI = 'mongodb+srv://worksmkumar:oGwcLJr6hXhbRBbh@cluster0.oqejoev.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
-const DB_NAME = 'giovanni';
+const MONGODB_URI = process.env.MONGODB_URI || 'mongodb+srv://worksmkumar:oGwcLJr6hXhbRBbh@cluster0.oqejoev.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
+const DB_NAME = process.env.DB_NAME || 'giovanni';
 
 let cachedClient: MongoClient | null = null;
 
