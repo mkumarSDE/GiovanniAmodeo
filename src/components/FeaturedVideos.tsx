@@ -101,37 +101,52 @@ export default function FeaturedVideos() {
 
   useEffect(() => {
     setIsLoading(true);
-    fetch('/api/videos')
-      .then((res) => res.json())
-      .then((data) => {
-        console.log('Total videos loaded:', data.length);
-        
-        // Filter only videos that have a valid video_id
-        const videosWithId = data.filter((video: Video) => {
-          const hasValidId = video.video_id && 
-                           video.video_id.trim() !== '' && 
-                           video.video_id.length > 0;
-          
-          if (!hasValidId) {
-            console.log('Filtered out video without valid ID:', video.name);
-          }
-          
-          return hasValidId;
-        });
-        
-        console.log('Videos with valid video_id:', videosWithId.length);
-        setVideos(videosWithId);
-        setIsLoading(false);
-        
-        // Fetch thumbnails for all videos with video_id
-        videosWithId.forEach((video: Video) => {
-          fetchWistiaThumbnail(video.video_id);
-        });
-      })
-      .catch((error) => {
-        console.error('Error loading videos:', error);
-        setIsLoading(false);
-      });
+    
+    // For static generation, we'll use placeholder data
+    // In production, you can connect to an external API
+    const placeholderData = [
+      {
+        _id: '1',
+        video_id: 'sample-1',
+        name: 'Sample Video 1',
+        video_title: 'Introduction to Capital Markets',
+        topic: 'Capital Markets',
+        sector: 'Finance',
+        views: 150,
+        size: ['Small', 'Medium'],
+        geography: 'Global',
+        speaker_type: 'Expert',
+        company_size: 'Large',
+        company_name: 'Sample Corp',
+        insights_link: '#',
+        subtitle_file: ''
+      },
+      {
+        _id: '2',
+        video_id: 'sample-2',
+        name: 'Sample Video 2',
+        video_title: 'Strategic Investment Insights',
+        topic: 'Investment Strategy',
+        sector: 'Investment',
+        views: 200,
+        size: ['Large'],
+        geography: 'Global',
+        speaker_type: 'Expert',
+        company_size: 'Large',
+        company_name: 'Sample Corp',
+        insights_link: '#',
+        subtitle_file: ''
+      }
+    ];
+    
+    console.log('Total videos loaded:', placeholderData.length);
+    setVideos(placeholderData);
+    setIsLoading(false);
+    
+    // Fetch thumbnails for all videos with video_id
+    placeholderData.forEach((video: Video) => {
+      fetchWistiaThumbnail(video.video_id);
+    });
   }, []);
 
   const fetchWistiaThumbnail = async (videoId: string) => {
