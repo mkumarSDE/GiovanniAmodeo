@@ -1,18 +1,6 @@
 import type { APIRoute } from 'astro';
-import { MongoClient, ObjectId } from 'mongodb';
 
-const MONGODB_URI = 'mongodb+srv://worksmkumar:oGwcLJr6hXhbRBbh@cluster0.oqejoev.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
-const DB_NAME = 'giovanni';
-
-let cachedClient: MongoClient | null = null;
-
-async function getMongoClient() {
-  if (cachedClient) return cachedClient;
-  const client = new MongoClient(MONGODB_URI);
-  await client.connect();
-  cachedClient = client;
-  return client;
-}
+const FASTAPI_BASE_URL = 'http://localhost:8000';
 
 export const GET: APIRoute = async ({ params }) => {
   try {
@@ -24,21 +12,18 @@ export const GET: APIRoute = async ({ params }) => {
       });
     }
 
-    const client = await getMongoClient();
-    const db = client.db(DB_NAME);
-    const collection = db.collection('videos');
-
-    const video = await collection.findOne({ _id: new ObjectId(id) });
+    const response = await fetch(`${FASTAPI_BASE_URL}/videos/${id}`);
+    const data = await response.json();
     
-    if (!video) {
-      return new Response(JSON.stringify({ error: 'Video not found' }), {
-        status: 404,
+    if (!response.ok) {
+      return new Response(JSON.stringify({ error: data.detail || 'Video not found' }), {
+        status: response.status,
         headers: { 'Content-Type': 'application/json' }
       });
     }
 
-    return new Response(JSON.stringify(video), {
-      status: 200,
+    return new Response(JSON.stringify(data.data), {
+      status: response.status,
       headers: { 'Content-Type': 'application/json' }
     });
   } catch (error) {
@@ -61,24 +46,28 @@ export const PUT: APIRoute = async ({ params, request }) => {
     }
 
     const body = await request.json();
-    const client = await getMongoClient();
-    const db = client.db(DB_NAME);
-    const collection = db.collection('videos');
+    
+    const response = await fetch(`${FASTAPI_BASE_URL}/videos/${id}`, {
+      method: 'PUT',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(body),
+    });
 
-    const result = await collection.updateOne(
-      { _id: new ObjectId(id) },
-      { $set: body }
-    );
-
-    if (result.matchedCount === 0) {
-      return new Response(JSON.stringify({ error: 'Video not found' }), {
-        status: 404,
+    const data = await response.json();
+    
+    if (!response.ok) {
+      return new Response(JSON.stringify({ error: data.detail || 'Failed to update video' }), {
+        status: response.status,
         headers: { 'Content-Type': 'application/json' }
       });
     }
 
-    return new Response(JSON.stringify({ message: 'Video updated successfully' }), {
-      status: 200,
+    return new Response(JSON.stringify({ 
+      message: data.message || 'Video updated successfully' 
+    }), {
+      status: response.status,
       headers: { 'Content-Type': 'application/json' }
     });
   } catch (error) {
@@ -100,21 +89,23 @@ export const DELETE: APIRoute = async ({ params }) => {
       });
     }
 
-    const client = await getMongoClient();
-    const db = client.db(DB_NAME);
-    const collection = db.collection('videos');
+    const response = await fetch(`${FASTAPI_BASE_URL}/videos/${id}`, {
+      method: 'DELETE',
+    });
 
-    const result = await collection.deleteOne({ _id: new ObjectId(id) });
-
-    if (result.deletedCount === 0) {
-      return new Response(JSON.stringify({ error: 'Video not found' }), {
-        status: 404,
+    const data = await response.json();
+    
+    if (!response.ok) {
+      return new Response(JSON.stringify({ error: data.detail || 'Failed to delete video' }), {
+        status: response.status,
         headers: { 'Content-Type': 'application/json' }
       });
     }
 
-    return new Response(JSON.stringify({ message: 'Video deleted successfully' }), {
-      status: 200,
+    return new Response(JSON.stringify({ 
+      message: data.message || 'Video deleted successfully' 
+    }), {
+      status: response.status,
       headers: { 'Content-Type': 'application/json' }
     });
   } catch (error) {

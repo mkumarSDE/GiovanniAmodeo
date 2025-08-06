@@ -1,27 +1,14 @@
-import { MongoClient } from 'mongodb';
 import type { APIRoute } from 'astro';
 
-const MONGODB_URI = 'mongodb+srv://worksmkumar:oGwcLJr6hXhbRBbh@cluster0.oqejoev.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0';
-const DB_NAME = 'giovanni';
-
-let cachedClient: MongoClient | null = null;
-
-async function getMongoClient() {
-  if (cachedClient) return cachedClient;
-  const client = new MongoClient(MONGODB_URI);
-  await client.connect();
-  cachedClient = client;
-  return client;
-}
+const FASTAPI_BASE_URL = 'http://localhost:8000';
 
 export const GET: APIRoute = async () => {
   try {
-    const client = await getMongoClient();
-    const db = client.db(DB_NAME);
-    const videos = await db.collection('videos').find({}).toArray();
+    const response = await fetch(`${FASTAPI_BASE_URL}/videos`);
+    const data = await response.json();
     
-    return new Response(JSON.stringify(videos), {
-      status: 200,
+    return new Response(JSON.stringify(data.data || []), {
+      status: response.status,
       headers: {
         'Content-Type': 'application/json',
       },
@@ -51,34 +38,28 @@ export const POST: APIRoute = async ({ request }) => {
       });
     }
 
-    const client = await getMongoClient();
-    const db = client.db(DB_NAME);
-    const collection = db.collection('videos');
+    const response = await fetch(`${FASTAPI_BASE_URL}/videos`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(body),
+    });
 
-    // Check if video_id already exists
-    const existingVideo = await collection.findOne({ video_id: body.video_id });
-    if (existingVideo) {
-      return new Response(JSON.stringify({ error: 'Video ID already exists' }), {
-        status: 409,
+    const data = await response.json();
+    
+    if (!response.ok) {
+      return new Response(JSON.stringify({ error: data.detail || 'Failed to create video' }), {
+        status: response.status,
         headers: { 'Content-Type': 'application/json' }
       });
     }
 
-    // Add default values
-    const videoData = {
-      ...body,
-      views: body.views || 0,
-      created_at: new Date(),
-      updated_at: new Date()
-    };
-
-    const result = await collection.insertOne(videoData);
-    
     return new Response(JSON.stringify({ 
-      message: 'Video created successfully',
-      id: result.insertedId 
+      message: data.message || 'Video created successfully',
+      id: data.data?._id 
     }), {
-      status: 201,
+      status: response.status,
       headers: { 'Content-Type': 'application/json' }
     });
   } catch (error) {
