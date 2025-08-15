@@ -94,6 +94,13 @@ test_installations() {
     
     # Test frontend build
     cd "$APP_DIR/frontend"
+    
+    # Ensure public assets are available
+    if [ ! -d "public" ] && [ -d "../public" ]; then
+        echo -e "${BLUE}📁 Copying public assets for frontend build...${NC}"
+        cp -r ../public .
+    fi
+    
     export API_URL="http://localhost:3001"
     
     echo -e "${BLUE}Testing frontend build...${NC}"

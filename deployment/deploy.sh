@@ -199,6 +199,17 @@ build_frontend() {
     
     cd "$APP_DIR/frontend"
     
+    # Copy public assets from root to frontend if they don't exist
+    if [ ! -d "public" ] && [ -d "../public" ]; then
+        echo -e "${BLUE}📁 Copying public assets from root to frontend...${NC}"
+        cp -r ../public .
+        echo -e "${GREEN}✅ Public assets copied${NC}"
+    elif [ -d "../public" ]; then
+        echo -e "${BLUE}📁 Syncing public assets from root to frontend...${NC}"
+        rsync -av --delete ../public/ ./public/
+        echo -e "${GREEN}✅ Public assets synced${NC}"
+    fi
+
     # Install dependencies
     if [ -f "package-lock.json" ]; then
         echo -e "${BLUE}Found existing package-lock.json, checking sync...${NC}"
