@@ -46,6 +46,8 @@ const FeaturedVideos = () => {
     search: ''
   });
   const [isLoading, setIsLoading] = useState(true);
+  const [selectedVideo, setSelectedVideo] = useState<(Video & { wistia?: WistiaData }) | null>(null);
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   const fetchVideos = async () => {
     try {
@@ -53,9 +55,16 @@ const FeaturedVideos = () => {
       const { api } = await import('../lib/api.js');
       const videosData = await api.getVideos();
       
-      // Fetch Wistia data for each video
+      // Filter videos to only include those with valid video_id
+      const validVideos = videosData.filter((video: Video) => 
+        video.video_id && video.video_id.trim() !== ''
+      );
+      
+      console.log(`Filtered ${videosData.length} videos to ${validVideos.length} with valid video IDs`);
+      
+      // Fetch Wistia data for each valid video
       const videosWithWistia = await Promise.all(
-        videosData.map(async (video: Video) => {
+        validVideos.map(async (video: Video) => {
           try {
             const wistiaResponse = await fetch(`https://fast.wistia.net/oembed?url=https://giovanni.wistia.com/medias/${video.video_id}&format=json`);
             if (wistiaResponse.ok) {
@@ -64,6 +73,8 @@ const FeaturedVideos = () => {
                 ...video,
                 wistia: wistiaData
               };
+            } else {
+              console.warn(`Wistia API returned ${wistiaResponse.status} for video ${video.video_id}`);
             }
           } catch (error) {
             console.error(`Failed to fetch Wistia data for video ${video.video_id}:`, error);
@@ -86,6 +97,26 @@ const FeaturedVideos = () => {
   useEffect(() => {
     fetchVideos();
   }, []);
+
+  // Handle ESC key to close modal
+  useEffect(() => {
+    const handleEscKey = (event: KeyboardEvent) => {
+      if (event.key === 'Escape' && isModalOpen) {
+        closeVideoModal();
+      }
+    };
+
+    if (isModalOpen) {
+      document.addEventListener('keydown', handleEscKey);
+      // Prevent body scroll when modal is open
+      document.body.style.overflow = 'hidden';
+    }
+
+    return () => {
+      document.removeEventListener('keydown', handleEscKey);
+      document.body.style.overflow = 'unset';
+    };
+  }, [isModalOpen]);
 
   useEffect(() => {
     let filtered = videos;
@@ -148,6 +179,16 @@ const FeaturedVideos = () => {
       company_size: '',
       search: ''
     });
+  };
+
+  const openVideoModal = (video: Video & { wistia?: WistiaData }) => {
+    setSelectedVideo(video);
+    setIsModalOpen(true);
+  };
+
+  const closeVideoModal = () => {
+    setSelectedVideo(null);
+    setIsModalOpen(false);
   };
 
   if (isLoading) {
@@ -254,7 +295,10 @@ const FeaturedVideos = () => {
                         </div>
 
                 <div className="flex space-x-2">
-                  <button className="flex-1 bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors">
+                  <button 
+                    onClick={() => openVideoModal(video)}
+                    className="flex-1 bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700 transition-colors"
+                  >
                     Watch Video
                   </button>
                   {video.insights_link && (
@@ -279,6 +323,117 @@ const FeaturedVideos = () => {
                 </div>
           )}
         </div>
+
+        {/* Video Modal */}
+        {isModalOpen && selectedVideo && (
+          <div 
+            className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50 p-4"
+            onClick={closeVideoModal}
+          >
+            <div 
+              className="bg-white rounded-lg max-w-4xl w-full max-h-[90vh] overflow-y-auto"
+              onClick={(e) => e.stopPropagation()}
+            >
+              <div className="p-6">
+                {/* Modal Header */}
+                <div className="flex justify-between items-start mb-4">
+                  <div>
+                    <h3 className="text-2xl font-bold text-gray-900 mb-2">
+                      {selectedVideo.video_title || selectedVideo.name}
+                    </h3>
+                    <p className="text-gray-600">
+                      {selectedVideo.name} • {selectedVideo.company_name}
+                    </p>
+                  </div>
+                  <button
+                    onClick={closeVideoModal}
+                    className="text-gray-400 hover:text-gray-600 text-2xl font-bold"
+                  >
+                    ×
+                  </button>
+                </div>
+
+                {/* Video Player */}
+                {selectedVideo.wistia?.html ? (
+                  <div 
+                    className="mb-6"
+                    dangerouslySetInnerHTML={{ __html: selectedVideo.wistia.html }}
+                  />
+                ) : selectedVideo.video_id ? (
+                  <div className="mb-6">
+                    <iframe
+                      src={`https://giovanni.wistia.com/medias/${selectedVideo.video_id}`}
+                      width="100%"
+                      height="400"
+                      frameBorder="0"
+                      allowFullScreen
+                      className="rounded-lg"
+                    ></iframe>
+                  </div>
+                ) : (
+                  <div className="mb-6 bg-gray-100 rounded-lg p-8 text-center">
+                    <p className="text-gray-600">Video player not available</p>
+                  </div>
+                )}
+
+                {/* Video Details */}
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+                  <div>
+                    <h4 className="font-semibold text-gray-900 mb-2">Video Details</h4>
+                    <div className="space-y-1 text-sm text-gray-600">
+                      <p><strong>Topic:</strong> {selectedVideo.topic}</p>
+                      <p><strong>Sector:</strong> {selectedVideo.sector}</p>
+                      {selectedVideo.geography && (
+                        <p><strong>Geography:</strong> {selectedVideo.geography}</p>
+                      )}
+                      {selectedVideo.speaker_type && (
+                        <p><strong>Speaker Type:</strong> {selectedVideo.speaker_type}</p>
+                      )}
+                      {selectedVideo.company_size && (
+                        <p><strong>Company Size:</strong> {selectedVideo.company_size}</p>
+                      )}
+                    </div>
+                  </div>
+                  
+                  <div>
+                    <h4 className="font-semibold text-gray-900 mb-2">Additional Info</h4>
+                    <div className="space-y-1 text-sm text-gray-600">
+                      {selectedVideo.views !== undefined && (
+                        <p><strong>Views:</strong> {selectedVideo.views.toLocaleString()}</p>
+                      )}
+                      {selectedVideo.created_at && (
+                        <p><strong>Published:</strong> {new Date(selectedVideo.created_at).toLocaleDateString()}</p>
+                      )}
+                      {selectedVideo.subtitle_file && (
+                        <p><strong>Subtitles:</strong> Available</p>
+                      )}
+                    </div>
+                  </div>
+                </div>
+
+                {/* Action Buttons */}
+                <div className="flex space-x-3">
+                  {selectedVideo.insights_link && (
+                    <a
+                      href={selectedVideo.insights_link}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors"
+                    >
+                      View Insights
+                    </a>
+                  )}
+                  <button
+                    onClick={closeVideoModal}
+                    className="bg-gray-100 text-gray-700 px-6 py-2 rounded-lg hover:bg-gray-200 transition-colors"
+                  >
+                    Close
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        )}
       </section>
   );
 };
