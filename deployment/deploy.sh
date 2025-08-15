@@ -155,12 +155,32 @@ build_backend() {
     cd "$APP_DIR/backend"
     
     # Install dependencies
-    npm ci --production
+    if [ -f "package-lock.json" ]; then
+        echo -e "${BLUE}Using npm ci with existing package-lock.json${NC}"
+        npm ci --omit=dev
+    else
+        echo -e "${BLUE}No package-lock.json found, using npm install${NC}"
+        npm install --omit=dev
+        # Generate package-lock.json for future deployments
+        echo -e "${BLUE}Generated package-lock.json for future deployments${NC}"
+    fi
     
     # Create environment file
     if [ ! -f ".env" ]; then
-        cp env.example .env
-        echo -e "${YELLOW}⚠️  Please update .env file with your configuration${NC}"
+        if [ -f "env.example" ]; then
+            cp env.example .env
+            echo -e "${YELLOW}⚠️  Created .env from template - please update with your configuration${NC}"
+        else
+            # Create basic .env file
+            cat > .env << EOF
+NODE_ENV=production
+PORT=3001
+MONGODB_URI=mongodb+srv://worksmkumar:oGwcLJr6hXhbRBbh@cluster0.oqejoev.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+DB_NAME=giovanni
+CORS_ORIGINS=http://localhost:4321,http://localhost:3000
+EOF
+            echo -e "${GREEN}✅ Created basic .env file${NC}"
+        fi
     fi
     
     echo -e "${GREEN}✅ Backend built${NC}"
@@ -173,7 +193,15 @@ build_frontend() {
     cd "$APP_DIR/frontend"
     
     # Install dependencies
-    npm ci
+    if [ -f "package-lock.json" ]; then
+        echo -e "${BLUE}Using npm ci with existing package-lock.json${NC}"
+        npm ci
+    else
+        echo -e "${BLUE}No package-lock.json found, using npm install${NC}"
+        npm install
+        # Generate package-lock.json for future deployments
+        echo -e "${BLUE}Generated package-lock.json for future deployments${NC}"
+    fi
     
     # Set API URL for production
     export API_URL="http://localhost:$BACKEND_PORT"
