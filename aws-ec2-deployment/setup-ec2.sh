@@ -22,10 +22,49 @@ check_root() {
     fi
 }
 
+# Function to detect OS
+detect_os() {
+    if [ -f /etc/os-release ]; then
+        . /etc/os-release
+        OS=$NAME
+        VER=$VERSION_ID
+    elif type lsb_release >/dev/null 2>&1; then
+        OS=$(lsb_release -si)
+        VER=$(lsb_release -sr)
+    elif [ -f /etc/lsb-release ]; then
+        . /etc/lsb-release
+        OS=$DISTRIB_ID
+        VER=$DISTRIB_RELEASE
+    elif [ -f /etc/debian_version ]; then
+        OS=Debian
+        VER=$(cat /etc/debian_version)
+    elif [ -f /etc/SuSe-release ]; then
+        OS=openSUSE
+    elif [ -f /etc/redhat-release ]; then
+        OS=RedHat
+    else
+        OS=$(uname -s)
+        VER=$(uname -r)
+    fi
+    
+    echo -e "${BLUE}Detected OS: $OS $VER${NC}"
+}
+
 # Function to update system packages
 update_system() {
     echo -e "${YELLOW}📦 Updating system packages...${NC}"
-    sudo yum update -y
+    
+    if [[ "$OS" == *"Ubuntu"* ]] || [[ "$OS" == *"Debian"* ]]; then
+        sudo apt update && sudo apt upgrade -y
+    elif [[ "$OS" == *"Amazon Linux"* ]] || [[ "$OS" == *"CentOS"* ]] || [[ "$OS" == *"Red Hat"* ]]; then
+        sudo yum update -y
+    elif [[ "$OS" == *"Fedora"* ]]; then
+        sudo dnf update -y
+    else
+        echo -e "${RED}❌ Unsupported OS: $OS${NC}"
+        exit 1
+    fi
+    
     echo -e "${GREEN}✅ System packages updated${NC}"
 }
 
@@ -33,9 +72,33 @@ update_system() {
 install_nodejs() {
     echo -e "${YELLOW}📦 Installing Node.js...${NC}"
     
-    # Install Node.js 18.x
-    curl -fsSL https://rpm.nodesource.com/setup_18.x | sudo bash -
-    sudo yum install -y nodejs
+    if [[ "$OS" == *"Ubuntu"* ]] || [[ "$OS" == *"Debian"* ]]; then
+        # Install Node.js 18.x on Ubuntu/Debian
+        curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+        sudo apt-get install -y nodejs
+    elif [[ "$OS" == *"Amazon Linux"* ]] || [[ "$OS" == *"CentOS"* ]] || [[ "$OS" == *"Red Hat"* ]]; then
+        # Install Node.js 18.x on RHEL/CentOS/Amazon Linux
+        curl -fsSL https://rpm.nodesource.com/setup_18.x | sudo bash -
+        sudo yum install -y nodejs
+    elif [[ "$OS" == *"Fedora"* ]]; then
+        # Install Node.js 18.x on Fedora
+        curl -fsSL https://rpm.nodesource.com/setup_18.x | sudo bash -
+        sudo dnf install -y nodejs
+    else
+        # Fallback: try to install via package manager
+        echo -e "${YELLOW}Trying alternative Node.js installation...${NC}"
+        if command -v apt-get >/dev/null 2>&1; then
+            sudo apt-get install -y nodejs npm
+        elif command -v yum >/dev/null 2>&1; then
+            sudo yum install -y nodejs npm
+        elif command -v dnf >/dev/null 2>&1; then
+            sudo dnf install -y nodejs npm
+        else
+            echo -e "${RED}❌ Could not install Node.js automatically${NC}"
+            echo -e "${YELLOW}Please install Node.js 18+ manually and re-run this script${NC}"
+            exit 1
+        fi
+    fi
     
     # Verify installation
     node_version=$(node --version)
@@ -59,7 +122,26 @@ install_pm2() {
 # Function to install Nginx
 install_nginx() {
     echo -e "${YELLOW}📦 Installing Nginx...${NC}"
-    sudo yum install -y nginx
+    
+    if [[ "$OS" == *"Ubuntu"* ]] || [[ "$OS" == *"Debian"* ]]; then
+        sudo apt-get install -y nginx
+    elif [[ "$OS" == *"Amazon Linux"* ]] || [[ "$OS" == *"CentOS"* ]] || [[ "$OS" == *"Red Hat"* ]]; then
+        sudo yum install -y nginx
+    elif [[ "$OS" == *"Fedora"* ]]; then
+        sudo dnf install -y nginx
+    else
+        # Fallback
+        if command -v apt-get >/dev/null 2>&1; then
+            sudo apt-get install -y nginx
+        elif command -v yum >/dev/null 2>&1; then
+            sudo yum install -y nginx
+        elif command -v dnf >/dev/null 2>&1; then
+            sudo dnf install -y nginx
+        else
+            echo -e "${RED}❌ Could not install Nginx automatically${NC}"
+            exit 1
+        fi
+    fi
     
     # Enable and start Nginx
     sudo systemctl enable nginx
@@ -71,7 +153,26 @@ install_nginx() {
 # Function to install Git
 install_git() {
     echo -e "${YELLOW}📦 Installing Git...${NC}"
-    sudo yum install -y git
+    
+    if [[ "$OS" == *"Ubuntu"* ]] || [[ "$OS" == *"Debian"* ]]; then
+        sudo apt-get install -y git
+    elif [[ "$OS" == *"Amazon Linux"* ]] || [[ "$OS" == *"CentOS"* ]] || [[ "$OS" == *"Red Hat"* ]]; then
+        sudo yum install -y git
+    elif [[ "$OS" == *"Fedora"* ]]; then
+        sudo dnf install -y git
+    else
+        # Fallback
+        if command -v apt-get >/dev/null 2>&1; then
+            sudo apt-get install -y git
+        elif command -v yum >/dev/null 2>&1; then
+            sudo yum install -y git
+        elif command -v dnf >/dev/null 2>&1; then
+            sudo dnf install -y git
+        else
+            echo -e "${RED}❌ Could not install Git automatically${NC}"
+            exit 1
+        fi
+    fi
     
     git_version=$(git --version)
     echo -e "${GREEN}✅ Git installed: ${git_version}${NC}"
@@ -81,15 +182,43 @@ install_git() {
 install_tools() {
     echo -e "${YELLOW}📦 Installing additional tools...${NC}"
     
-    # Install useful tools
-    sudo yum install -y \
-        htop \
-        curl \
-        wget \
-        unzip \
-        vim \
-        tree \
-        jq
+    if [[ "$OS" == *"Ubuntu"* ]] || [[ "$OS" == *"Debian"* ]]; then
+        sudo apt-get install -y \
+            htop \
+            curl \
+            wget \
+            unzip \
+            vim \
+            tree \
+            jq
+    elif [[ "$OS" == *"Amazon Linux"* ]] || [[ "$OS" == *"CentOS"* ]] || [[ "$OS" == *"Red Hat"* ]]; then
+        sudo yum install -y \
+            htop \
+            curl \
+            wget \
+            unzip \
+            vim \
+            tree \
+            jq
+    elif [[ "$OS" == *"Fedora"* ]]; then
+        sudo dnf install -y \
+            htop \
+            curl \
+            wget \
+            unzip \
+            vim \
+            tree \
+            jq
+    else
+        # Fallback - install common tools
+        if command -v apt-get >/dev/null 2>&1; then
+            sudo apt-get install -y htop curl wget unzip vim tree jq
+        elif command -v yum >/dev/null 2>&1; then
+            sudo yum install -y htop curl wget unzip vim tree jq
+        elif command -v dnf >/dev/null 2>&1; then
+            sudo dnf install -y htop curl wget unzip vim tree jq
+        fi
+    fi
     
     echo -e "${GREEN}✅ Additional tools installed${NC}"
 }
@@ -98,13 +227,34 @@ install_tools() {
 setup_firewall() {
     echo -e "${YELLOW}🔥 Configuring firewall...${NC}"
     
-    # Allow HTTP and HTTPS traffic
-    sudo firewall-cmd --permanent --add-service=http
-    sudo firewall-cmd --permanent --add-service=https
-    sudo firewall-cmd --permanent --add-port=3000/tcp
-    sudo firewall-cmd --reload
-    
-    echo -e "${GREEN}✅ Firewall configured${NC}"
+    if [[ "$OS" == *"Ubuntu"* ]] || [[ "$OS" == *"Debian"* ]]; then
+        # Ubuntu/Debian uses UFW
+        if command -v ufw >/dev/null 2>&1; then
+            sudo ufw --force enable
+            sudo ufw allow ssh
+            sudo ufw allow http
+            sudo ufw allow https
+            sudo ufw allow 3000/tcp
+            echo -e "${GREEN}✅ UFW firewall configured${NC}"
+        else
+            echo -e "${YELLOW}⚠️  UFW not available, skipping firewall configuration${NC}"
+        fi
+    elif [[ "$OS" == *"Amazon Linux"* ]] || [[ "$OS" == *"CentOS"* ]] || [[ "$OS" == *"Red Hat"* ]] || [[ "$OS" == *"Fedora"* ]]; then
+        # RHEL-based systems use firewalld
+        if command -v firewall-cmd >/dev/null 2>&1; then
+            sudo systemctl enable firewalld
+            sudo systemctl start firewalld
+            sudo firewall-cmd --permanent --add-service=http
+            sudo firewall-cmd --permanent --add-service=https
+            sudo firewall-cmd --permanent --add-port=3000/tcp
+            sudo firewall-cmd --reload
+            echo -e "${GREEN}✅ Firewalld configured${NC}"
+        else
+            echo -e "${YELLOW}⚠️  Firewalld not available, skipping firewall configuration${NC}"
+        fi
+    else
+        echo -e "${YELLOW}⚠️  Unknown firewall system, please configure manually${NC}"
+    fi
 }
 
 # Function to create application directory
@@ -149,8 +299,22 @@ EOF
 setup_ssl() {
     echo -e "${YELLOW}🔒 Setting up SSL certificate...${NC}"
     
-    # Install Certbot
-    sudo yum install -y certbot python3-certbot-nginx
+    if [[ "$OS" == *"Ubuntu"* ]] || [[ "$OS" == *"Debian"* ]]; then
+        sudo apt-get install -y certbot python3-certbot-nginx
+    elif [[ "$OS" == *"Amazon Linux"* ]] || [[ "$OS" == *"CentOS"* ]] || [[ "$OS" == *"Red Hat"* ]]; then
+        sudo yum install -y certbot python3-certbot-nginx
+    elif [[ "$OS" == *"Fedora"* ]]; then
+        sudo dnf install -y certbot python3-certbot-nginx
+    else
+        # Try snap installation as fallback
+        if command -v snap >/dev/null 2>&1; then
+            sudo snap install --classic certbot
+            sudo ln -sf /snap/bin/certbot /usr/bin/certbot
+        else
+            echo -e "${YELLOW}⚠️  Could not install Certbot automatically${NC}"
+            echo -e "${YELLOW}Please install Certbot manually for SSL support${NC}"
+        fi
+    fi
     
     echo -e "${BLUE}📋 SSL setup completed. To get a certificate, run:${NC}"
     echo -e "${BLUE}   sudo certbot --nginx -d your-domain.com${NC}"
@@ -193,6 +357,7 @@ main() {
     echo -e "${BLUE}🔧 Starting EC2 setup...${NC}"
     
     check_root
+    detect_os
     update_system
     install_nodejs
     install_pm2
