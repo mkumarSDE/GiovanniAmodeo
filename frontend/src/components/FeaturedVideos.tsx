@@ -324,116 +324,52 @@ const FeaturedVideos = () => {
           )}
         </div>
 
-        {/* Video Modal */}
-        {isModalOpen && selectedVideo && (
+      {/* Video Modal */}
+      {isModalOpen && selectedVideo && (
           <div 
-            className="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50 p-4"
+            className="video-modal fixed inset-0 bg-black bg-opacity-90 flex items-center justify-center z-50 p-4"
             onClick={closeVideoModal}
           >
             <div 
-              className="bg-white rounded-lg max-w-4xl w-full max-h-[90vh] overflow-y-auto"
+              className="video-container relative w-full max-w-5xl aspect-video"
               onClick={(e) => e.stopPropagation()}
             >
-              <div className="p-6">
-                {/* Modal Header */}
-                <div className="flex justify-between items-start mb-4">
-                  <div>
-                    <h3 className="text-2xl font-bold text-gray-900 mb-2">
-                      {selectedVideo.video_title || selectedVideo.name}
-                    </h3>
-                    <p className="text-gray-600">
-                      {selectedVideo.name} • {selectedVideo.company_name}
-                    </p>
-                  </div>
-                  <button
-                    onClick={closeVideoModal}
-                    className="text-gray-400 hover:text-gray-600 text-2xl font-bold"
-                  >
-                    ×
-                  </button>
-                </div>
+            {/* Close Button */}
+            <button
+              onClick={closeVideoModal}
+                className="close-button absolute -top-12 right-0 text-white hover:text-gray-300 text-3xl font-bold z-10 transition-colors"
+                aria-label="Close video"
+            >
+                ×
+            </button>
 
-                {/* Video Player */}
-                {selectedVideo.wistia?.html ? (
-                  <div 
-                    className="mb-6"
-                    dangerouslySetInnerHTML={{ __html: selectedVideo.wistia.html }}
-                  />
-                ) : selectedVideo.video_id ? (
-                  <div className="mb-6">
-                    <iframe
-                      src={`https://giovanni.wistia.com/medias/${selectedVideo.video_id}`}
-                      width="100%"
-                      height="400"
-                      frameBorder="0"
-                      allowFullScreen
-                      className="rounded-lg"
-                    ></iframe>
-                  </div>
-                ) : (
-                  <div className="mb-6 bg-gray-100 rounded-lg p-8 text-center">
-                    <p className="text-gray-600">Video player not available</p>
-                  </div>
-                )}
-
-                {/* Video Details */}
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
-                  <div>
-                    <h4 className="font-semibold text-gray-900 mb-2">Video Details</h4>
-                    <div className="space-y-1 text-sm text-gray-600">
-                      <p><strong>Topic:</strong> {selectedVideo.topic}</p>
-                      <p><strong>Sector:</strong> {selectedVideo.sector}</p>
-                      {selectedVideo.geography && (
-                        <p><strong>Geography:</strong> {selectedVideo.geography}</p>
-                      )}
-                      {selectedVideo.speaker_type && (
-                        <p><strong>Speaker Type:</strong> {selectedVideo.speaker_type}</p>
-                      )}
-                      {selectedVideo.company_size && (
-                        <p><strong>Company Size:</strong> {selectedVideo.company_size}</p>
-                      )}
-                    </div>
-                  </div>
-                  
-                  <div>
-                    <h4 className="font-semibold text-gray-900 mb-2">Additional Info</h4>
-                    <div className="space-y-1 text-sm text-gray-600">
-                      {selectedVideo.views !== undefined && (
-                        <p><strong>Views:</strong> {selectedVideo.views.toLocaleString()}</p>
-                      )}
-                      {selectedVideo.created_at && (
-                        <p><strong>Published:</strong> {new Date(selectedVideo.created_at).toLocaleDateString()}</p>
-                      )}
-                      {selectedVideo.subtitle_file && (
-                        <p><strong>Subtitles:</strong> Available</p>
-                      )}
-                    </div>
-                  </div>
-                </div>
-
-                {/* Action Buttons */}
-                <div className="flex space-x-3">
-                  {selectedVideo.insights_link && (
-                    <a
-                      href={selectedVideo.insights_link}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors"
-                    >
-                      View Insights
-                    </a>
-                  )}
-                  <button
-                    onClick={closeVideoModal}
-                    className="bg-gray-100 text-gray-700 px-6 py-2 rounded-lg hover:bg-gray-200 transition-colors"
-                  >
-                    Close
-                  </button>
-                </div>
-              </div>
+            {/* Video Player */}
+              {selectedVideo.wistia?.html ? (
+                <div 
+                  className="w-full h-full rounded-lg overflow-hidden"
+                  dangerouslySetInnerHTML={{ 
+                    __html: selectedVideo.wistia.html.replace(
+                      /<iframe[^>]*>/g, 
+                      '<iframe class="w-full h-full" frameborder="0" allowfullscreen>'
+                    )
+                  }}
+                />
+              ) : selectedVideo.video_id ? (
+              <iframe
+                  src={`https://giovanni.wistia.com/medias/${selectedVideo.video_id}`}
+                  className="w-full h-full rounded-lg"
+                  frameBorder="0"
+                  allowFullScreen
+                allow="autoplay; fullscreen"
+              ></iframe>
+              ) : (
+                <div className="w-full h-full bg-gray-800 rounded-lg flex items-center justify-center">
+                  <p className="text-white text-xl">Video player not available</p>
             </div>
+              )}
           </div>
-        )}
+        </div>
+      )}
       </section>
   );
 };

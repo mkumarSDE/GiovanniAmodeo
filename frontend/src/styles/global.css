@@ -126,3 +126,48 @@ img {
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+
+/* Video Modal Styles */
+.video-modal {
+  backdrop-filter: blur(4px);
+}
+
+.video-modal .video-container {
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.8);
+}
+
+/* Ensure Wistia videos fill container */
+.video-modal iframe,
+.video-modal video {
+  width: 100% !important;
+  height: 100% !important;
+  border-radius: 0.5rem;
+}
+
+/* Override Wistia default styles */
+.video-modal .wistia_embed,
+.video-modal .wistia_responsive_padding {
+  width: 100% !important;
+  height: 100% !important;
+  padding: 0 !important;
+}
+
+.video-modal .wistia_responsive_wrapper {
+  width: 100% !important;
+  height: 100% !important;
+  position: relative !important;
+}
+
+/* Mobile video modal adjustments */
+@media (max-width: 768px) {
+  .video-modal .video-container {
+    margin: 1rem;
+    max-width: calc(100vw - 2rem);
+    max-height: calc(100vh - 4rem);
+  }
+  
+  .video-modal .close-button {
+    top: -2.5rem;
+    right: 0;
+  }
+}
