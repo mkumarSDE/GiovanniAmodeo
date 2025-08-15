@@ -93,11 +93,26 @@ build_application() {
     
     cd "$APP_DIR"
     
+    # Install the Node.js adapter if not already installed
+    if ! npm list @astrojs/node > /dev/null 2>&1; then
+        echo -e "${BLUE}Installing Astro Node.js adapter...${NC}"
+        npm install @astrojs/node
+    fi
+    
     # Build the Astro application
     npm run build
     
     if [ $? -eq 0 ]; then
         echo -e "${GREEN}✅ Application built successfully${NC}"
+        
+        # Verify the build output
+        if [ -f "dist/server/entry.mjs" ]; then
+            echo -e "${GREEN}✅ Server entry point found${NC}"
+        else
+            echo -e "${RED}❌ Server entry point not found. Check build output.${NC}"
+            ls -la dist/
+            exit 1
+        fi
     else
         echo -e "${RED}❌ Build failed${NC}"
         exit 1

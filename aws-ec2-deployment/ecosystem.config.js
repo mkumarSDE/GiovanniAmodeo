@@ -2,12 +2,13 @@ module.exports = {
   apps: [
     {
       name: 'giovanni-amodeo',
-      script: './server.js',
+      script: '../dist/server/entry.mjs',
       instances: 'max', // Use all available CPU cores
       exec_mode: 'cluster',
       env: {
         NODE_ENV: 'production',
         PORT: 3000,
+        HOST: '0.0.0.0',
         MONGODB_URI: process.env.MONGODB_URI || 'mongodb+srv://worksmkumar:oGwcLJr6hXhbRBbh@cluster0.oqejoev.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
         DB_NAME: process.env.DB_NAME || 'giovanni',
         CORS_ORIGINS: process.env.CORS_ORIGINS || '*'
@@ -15,6 +16,7 @@ module.exports = {
       env_production: {
         NODE_ENV: 'production',
         PORT: 3000,
+        HOST: '0.0.0.0',
         MONGODB_URI: process.env.MONGODB_URI,
         DB_NAME: process.env.DB_NAME || 'giovanni',
         CORS_ORIGINS: process.env.CORS_ORIGINS

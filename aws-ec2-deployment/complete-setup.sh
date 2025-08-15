@@ -220,7 +220,13 @@ deploy_application() {
     
     # Install dependencies
     echo -e "${BLUE}Installing dependencies...${NC}"
-    npm ci --production
+    npm ci
+    
+    # Install the Node.js adapter if not already installed
+    if ! npm list @astrojs/node > /dev/null 2>&1; then
+        echo -e "${BLUE}Installing Astro Node.js adapter...${NC}"
+        npm install @astrojs/node
+    fi
     
     # Install deployment dependencies
     if [ -d "aws-ec2-deployment" ]; then
@@ -232,6 +238,15 @@ deploy_application() {
     # Build application
     echo -e "${BLUE}Building application...${NC}"
     npm run build
+    
+    # Verify the build output
+    if [ -f "dist/server/entry.mjs" ]; then
+        echo -e "${GREEN}✅ Server entry point found${NC}"
+    else
+        echo -e "${RED}❌ Server entry point not found. Check build output.${NC}"
+        ls -la dist/
+        exit 1
+    fi
     
     # Start with PM2
     echo -e "${BLUE}Starting application with PM2...${NC}"
