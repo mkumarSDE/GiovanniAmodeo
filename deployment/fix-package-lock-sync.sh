@@ -101,7 +101,7 @@ test_installations() {
         cp -r ../public .
     fi
     
-    export API_URL="http://localhost:3001"
+    export API_URL="http://13.232.27.48"
     
     echo -e "${BLUE}Testing frontend build...${NC}"
     if timeout 120 npm run build; then

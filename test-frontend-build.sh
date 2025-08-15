@@ -44,8 +44,8 @@ else
     exit 1
 fi
 
-# Set API URL for build
-export PUBLIC_API_URL="http://localhost:3001/api"
+# Set API URL for build (use EC2 instance IP)
+export API_URL="http://13.232.27.48"
 
 # Test build
 echo -e "${BLUE}🔨 Building frontend...${NC}"

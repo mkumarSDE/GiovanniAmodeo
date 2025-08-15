@@ -228,8 +228,8 @@ build_frontend() {
         echo -e "${BLUE}Generated package-lock.json for future deployments${NC}"
     fi
     
-    # Set API URL for production
-    export API_URL="http://localhost:$BACKEND_PORT"
+    # Set API URL for production (use EC2 instance IP)
+    export API_URL="http://13.232.27.48"
     
     # Build static site
     npm run build

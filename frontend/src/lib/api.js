@@ -1,6 +1,6 @@
 // API client for backend communication
 
-const API_BASE_URL = import.meta.env.API_URL || 'http://localhost:3001';
+const API_BASE_URL = import.meta.env.API_URL || 'http://13.232.27.48';
 
 class ApiClient {
   constructor(baseURL = API_BASE_URL) {
