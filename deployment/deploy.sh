@@ -156,12 +156,19 @@ build_backend() {
     
     # Install dependencies
     if [ -f "package-lock.json" ]; then
-        echo -e "${BLUE}Using npm ci with existing package-lock.json${NC}"
-        npm ci --omit=dev
+        echo -e "${BLUE}Found existing package-lock.json, checking sync...${NC}"
+        # Try npm ci first, if it fails due to sync issues, regenerate lock file
+        if ! npm ci --omit=dev 2>/dev/null; then
+            echo -e "${YELLOW}⚠️  package-lock.json out of sync, regenerating...${NC}"
+            rm -f package-lock.json
+            npm install --omit=dev
+            echo -e "${BLUE}Regenerated package-lock.json${NC}"
+        else
+            echo -e "${GREEN}✅ Used existing package-lock.json${NC}"
+        fi
     else
         echo -e "${BLUE}No package-lock.json found, using npm install${NC}"
         npm install --omit=dev
-        # Generate package-lock.json for future deployments
         echo -e "${BLUE}Generated package-lock.json for future deployments${NC}"
     fi
     
@@ -194,12 +201,19 @@ build_frontend() {
     
     # Install dependencies
     if [ -f "package-lock.json" ]; then
-        echo -e "${BLUE}Using npm ci with existing package-lock.json${NC}"
-        npm ci
+        echo -e "${BLUE}Found existing package-lock.json, checking sync...${NC}"
+        # Try npm ci first, if it fails due to sync issues, regenerate lock file
+        if ! npm ci 2>/dev/null; then
+            echo -e "${YELLOW}⚠️  package-lock.json out of sync, regenerating...${NC}"
+            rm -f package-lock.json
+            npm install
+            echo -e "${BLUE}Regenerated package-lock.json${NC}"
+        else
+            echo -e "${GREEN}✅ Used existing package-lock.json${NC}"
+        fi
     else
         echo -e "${BLUE}No package-lock.json found, using npm install${NC}"
         npm install
-        # Generate package-lock.json for future deployments
         echo -e "${BLUE}Generated package-lock.json for future deployments${NC}"
     fi
     
