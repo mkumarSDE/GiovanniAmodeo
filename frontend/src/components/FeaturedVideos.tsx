@@ -1,5 +1,16 @@
 import { useEffect, useState } from 'react';
 
+// Wistia global type declaration
+declare global {
+  interface Window {
+    Wistia?: {
+      api: (id: string) => {
+        ready: (callback: () => void) => void;
+      } | undefined;
+    };
+  }
+}
+
 interface Video {
   _id: string;
   name: string;
@@ -110,13 +121,22 @@ const FeaturedVideos = () => {
       document.addEventListener('keydown', handleEscKey);
       // Prevent body scroll when modal is open
       document.body.style.overflow = 'hidden';
+      
+      // Initialize Wistia if available
+      setTimeout(() => {
+        if (window.Wistia && selectedVideo?.video_id) {
+          window.Wistia.api(selectedVideo.video_id)?.ready(() => {
+            console.log('Wistia video ready:', selectedVideo.video_id);
+          });
+        }
+      }, 100);
     }
 
     return () => {
       document.removeEventListener('keydown', handleEscKey);
       document.body.style.overflow = 'unset';
     };
-  }, [isModalOpen]);
+  }, [isModalOpen, selectedVideo]);
 
   useEffect(() => {
     let filtered = videos;
@@ -343,29 +363,25 @@ const FeaturedVideos = () => {
                 ×
             </button>
 
-            {/* Video Player */}
+                          {/* Video Player */}
               {selectedVideo.wistia?.html ? (
                 <div 
-                  className="w-full h-full rounded-lg overflow-hidden"
-                  dangerouslySetInnerHTML={{ 
-                    __html: selectedVideo.wistia.html.replace(
-                      /<iframe[^>]*>/g, 
-                      '<iframe class="w-full h-full" frameborder="0" allowfullscreen>'
-                    )
-                  }}
+                  className="w-full h-full rounded-lg overflow-hidden wistia-container"
+                  dangerouslySetInnerHTML={{ __html: selectedVideo.wistia.html }}
                 />
               ) : selectedVideo.video_id ? (
-              <iframe
-                  src={`https://giovanni.wistia.com/medias/${selectedVideo.video_id}`}
+                <iframe
+                  src={`https://fast.wistia.net/embed/iframe/${selectedVideo.video_id}?videoFoam=true`}
                   className="w-full h-full rounded-lg"
                   frameBorder="0"
                   allowFullScreen
-                allow="autoplay; fullscreen"
-              ></iframe>
+                  allow="autoplay; fullscreen"
+                  title={selectedVideo.name}
+                ></iframe>
               ) : (
                 <div className="w-full h-full bg-gray-800 rounded-lg flex items-center justify-center">
                   <p className="text-white text-xl">Video player not available</p>
-            </div>
+                </div>
               )}
           </div>
         </div>
