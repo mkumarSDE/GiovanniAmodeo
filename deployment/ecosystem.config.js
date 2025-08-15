@@ -1,30 +1,29 @@
 module.exports = {
   apps: [
     {
-      name: 'giovanni-amodeo',
-      script: '../dist/server/entry.mjs',
-      instances: 'max', // Use all available CPU cores
+      name: 'giovanni-backend',
+      script: '../backend/src/server.js',
+      instances: 'max',
       exec_mode: 'cluster',
+      cwd: '../backend',
       env: {
         NODE_ENV: 'production',
-        PORT: 3000,
-        HOST: '0.0.0.0',
+        PORT: 3001,
         MONGODB_URI: process.env.MONGODB_URI || 'mongodb+srv://worksmkumar:oGwcLJr6hXhbRBbh@cluster0.oqejoev.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',
         DB_NAME: process.env.DB_NAME || 'giovanni',
-        CORS_ORIGINS: process.env.CORS_ORIGINS || '*'
+        CORS_ORIGINS: process.env.CORS_ORIGINS || 'http://localhost:4321,http://localhost:3000'
       },
       env_production: {
         NODE_ENV: 'production',
-        PORT: 3000,
-        HOST: '0.0.0.0',
+        PORT: 3001,
         MONGODB_URI: process.env.MONGODB_URI,
         DB_NAME: process.env.DB_NAME || 'giovanni',
         CORS_ORIGINS: process.env.CORS_ORIGINS
       },
       // Logging
-      log_file: './logs/combined.log',
-      out_file: './logs/out.log',
-      error_file: './logs/error.log',
+      log_file: './logs/backend-combined.log',
+      out_file: './logs/backend-out.log',
+      error_file: './logs/backend-error.log',
       log_date_format: 'YYYY-MM-DD HH:mm Z',
       
       // Restart policy
@@ -47,24 +46,7 @@ module.exports = {
       max_memory_restart: '1G',
       
       // Process management
-      autorestart: true,
-      
-      // Environment variables
-      env_file: '.env'
+      autorestart: true
     }
-  ],
-
-  // Deployment configuration
-  deploy: {
-    production: {
-      user: 'ec2-user',
-      host: process.env.EC2_HOST,
-      ref: 'origin/main',
-      repo: process.env.GITHUB_REPO,
-      path: '/home/ec2-user/giovanni-amodeo',
-      'pre-deploy-local': '',
-      'post-deploy': 'npm install && npm run build && pm2 reload ecosystem.config.js --env production',
-      'pre-setup': ''
-    }
-  }
+  ]
 };
